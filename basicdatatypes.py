@@ -139,3 +139,10 @@ y = 3
 swap(x, y)
 print(x)
 print(y)
+
+# f string
+
+fst_name = "ada"
+lst_name = "chatter"
+full_name = f"{fst_name}{lst_name}"
+print(full_name)
