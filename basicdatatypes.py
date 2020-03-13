@@ -29,6 +29,23 @@
 # test = checkparity(10)
 # print(test)
 
+# A simple Python function to check
+# whether x is even or odd
+def evenOdd(x):
+    if (x % 2 == 0):
+        print("even")
+    else:
+        print("odd")
+
+
+# Driver code
+evenOdd(2)
+evenOdd(3)
+
+x = int(input("Enter a value:"))
+
+evenodd(x)
+
 
 # Find values within a range or not
 # Given an inRange(x,y) function, write a method that determine whether a pair (x,y) falls in
@@ -68,15 +85,42 @@ minimum(num1, num2)
 
 # enter two random numbers and find maximum between two
 
-def maximum(n1, n2):
-    if n1 > n2:
-        return n1
-    else:
-        return n2
+# def maximum(n1, n2):
+#     if n1 > n2:
+#         return n1
+#     else:
+#         return n2
+#
+#
+# n1 = int(input("Enter a value: "))
+# n2 = int(input("Enter a value: "))
+#
+# result = maximum(n1, n2)
+# print(result, "is a maximum number")
 
 
-n1 = int(input("Enter a value: "))
-n2 = int(input("Enter a value: "))
+# find the cube of first 10 numbers
 
-result = maximum(n1, n2)
-print(result, "is a maximum number")
+# def cube(n):
+#     n = 0
+#     for i in range(0,n+1):
+#         num = n * n * n
+#     num = n  # changing the value inside the function
+#     print(num)
+#     return n
+#
+# cubetest = cube(n)
+
+
+# def firstten():
+#      for i in range(10):
+#          print(i)
+#          return result
+#
+# result = firstten()
+# print(result)
+
+# How to read multiple values from the keyboard in a single line:
+
+a, b = [int(x) for x in input(" Enter 2 numbers:").split()]
+print(" Product is:", a * b)
