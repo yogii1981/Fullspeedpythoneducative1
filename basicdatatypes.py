@@ -167,3 +167,16 @@ print(bicycles[3])
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 message = f"My first bicycle was a {bicycles[0].title()}."
 print(message)
+
+# append the element
+
+motorcycles = ['honda', 'yamaha', 'suzuki']
+print(motorcycles)
+motorcycles.append('ducati')
+print(motorcycles)
+
+# insert the element in the list
+
+motorcycles = ['honda', 'yamaha', 'suzuki']
+motorcycles.insert(0, 'ducati')
+print(motorcycles)
