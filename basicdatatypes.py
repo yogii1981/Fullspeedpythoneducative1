@@ -18,13 +18,65 @@
 
 # Check Parity of a Number
 
-n = int(input("Enter a value: "))  # input a number
+# n = int(input("Enter a value: "))  # input a number
+#
+#
+# def checkparity(n):
+#     result = (n % 2)
+#     return result
+#
+#
+# test = checkparity(10)
+# print(test)
 
 
-def checkparity(n):
-    result = (n % 2)
-    return result
+# Find values within a range or not
+# Given an inRange(x,y) function, write a method that determine whether a pair (x,y) falls in
+# the range ( x < 1/3 < y)/ Essentially you will be implementing the body aof a function that takes two numbers
+# x and y and returns True if x <1/3 < y ; otherwise it returns False.
+
+# x = int(input("Enter a value:"))
+# y = int(input("Enter a value"))
+# def inrange(x, y):
+#     if x < 1/3 < y:
+#         print(True)
+#     else:
+#         print(False)
+
+x = 2
+y = 3
 
 
-test = checkparity(10)
-print(test)
+def inRange(x, y):
+    return (x < 1 / 3 < y)
+
+
+# find a minumum between two numbers
+
+def minimum(first, second):
+    if (first < second):
+        print(first)
+    else:
+        print(second)
+
+
+num1 = 10
+num2 = 20
+
+minimum(num1, num2)
+
+
+# enter two random numbers and find maximum between two
+
+def maximum(n1, n2):
+    if n1 > n2:
+        return n1
+    else:
+        return n2
+
+
+n1 = int(input("Enter a value: "))
+n2 = int(input("Enter a value: "))
+
+result = maximum(n1, n2)
+print(result, "is a maximum number")
