@@ -124,3 +124,18 @@ minimum(num1, num2)
 
 a, b = [int(x) for x in input(" Enter 2 numbers:").split()]
 print(" Product is:", a * b)
+
+
+# Try to guess the output of following code.
+def swap(x, y):
+    temp = x;
+    x = y;
+    y = temp;
+
+
+# Driver code
+x = 2
+y = 3
+swap(x, y)
+print(x)
+print(y)
