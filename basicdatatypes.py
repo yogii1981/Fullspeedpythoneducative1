@@ -144,5 +144,26 @@ print(y)
 
 fst_name = "ada"
 lst_name = "chatter"
-full_name = f"{fst_name}{lst_name}"
+full_name = f"{fst_name} {lst_name}"
 print(full_name)
+
+fst_name = "ada"
+lst_name = "chatter"
+full_name = "{} {}. format(fst"
+print(full_name)
+
+favlang = "  python "
+print(favlang.rstrip())
+print(favlang.lstrip())
+print(favlang.strip())
+
+# indexing in list
+
+bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+print(bicycles[1])
+print(bicycles[3])
+
+# print f string
+bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+message = f"My first bicycle was a {bicycles[0].title()}."
+print(message)
