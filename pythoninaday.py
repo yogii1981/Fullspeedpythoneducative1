@@ -144,7 +144,7 @@ sentence1 = "My bests friends are {}, {} and {}".format(student1, student2, stud
 print(sentence1)
 
 # chap4 question9
-message8 = '{:7.2f} and {:d}'.format(21.3124, 12)
+message8 = '{:7.2f},{:d} and {:d}'.format(21.3124, 12, 15)
 
 message9 = '{1} and {0}'.format(21.3124, 12)
 
@@ -153,8 +153,8 @@ print(message9)
 
 # chap4 question10
 
-x = 12
-y = 7
-quotient = x / y
-message12 = 'The result divided by {} by {} is {:7.4f}, correct to 4 decimal places'.format(x, y, quotient)
+x1 = 12
+y1 = 7
+quotient = (x1 / y1)
+message12 = "The result divided by {:d} by {:d} is {:7.4f} , correct to 4 decimal places".format(x1, y1, quotient)
 print(message12)
