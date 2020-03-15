@@ -142,3 +142,11 @@ student3 = "Carol"
 
 sentence1 = "My bests friends are {}, {} and {}".format(student1, student2, student3)
 print(sentence1)
+
+# chap4 question9
+message8 = '{:7.2f} and {:d}'.format(21.3124, 12)
+
+message9 = '{1} and {0}'.format(21.3124, 12)
+
+print(message8)
+print(message9)
