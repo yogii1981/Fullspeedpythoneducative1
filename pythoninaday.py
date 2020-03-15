@@ -37,4 +37,23 @@ sum = print(a + b)
 product = print(a * b)
 reaminder = print(a % b)
 
+# print the value  after assigning 3 values.
+a = 12
+b = 7
+c = 5
+print((a + b) * c + b - a)
+
+# chapter2 - question 10
+s = 12
+s = s - 3
+print(s)
+
+# question 11
+num = 5
+num = num + 10
+print(num)
+
+# question 12
+
+
 #
