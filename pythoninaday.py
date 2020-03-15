@@ -180,3 +180,8 @@ print(userInput)
 myList = [1, 2, 3, 4, 5, 6]
 print(myList[1])
 print(myList[-2])
+
+# chap4 question15
+testScores = [10, 11, 12, 13]
+print(testScores[3])
+print(testScores[-1])
