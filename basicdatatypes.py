@@ -46,22 +46,35 @@ x = int(input("Enter a value:"))
 
 evenodd(x)
 
-
-# Find values within a range or not
+Find
+values
+within
+a
+range or not
 # Given an inRange(x,y) function, write a method that determine whether a pair (x,y) falls in
 # the range ( x < 1/3 < y)/ Essentially you will be implementing the body aof a function that takes two numbers
 # x and y and returns True if x <1/3 < y ; otherwise it returns False.
 
-# x = int(input("Enter a value:"))
-# y = int(input("Enter a value"))
-# def inrange(x, y):
-#     if x < 1/3 < y:
-#         print(True)
-#     else:
-#         print(False)
+x = int(input("Enter a value:"))
+y = int(input("Enter a value"))
 
-x = 2
-y = 3
+
+def inrange(x, y):
+    if x < 1 / 3 < y:
+        print(True)
+    else:
+        print(False)
+
+
+print(inrange(x, y))
+
+
+
+
+
+
+
+
 
 
 def inRange(x, y):
