@@ -158,3 +158,9 @@ y1 = 7
 quotient = (x1 / y1)
 message12 = "The result divided by {:d} by {:d} is {:7.4f} , correct to 4 decimal places".format(x1, y1, quotient)
 print(message12)
+
+# chap4 question11
+
+number = 2.7123
+number = int(number)
+print(number)
