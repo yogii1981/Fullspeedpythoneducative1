@@ -185,3 +185,19 @@ print(myList[-2])
 testScores = [10, 11, 12, 13]
 print(testScores[3])
 print(testScores[-1])
+
+# chap4 question16
+myListnew = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+mylist1 = myListnew
+myList2 = myListnew[3:6]
+myList3 = myListnew[:5]
+myList4 = myListnew[2:]
+myList5 = myListnew[1:7:2]
+myList6 = myListnew[::3]
+print(myListnew)
+print(mylist1)
+print(myList2)
+print(myList3)
+print(myList4)
+print(myList5)
+print(myList6)
