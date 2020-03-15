@@ -224,3 +224,8 @@ print(q19)
 q20 = ['A', 'B', 'C', 'D', 'E']
 del q20[:3:2]
 print(q20)
+
+# chap4 question21
+daysOfWeek = ['Sun', 'Mon', 'Tue', 'Wed', 'Thurs', 'Fri', 'Sat']
+myDay = daysOfWeek[2]
+print(myDay)
