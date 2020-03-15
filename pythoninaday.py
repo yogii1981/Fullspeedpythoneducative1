@@ -164,3 +164,9 @@ print(message12)
 number = 2.7123
 number = int(number)
 print(number)
+
+# chap4 question12
+s1 = 2.12431
+s1 = str(s1)
+print(s1)
+print(type(s1))
