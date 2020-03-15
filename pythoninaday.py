@@ -166,7 +166,9 @@ number = int(number)
 print(number)
 
 # chap4 question12
-s1 = 2.12431
-s1 = str(s1)
-print(s1)
-print(type(s1))
+s1 = 2.12431  # assign a value to variables1
+s1 = str(s1)  # convert variable s1 to string
+print(s1)  # print s1
+print(type(s1))  # check type of s1 variable
+
+# chap4 question13
