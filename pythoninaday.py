@@ -109,4 +109,11 @@ num = 12
 message = '%d' % (num)
 print(message)
 
-# chap4 question3
+# chap4 question4
+decnum = 1.72498329745
+message = '%5.3f' % (decnum)  # round off to 3 digit
+print(message)
+message = '%7.2f' % (decnum)  # rounf off to 2 digit
+print(message)
+
+# chap4 question5
