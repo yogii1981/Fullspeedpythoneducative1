@@ -150,3 +150,11 @@ message9 = '{1} and {0}'.format(21.3124, 12)
 
 print(message8)
 print(message9)
+
+# chap4 question10
+
+x = 12
+y = 7
+quotient = x / y
+message12 = 'The result divided by {} by {} is {:7.4f}, correct to 4 decimal places'.format(x, y, quotient)
+print(message12)
