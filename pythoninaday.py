@@ -122,3 +122,7 @@ q = 13
 result = (p / q)
 result1 = '%5.3f' % (result)
 print(result1)
+
+# chap4 question6
+message5 = "My name is {} and I am {} year old.".format('Ironman', 18)
+print(message5)
