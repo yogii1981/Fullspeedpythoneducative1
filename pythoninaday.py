@@ -172,3 +172,11 @@ print(s1)  # print s1
 print(type(s1))  # check type of s1 variable
 
 # chap4 question13
+userInput = 12
+userInput = int(userInput)
+print(userInput)
+
+# chap4 question14
+myList = [1, 2, 3, 4, 5, 6]
+print(myList[1])
+print(myList[-2])
