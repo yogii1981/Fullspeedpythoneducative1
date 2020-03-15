@@ -219,3 +219,8 @@ print(emptyList)
 q19 = [1, 2, 3, 4, 5]
 q19[2] = 10
 print(q19)
+
+# chap4 question20
+q20 = ['A', 'B', 'C', 'D', 'E']
+del q20[:3:2]
+print(q20)
