@@ -38,22 +38,71 @@ product = print(a * b)
 reaminder = print(a % b)
 
 # print the value  after assigning 3 values.
-a = 12
+a = 13
 b = 7
 c = 5
-print((a + b) * c + b - a)
+result = (a + c) * b + c - a
+print(result)
 
-# chapter2 - question 10
-s = 12
+# chapter3 - question10
+s = 1
 s = s - 3
 print(s)
 
-# question 11
+# question11
 num = 5
 num = num + 10
 print(num)
 
-# question 12
+# question12
+t = 10
+t = t + 1
+t = t * 2
+t = t / 5
+print(t)
+
+# question13
+p, q = 12, 4
+p += 3
+print(p)
+
+q **= 2
+print(q)
+
+# question14
+r = 11
+s = 7
+r = r + s
+print(r)
+print(s)
+
+# question15
+d = 4
+d = d + 4
+d = 2 * d
+d = d - 4
+d = 2 * d
+d = d / 4
+result = d - 20
+print(result)
+
+# chapter 4
+# chap4 question1
+name1 = 'Jamie'
+name2 = 'Aaron'.upper()
+print(name2)
+
+message = 'The names are %s and %s.' % (name1, name2)
+print(message)
+
+# chap4 question2
+lang1 = 'python'
+lang2 = 'java'
+lang3 = 'c#'
+message1 = 'The most popular programming language are %s, %s and %s.' % (lang1, lang2, lang3)
+print(message1)
+message2 = ' The most popular programming language are %s, $s and $s.' % (lang1, lang3, lang2)
+print(message2)
 
 
 #
