@@ -117,3 +117,8 @@ message = '%7.2f' % (decnum)  # rounf off to 2 digit
 print(message)
 
 # chap4 question5
+p = 111
+q = 13
+result = (p / q)
+result1 = '%5.3f' % (result)
+print(result1)
