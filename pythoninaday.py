@@ -201,3 +201,21 @@ print(myList3)
 print(myList4)
 print(myList5)
 print(myList6)
+
+# chap4 question17
+q17 = [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+sliceA = q17[2:8]  # print values from 13 till 18
+print(sliceA)
+sliceB = q17[2:9:3]  # print values 13,16,19
+print(sliceB)
+
+# chap4 question18
+
+emptyList = []
+emptyList.append = (12, 5, 9, 11)
+print(emptyList)
+
+# chap4 question19
+q19 = [1, 2, 3, 4, 5]
+q19[2] = 10
+print(q19)
