@@ -104,5 +104,9 @@ print(message1)
 message2 = ' The most popular programming language are %s, $s and $s.' % (lang1, lang3, lang2)
 print(message2)
 
+# chap4 question3
+num = 12
+message = '%d' % (num)
+print(message)
 
-#
+# chap4 question3
