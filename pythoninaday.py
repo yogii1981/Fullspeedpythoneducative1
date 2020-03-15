@@ -101,7 +101,7 @@ lang2 = 'java'
 lang3 = 'c#'
 message1 = 'The most popular programming language are %s, %s and %s.' % (lang1, lang2, lang3)
 print(message1)
-message2 = ' The most popular programming language are %s, $s and $s.' % (lang1, lang3, lang2)
+message2 = ' The most popular programming language are %s, %s and %s.' % (lang1, lang3, lang2)
 print(message2)
 
 # chap4 question3
@@ -235,7 +235,15 @@ print(myDay)
 # nameAgeDict = {'John':12,'Mathew':15,'Aaron':13,'John':14,'Melvin':10}  # same "John" is used as the dictionary key twice
 
 
-# chapter5 question 1
+# chapter5 question 2 (use %d) method
 a = 10
 b = 4
-print(a, "-", b, "=", a - b)
+sub = a - b
+# print(a, "-", b, "=", a - b)
+result = print("%d  - %d =  %d" % (a, b, sub))
+
+# chapter5 question 3 (use format method)
+a = 10
+b = 4
+sub = a - b
+result = print("{} - {} = {}".format(a, b, sub))
