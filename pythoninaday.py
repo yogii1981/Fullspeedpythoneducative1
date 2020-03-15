@@ -229,3 +229,13 @@ print(q20)
 daysOfWeek = ['Sun', 'Mon', 'Tue', 'Wed', 'Thurs', 'Fri', 'Sat']
 myDay = daysOfWeek[2]
 print(myDay)
+
+# chap4 question22
+
+# nameAgeDict = {'John':12,'Mathew':15,'Aaron':13,'John':14,'Melvin':10}  # same "John" is used as the dictionary key twice
+
+
+# chapter5 question 1
+a = 10
+b = 4
+print(a, "-", b, "=", a - b)
