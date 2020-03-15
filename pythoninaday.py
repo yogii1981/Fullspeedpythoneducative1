@@ -133,3 +133,12 @@ print(message6)
 
 message7 = 'my favorite colors are {1},{0} and {2}'.format('orange', 'blue', 'black')
 print(message7)
+
+# chap4 question8
+
+student1 = "Aaron"
+student2 = "Beck"
+student3 = "Carol"
+
+sentence1 = "My bests friends are {}, {} and {}".format(student1, student2, student3)
+print(sentence1)
