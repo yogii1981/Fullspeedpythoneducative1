@@ -126,3 +126,10 @@ print(result1)
 # chap4 question6
 message5 = "My name is {} and I am {} year old.".format('Ironman', 18)
 print(message5)
+
+# chap4 question7
+message6 = 'my fav color {}, {} and {}'.format('orange', 'blue', 'black')
+print(message6)
+
+message7 = 'my favorite colors are {1},{0} and {2}'.format('orange', 'blue', 'black')
+print(message7)
