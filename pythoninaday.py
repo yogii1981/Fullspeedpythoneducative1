@@ -300,3 +300,24 @@ print()
 
 city = input("Enter your city from the list above:")
 print('%s is located in %s.' % (city, cities[city]))
+
+# Task
+# Read an integer . For all non-negative integers , print . See the sample for details.
+#
+# Input Format
+#
+# The first and only line contains the integer, .
+#
+# Constraints
+#
+#
+# Output Format
+#
+# Print  lines, one corresponding to each .
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(n):
+        if 1 <= n <= 20:
+            print(i * i)
+        else:
+            print("NONE")
