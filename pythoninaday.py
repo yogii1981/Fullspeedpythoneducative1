@@ -426,3 +426,11 @@ print("Even" if num1 % 2 == 0 else "Odd")
 myNumbers = [1, 21, 12, 45, 2, 7]
 for i in myNumbers:
     print(i)
+
+# chapter6 question8
+marks = [12, 4, 3, 17, 20, 19, 16]
+sum = 0
+for i in marks:
+    sum = sum + i
+
+print(sum)
