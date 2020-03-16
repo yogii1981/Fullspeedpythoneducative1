@@ -383,3 +383,27 @@ def displaygrade(testScore):
 
 
 print(displaygrade(testScore))
+
+# using OOP
+
+# class grades:
+#
+#     def __init__(self,testScore):
+#         self.testScore = testScore
+#         self.testScore = int(input("Enter a testscore:"))
+#
+#     def displaygrade(testScore):
+#         if 70 <= self.testScore <= 100:
+#             print("A")
+#         elif 60 <= self.testScore <= 69:
+#             print("B")
+#         elif 50 <= self.testScore <= 59:
+#             print("C")
+#         elif 0 <= self.testScore <= 49:
+#             print("Fail")
+#         else:
+#             print("Invalid")
+#
+# subjectgrade = grades()
+# subjectgrade.displaygrade()
+# print(subjectgrade.testScore)
