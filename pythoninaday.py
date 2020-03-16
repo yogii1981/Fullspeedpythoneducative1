@@ -460,3 +460,12 @@ print(testScores1)
 ages = {'Abigail': 7, 'Bond': 13, 'Calvin': 4}
 for i, j in ages.items():
     print('%s\t%s' % (j, i))
+
+# chapter6 question12
+
+message = 'Happy Birthday'
+for i in message:
+    if (i == 'a'):
+        print('@')
+    else:
+        print(i)
