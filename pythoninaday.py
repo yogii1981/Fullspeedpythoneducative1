@@ -452,3 +452,4 @@ for number in classRanking:
 testScores1 = {'Aaron': 12, 'Betty': 17, 'Carol': 14}
 for i in testScores1:
     print(i, 'scored', testScores1[i], 'marks.')
+print(testScores1)
