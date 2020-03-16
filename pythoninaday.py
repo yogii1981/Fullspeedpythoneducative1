@@ -336,8 +336,18 @@ a = print(2 > 5)
 b = print(9 < 11)
 c = print(7 >= 3)
 d = print(8 <= 8)
-e = print(10! = 12)
+e = print(10 != 12)
 f = print(6 == 3)
 g = print(4 > 2 and 7 != 9)
 h = print(3 > 1 and 9 == 9 and 1 > 2)
 i = print(2 > 3 or 5 > 1)
+
+# chapter6 question2
+num = 5
+
+if num == 1:
+    print('num is 1')
+elif num == 2:
+    print('num is 2')
+else:
+    print('num is neither 1 nor 2'')
