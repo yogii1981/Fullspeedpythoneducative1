@@ -482,3 +482,8 @@ for i in range(2, 5):
 # C
 for i in range(4, 10, 2):
     print(i)
+
+# chapter6 question14
+i = 0
+while i > 5:
+    print('The value of i = ', i)
