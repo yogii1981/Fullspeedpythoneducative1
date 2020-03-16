@@ -434,3 +434,10 @@ for i in marks:
     sum = sum + i
 
 print(sum)
+
+# chapter6 question9
+classRanking = ['Jane', 'Peter', 'Michael', 'Tom']
+n = 0
+for number in classRanking:
+    n = n + 1
+    print(n, number)
