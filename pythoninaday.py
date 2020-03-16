@@ -447,3 +447,8 @@ n = 0
 for number in classRanking:
     n = n + 1
     print(n, '     ', number)
+
+# chapter6 question10
+testScores1 = {'Aaron': 12, 'Betty': 17, 'Carol': 14}
+for i in testScores1:
+    print(i, 'scored', testScores1[i], 'marks.')
