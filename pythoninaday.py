@@ -363,3 +363,23 @@ else:
     print("You entered zero")
     else:
     print('userInput2 is a positive')
+
+    # chapter6 question 4
+
+    testScore = int(input("Enter a test score between 0 and 100 :"))
+
+
+def displaygrade(testScore):
+    if 70 <= testScore <= 100:
+        print("A")
+    elif 60 <= testScore <= 69:
+        print("B")
+    elif 50 <= testScore <= 59:
+        print("C")
+    elif 0 <= testScore <= 49:
+        print("Fail")
+    else:
+        print("Invalid")
+
+
+print(displaygrade(testScore))
