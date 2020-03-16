@@ -453,3 +453,10 @@ testScores1 = {'Aaron': 12, 'Betty': 17, 'Carol': 14}
 for i in testScores1:
     print(i, 'scored', testScores1[i], 'marks.')
 print(testScores1)
+
+# chapter6 question11
+# Determine the output of the following code without running the code:
+
+ages = {'Abigail': 7, 'Bond': 13, 'Calvin': 4}
+for i, j in ages.items():
+    print('%s\t%s' % (j, i))
