@@ -485,5 +485,5 @@ for i in range(4, 10, 2):
 
 # chapter6 question14
 i = 0
-while i > 5:
+for i < 5:
     print('The value of i = ', i)
