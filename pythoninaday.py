@@ -277,10 +277,15 @@ num1 = input("Enter an integer:")
 num2 = input("Enter an integer:2")
 print("you entered", num1, "and", num2)
 
-# chapter6 question8
+# chapter5 question8
 in1 = input("Enter a value:")
 in2 = input("Enter a value:")
 in1 = int(in1)
 in2 = int(in2)
 average = ((in1 + in2) / 2)
 print('The average is %.3f' % (average))
+
+# chapter5 question9
+name = input("What is your name:")
+favnum = input('Hi %s, "What is your favorite number?:'. % (name))
+print('%s\'s favorite number is %s' % (name, favnum))
