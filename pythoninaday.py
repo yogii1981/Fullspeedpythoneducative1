@@ -321,3 +321,11 @@ if __name__ == '__main__':
             print(i * i)
         else:
             print("NONE")
+
+# chapter5 question11
+
+userInput1 = input("Please enter 5 numbers, separated by commas:")
+inputList = userInput1.split(',')
+print('\nYou entered %s,%s,%s,%s,$s.' % (inputList[0], inputList[1], inputList[2], inputList[3], inputList 4]))
+print('The sum is %d' % (
+            int(userInput1[1]) + int(userInput1[2] + int(userInput1[3]) + int(userInput1[4]) + int(userInput1[5])))
