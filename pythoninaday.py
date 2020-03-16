@@ -270,3 +270,17 @@ print('Day 4 (%s): %s' % (day[4], venue[4]))
 print('Day 5 (%s): %s' % (day[5], venue[5]))
 print('Day 6 (%s): %s' % (day[6], venue[6]))
 print('Day 7 (%s): %s' % (day[7], venue[7]))
+
+# chapter5 question7
+
+num1 = input("Enter an integer:")
+num2 = input("Enter an integer:2")
+print("you entered", num1, "and", num2)
+
+# chapter6 question8
+in1 = input("Enter a value:")
+in2 = input("Enter a value:")
+in1 = int(in1)
+in2 = int(in2)
+average = ((in1 + in2) / 2)
+print('The average is %.3f' % (average))
