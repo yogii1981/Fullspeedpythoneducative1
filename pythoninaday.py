@@ -350,4 +350,17 @@ if num == 1:
 elif num == 2:
     print('num is 2')
 else:
-    print('num is neither 1 nor 2'')
+    print('num is neither 1 nor 2'')    # this will be result as num is 5
+
+    # chapter6 question3
+
+    userInput2 = int(input("Enter a value: "))
+
+    if userInput2 < 0:
+        userInput2 = userInput2 * (-1)
+    print("User input was negative number")
+    print(userInput2)
+    elif userInput2 == 0:
+    print("You entered zero")
+    else:
+    print('userInput2 is a positive')
