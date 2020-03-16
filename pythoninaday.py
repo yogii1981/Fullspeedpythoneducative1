@@ -287,5 +287,16 @@ print('The average is %.3f' % (average))
 
 # chapter5 question9
 name = input("What is your name:")
-favnum = input('Hi %s, "What is your favorite number?:'. % (name))
-print('%s\'s favorite number is %s' % (name, favnum))
+favNum = input('Hi %s, "What is your favorite number?:' % (name))
+print('%s\'s favorite number is %s.' % (name, favNum))
+
+# chapter5 question10
+
+cities = {'Chicago': 'USA', "Los Angeles": "USA", "New York": "USA", "Osaka": "Japan", "Tokyo": "Japan",
+          "Shanghai": "China"}
+
+print('cities: Chicago, Los Angeles, New York, Osaka, Tokyo,Shanghai')
+print()
+
+city = input("Enter your city from the list above:")
+print('%s is located in %s.' % (city, cities[city]))
