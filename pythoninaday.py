@@ -247,3 +247,9 @@ a = 10
 b = 4
 sub = a - b
 result = print("{} - {} = {}".format(a, b, sub))
+
+# chapter5 question 4
+
+# Determine the output withour running code
+
+print(''' Date: \nJan11, 2019 Time: \n1.28pm Venue:\nConvention Center Number of Pax:\n30''')
