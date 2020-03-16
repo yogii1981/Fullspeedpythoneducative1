@@ -259,17 +259,7 @@ print(''' Date: \nJan11, 2019 Time: \n1.28pm Venue:\nConvention Center Number of
 print('This is a single quotation (\')mark and this is a double (") mark.')
 
 # chapter6 question 6
-The
-code
-below
-shows
-the
-last
-few
-lines
-of
-a
-program:
+# The code below shows the last few lines of a program:
 day = {1: 'Tuesday', 2: 'Wednesday', 3: 'Thursday', 4: 'Friday', 5: 'Saturday', 6: 'Sunday', 7: 'Monday'}
 venue = {1: 'Tokyo to Osaka', 2: 'Osaka', 3: 'Kyoto', 4: 'Kyoto to Nara', 5: 'Nara to Osaka', 6: 'Osaka to Tokyo',
          7: 'Tokyo'}
