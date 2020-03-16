@@ -329,3 +329,15 @@ inputList = userInput1.split(',')
 print('\nYou entered %s,%s,%s,%s,$s.' % (inputList[0], inputList[1], inputList[2], inputList[3], inputList 4]))
 print('The sum is %d' % (
             int(userInput1[1]) + int(userInput1[2] + int(userInput1[3]) + int(userInput1[4]) + int(userInput1[5])))
+
+# chapter6 question1
+
+a = print(2 > 5)
+b = print(9 < 11)
+c = print(7 >= 3)
+d = print(8 <= 8)
+e = print(10! = 12)
+f = print(6 == 3)
+g = print(4 > 2 and 7 != 9)
+h = print(3 > 1 and 9 == 9 and 1 > 2)
+i = print(2 > 3 or 5 > 1)
