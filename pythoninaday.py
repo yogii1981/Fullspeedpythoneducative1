@@ -436,8 +436,14 @@ for i in marks:
 print(sum)
 
 # chapter6 question9
+# Given that classRanking = ['Jane', 'Peter', 'Michael', 'Tom'], use a for loop and the enumerate() method to display the following output:
+# 1      Jane
+# 2      Peter
+# 3      Michael
+# 4      Tom
+
 classRanking = ['Jane', 'Peter', 'Michael', 'Tom']
 n = 0
 for number in classRanking:
     n = n + 1
-    print(n, number)
+    print(n, '     ', number)
