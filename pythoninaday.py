@@ -407,3 +407,8 @@ print(displaygrade(testScore))
 # subjectgrade = grades()
 # subjectgrade.displaygrade()
 # print(subjectgrade.testScore)
+
+
+# chapter6 question 5
+num = 5
+print('orange juice' if num == 5 else 'peanut butter')
