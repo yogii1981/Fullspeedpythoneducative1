@@ -412,3 +412,17 @@ print(displaygrade(testScore))
 # chapter6 question 5
 num = 5
 print('orange juice' if num == 5 else 'peanut butter')
+
+# chapter6 question6
+num1 = int(input("Enter an integer: "))
+print("Even" if num1 % 2 == 0 else "Odd")
+# if num1 % 2 == 0:
+#     print("Even")
+# else:
+#     print("Odd")
+
+
+# chapter6 question7
+myNumbers = [1, 21, 12, 45, 2, 7]
+for i in myNumbers:
+    print(i)
