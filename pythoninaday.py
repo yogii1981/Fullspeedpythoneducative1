@@ -573,6 +573,16 @@ for i in short_message:
         print(i, end=' ')
 print()
 
+# chapter6 question 21
+for i in range(10):
+    userInputtest = input('Enter a number %d' % (i + 1))
+
+    # Assign the firsrt user input
+    # to largest and smallest
+    if i == 0:
+        largest = userInputtest
+        smallest = userInputtest
+
 
 
 
