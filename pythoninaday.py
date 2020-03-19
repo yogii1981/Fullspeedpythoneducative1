@@ -511,13 +511,29 @@ while userInput5 != "END":
 # chapter6 question 17
 sum = 0
 userInput6 = int(input("enter a  positive number  or -1 to Exit:"))
-while userInput5 != -1:
+while userInput6 != -1:
     sum += userInput6
     print('Sum = ', sum)
     print()
     userInput6 = int(input('Enter a positive number or -1 to exit:'))
 
     print('Goodbye')
+
+# chapter6 question 18
+sum = 0
+userInput6 = int(input("enter a  positive number  or -1 to Exit:"))
+while userInput6 != -1:
+    if userInput6 <= 0:
+        print('You entered a non positive number')
+    else:
+        sum += userInput6
+    print('Sum = ', sum)
+    print()
+    userInput6 = int(input('Enter a positive number or -1 to exit:'))
+    print("Goodbye")
+
+
+
 
 
 # Datacamp - Introduction to python
