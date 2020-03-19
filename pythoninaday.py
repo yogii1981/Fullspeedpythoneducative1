@@ -490,6 +490,16 @@ while i < 5:
     i = i + 1
 
 # chapter6 question 15
+# determine the output of the following code without running code:
+i = 5
+while i > 0:
+    if i % 3 == 0:
+        print(i, 'is the multiple of 3')
+    else:
+        print(i, 'is not a multiple of 3')
+
+    i = i - 1
+
 
 
 # Datacamp - Introduction to python
@@ -503,3 +513,16 @@ store = np.array(["X", "Z", "Z", "Z"])
 cost = np.array([7, 1, 9, 4])
 select_cost = cost[store == "X"]
 print(select_cost)
+
+# what is the output of this code?
+p = ['x', 'k']
+q = p + ['z']
+print(q)
+
+# complete the code to return the output
+import numpy as np
+
+store = np.array([0, 9, 0, 1])
+cost = np.array([82, 82, 73, 73])
+np_cols = ((store, cost))
+print(np_cols)
