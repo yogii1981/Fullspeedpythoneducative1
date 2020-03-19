@@ -557,6 +557,25 @@ b = "B"
 print("A", end=' ')
 print("B", end=' ')
 
+# chapter6 question 20
+
+short_message = input("Enter a message:")
+j = 0  # cunt of a
+
+for i in short_message:
+    if j == "a":
+        j = j + 1
+        if j <= 3:
+            print('@', end=' ')
+        else:
+            print("A", end=' ')
+
+
+
+
+
+
+
 
 # Datacamp - Introduction to python
 p = [[3, "A", 5], [2, 6, "B"], ["C", "D", "E"]]
