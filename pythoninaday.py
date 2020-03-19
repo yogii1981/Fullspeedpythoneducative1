@@ -500,6 +500,16 @@ while i > 0:
 
     i = i - 1
 
+# chapter6 question 16
+userInput5 = int(input("enter a number: nor End to Exit"))
+while userInput5 != "END":
+    print(userInput5)
+    userInput5 = input('Enter a number or END to exit:')
+
+    print('Goodbye')
+
+
+
 
 
 # Datacamp - Introduction to python
