@@ -488,3 +488,11 @@ i = 0
 while i < 5:
     print('The value of i = ', i)
     i = i + 1
+
+# chapter6 question 15
+
+
+# Datacamp - Introduction to python
+p = [[3, "A", 5], [2, 6, "B"], ["C", "D", "E"]]
+# print output [2,6]
+print(p[1][0:2])
