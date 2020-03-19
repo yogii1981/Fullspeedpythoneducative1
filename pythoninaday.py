@@ -496,3 +496,10 @@ while i < 5:
 p = [[3, "A", 5], [2, 6, "B"], ["C", "D", "E"]]
 # print output [2,6]
 print(p[1][0:2])
+
+import numpy as np
+
+store = np.array(["X", "Z", "Z", "Z"])
+cost = np.array([7, 1, 9, 4])
+select_cost = cost[store == "X"]
+print(select_cost)
