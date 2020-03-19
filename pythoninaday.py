@@ -532,8 +532,15 @@ while userInput6 != -1:
     userInput6 = int(input('Enter a positive number or -1 to exit:'))
     print("Goodbye")
 
+# chapter6 question 19
 
+p = int(input("enter an number of rows :"))
+q = int(input("enter a number of asterik:"))
 
+for i in range(p):
+    for j in range(q):
+        print('*', end=' ')
+    print()
 
 
 # Datacamp - Introduction to python
