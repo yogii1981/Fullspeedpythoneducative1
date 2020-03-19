@@ -501,15 +501,23 @@ while i > 0:
     i = i - 1
 
 # chapter6 question 16
-userInput5 = int(input("enter a number: nor End to Exit"))
+userInput5 = int(input("enter a number: or End to Exit:"))
 while userInput5 != "END":
     print(userInput5)
     userInput5 = input('Enter a number or END to exit:')
 
     print('Goodbye')
 
+# chapter6 question 17
+sum = 0
+userInput6 = int(input("enter a  positive number  or -1 to Exit:"))
+while userInput5 != -1:
+    sum += userInput6
+    print('Sum = ', sum)
+    print()
+    userInput6 = int(input('Enter a positive number or -1 to exit:'))
 
-
+    print('Goodbye')
 
 
 # Datacamp - Introduction to python
