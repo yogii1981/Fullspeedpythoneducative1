@@ -560,7 +560,7 @@ print("B", end=' ')
 # chapter6 question 20
 
 short_message = input("Enter a message:")
-j = 0  # cunt of a
+j = 0  # count of a
 
 for i in short_message:
     if j == "a":
@@ -569,6 +569,9 @@ for i in short_message:
             print('@', end=' ')
         else:
             print("A", end=' ')
+    else:
+        print(i, end=' ')
+print()
 
 
 
