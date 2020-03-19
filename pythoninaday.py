@@ -542,6 +542,21 @@ for i in range(p):
         print('*', end=' ')
     print()
 
+# test program
+a = "A"
+b = "B"
+print(a)
+print(b)
+
+# By default, the print() function adds a new line at the end of its output.
+# If you do not want that to happen, you have to pass in end = '' to the print() function.
+# This will remove the new line. Note that '' is made up of two single quotes, not a single double qiote
+#
+
+b = "B"
+print("A", end=' ')
+print("B", end=' ')
+
 
 # Datacamp - Introduction to python
 p = [[3, "A", 5], [2, 6, "B"], ["C", "D", "E"]]
