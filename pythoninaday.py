@@ -614,3 +614,29 @@ store = np.array([0, 9, 0, 1])
 cost = np.array([82, 82, 73, 73])
 np_cols = ((store, cost))
 print(np_cols)
+
+# Operator	Name	Description
+# a + b	Addition	Sum of a and b
+# a - b	Subtraction	Difference of a and b
+# a * b	Multiplication	Product of a and b
+# a / b	True division	Quotient of a and b
+# a // b	Floor division	Quotient of a and b, removing fractional parts
+# a % b	Modulus	Integer remainder after division of a by b
+# a ** b	Exponentiation	a raised to the power of b
+# -a	Negation	The negative of a
+
+
+p = 27
+q = 10
+add = p + q
+subtract = p - q
+multiplication = p * q
+truedivision = p / q
+floordivision = p // q
+moudul = p % q
+print(add)
+print(subtract)
+print(multiplication)
+print(truedivision)
+print(floordivision)
+print(moudul)
