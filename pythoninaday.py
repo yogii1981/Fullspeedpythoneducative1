@@ -575,7 +575,7 @@ print()
 
 # chapter6 question 21
 for i in range(10):
-    userInputtest = input('Enter a number %d' % (i + 1))
+    userInputtest = input('Enter a number %d:' % (i + 1))
 
     # Assign the first user input
     # to largest and smallest
@@ -638,17 +638,17 @@ print(np_cols)
 # -a	Negation	The negative of a
 
 
-p = 27
-q = 10
-add = p + q
-subtract = p - q
-multiplication = p * q
-truedivision = p / q
-floordivision = p // q
-moudul = p % q
-print(add)
-print(subtract)
-print(multiplication)
-print(truedivision)
-print(floordivision)
-print(moudul)
+# p = 27
+# q = 10
+# add = p + q
+# subtract = p - q
+# multiplication = p * q
+# truedivision = p / q
+# floordivision = p // q
+# moudul = p % q
+# print(add)
+# print(subtract)
+# print(multiplication)
+# print(truedivision)
+# print(floordivision)
+# print(moudul)
