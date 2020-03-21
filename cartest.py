@@ -6,7 +6,8 @@ class car:
         self.__price = pPrice  # adding two underscore makes "price" variable private and no one can update it anymore outside the class
 
     def __str__(self):
-        return 'Make = %s, Model = %s, Color = %s, Price = %s' % (self.make, self.model, self.color, self.__price)
+        return 'Make = %s, Model = %s, Color = %s, Price = %s' % (
+        self.make, self.model, self.color, self.__price)  # you need to call same self variable which is private
 
     def selectColor(self):
         self.color = input('What is the new color? ')
@@ -19,9 +20,11 @@ class car:
 myFirstCar = car("Honda", "Civic", "White", 15000)
 print(myFirstCar.make)
 
-# print(myFirstCar.__str__())
-# myFirstCar.price = 18000
-# print(myFirstCar.__str__())
+print(myFirstCar.__str__())
+myFirstCar.price = 18000
+print(myFirstCar.__str__())
 #
 # myFirstCar.selectColor()
 # print(myFirstCar.__str__())
+
+print(myFirstCar.calculateTax())
