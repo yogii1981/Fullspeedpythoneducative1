@@ -13,7 +13,7 @@ class car:
         self.color = input('What is the new color? ')
 
     def calculateTax(self):
-        priceWithTax = 1.1 * self.price
+        priceWithTax = 1.1 * self.__price  # you need to call same self variable which is private
         return priceWithTax
 
 
