@@ -1,4 +1,4 @@
-class user:
+class User:
 
     def __init__(self, username=None, password=None):
         self.__username = username
@@ -19,7 +19,7 @@ class user:
             print("incorrect username or password")
 
 
-test = user()
+test = User()
 
 test.login()
 test.password = 2341234
