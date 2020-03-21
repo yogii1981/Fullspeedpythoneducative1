@@ -620,12 +620,12 @@ q = p + ['z']
 print(q)
 
 # complete the code to return the output
-import numpy as np
-
-store = np.array([0, 9, 0, 1])
-cost = np.array([82, 82, 73, 73])
-np_cols = ((store, cost))
-print(np_cols)
+# import numpy as np
+#
+# store = np.array([0, 9, 0, 1])
+# cost = np.array([82, 82, 73, 73])
+# np_cols = ((store, cost))
+# print(np_cols)
 
 # Operator	Name	Description
 # a + b	Addition	Sum of a and b
