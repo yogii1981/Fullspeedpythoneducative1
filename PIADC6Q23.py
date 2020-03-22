@@ -1,4 +1,4 @@
-# python in a day chapter 6 question 22
+# python in a day chapter 6 question 23
 
 # Write a program that prompts the user to enter two integers, a and b.
 # The program then calculates the product of all integers between a and b inclusive
