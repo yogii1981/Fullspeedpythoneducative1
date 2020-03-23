@@ -32,4 +32,4 @@ print(package.netsalary())
 # (jacob,10, manager, 15 bonus percent)
 # (santosh, 9, team leade, 9 percent)
 
-# name, grade, job title, salary, bonus(private , 5% of slary), grade ( 5 to 8)
+# name, grade, job title, salary, bonus(private , 5% of salary), grade ( 5 to 8)
