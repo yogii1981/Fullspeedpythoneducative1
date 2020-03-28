@@ -17,8 +17,8 @@ class Employee:
         return self.__bonus
 
     def netsalary(self):
-        ntsalary = self.salary + self.__bonus
-        return ntsalary
+        nt_salary = self.salary + self.__bonus
+        return nt_salary
 
 
 package = Employee("Jacob", 10, "Manager", 100000)
@@ -26,8 +26,8 @@ print(package.calculatebonus())
 print(package.netsalary())
 
 packageOne = Employee("Santosh", 9, "Team Lead", 100000)
-print(package.calculatebonus())
-print(package.netsalary())
+print(packageOne.calculatebonus())
+print(packageOne.netsalary())
 
 # (jacob,10, manager, 15 bonus percent)
 # (santosh, 9, team leade, 9 percent)
