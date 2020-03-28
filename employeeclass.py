@@ -20,14 +20,30 @@ class Employee:
         nt_salary = self.salary + self.__bonus
         return nt_salary
 
+    # Setters and Getters ( a.k.a - Accessor and Mutator methods)
+    def setBonus(self, extra_bonus):
+        self.__bonus = extra_bonus
 
-package = Employee("Jacob", 10, "Manager", 100000)
-print(package.calculatebonus())
-print(package.netsalary())
+    def getBonus(self):
+        return self.__bonus
 
-packageOne = Employee("Santosh", 9, "Team Lead", 100000)
-print(packageOne.calculatebonus())
-print(packageOne.netsalary())
+    def newbonuscalculation(self):
+        final_salary = (self.salary * self.__bonus) + self.salary
+        return final_salary
+
+
+employeeOnePackage = Employee("Jacob", 10, "Manager", 100000)
+employeeOnePackage.setBonus(0.25)
+print(employeeOnePackage.newbonuscalculation())
+print(employeeOnePackage.calculatebonus())
+# print(employeeOnePackage.getnewbonuscalculation())
+# print(employeeOnePackage.calculatebonus())
+print(employeeOnePackage.netsalary())
+# print(employeeOnePackage.name)
+
+employeeTwoPackage = Employee("Santosh", 9, "Team Lead", 100000)
+print(employeeTwoPackage.calculatebonus())
+print(employeeTwoPackage.netsalary())
 
 # (jacob,10, manager, 15 bonus percent)
 # (santosh, 9, team leade, 9 percent)
