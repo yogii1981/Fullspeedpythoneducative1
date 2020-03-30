@@ -1,5 +1,5 @@
 # chapter 6 question 26
-# the factorial of a number is denoted by n!
+# the factorial of a number is denoted by n! and check whethe the number is positive or not
 n = int(input("Enter a number:"))
 if n <= 0:
     print('The number enter is not positive')
