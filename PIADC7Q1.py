@@ -1,16 +1,13 @@
+# write a program which greet user with "hello, World" message
 class Greetings:
 
-    def __init__(self, name=None):
-        self.name = name
+    def __init__(self, display=None):
+        self.display = display
 
-    def username(self):
-        inputname = input("enter a username:")
-        return inputname
 
     def greetuser(self):
-        self.name = (self.username(), 'Hello World')
-        return self.name
-
+        self.display = ('Hello, World')
+        return self.display
 
 greetuserone = Greetings()
 print(greetuserone.greetuser())
