@@ -21,3 +21,5 @@ print(company_name)
 
 price_dict = company_name.info
 print(price_dict)
+
+print(price_dict['dividendRate'])
