@@ -6,7 +6,7 @@ class Calculator:
     def ___init__(self, action=None):
         self.action = action
 
-    def calculateQuotient(self):
+    def calculateQuotient2(self):
         try:
             integer1 = int(input("Enter an integer1:"))
             integer2 = int(input("Enter an integer2:"))
@@ -17,4 +17,4 @@ class Calculator:
 
 
 quotient = Calculator()
-print(quotient.calculateQuotient())
+print(quotient.calculateQuotient2())
