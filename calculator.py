@@ -1,7 +1,7 @@
 # write a calculator program where user enters two numbers
 # and also use try and except to perform error handling
 # in this program has to enter the integer again and again and
-# not efficent method
+# not an efficent method
 
 
 class Calculator:
