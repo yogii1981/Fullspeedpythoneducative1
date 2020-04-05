@@ -1,12 +1,12 @@
-a = 10
-b = 10
-print(a is b)
+c = 10
+d = 10
+print(c is d)
 
 a1 = "teckze"
 b1 = "teckze"
 print(id(a1))
 print(id(b1))
-print(a is b)
+print(a1 is b1)
 
 list1 = ["one", "two", "three"]
 list2 = ["one", "two", "three"]

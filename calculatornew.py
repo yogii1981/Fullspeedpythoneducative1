@@ -1,3 +1,6 @@
+import pythoninadayfunction
+
+
 class Calculatornew:
 
     def ___init__(self, integer1=None, integer2=None):
@@ -21,20 +24,27 @@ class Calculatornew:
         resultsubtraction = int(self.integer1 - self.integer2)
         return resultsubtraction
 
-    def multiplication(self):
-        resultmuliplication = int(self.integer1 * self.integer2)
-        return resultmuliplication
+    #
+    # def multiplication(self):
+    #     resultmuliplication = int(self.integer1 * self.integer2)
+    #     return resultmuliplication
 
     def remainder(self):
         resultremainder = int(self.integer1 % self.integer2)
         return resultremainder
 
 
-calculate = Calculatornew()
-calculate.enternumber()
+def main():
+    calculate = Calculatornew()
 
-print(calculate.calculateQuotient())
-print(calculate.multiplication())
-print(calculate.addition())
-print(calculate.subtraction())
-print(calculate.remainder())
+    calculate.enternumber()
+    print(calculate.addition())
+    print(calculate.subtraction())
+    print(calculate.remainder())
+    print(calculate.calculateQuotient())
+
+
+if __name__ == '__main__':
+    main()
+    newValue = pythoninadayfunction.valueYear()
+    print(pythoninadayfunction.is_leap(newValue))
