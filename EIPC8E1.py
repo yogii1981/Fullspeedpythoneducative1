@@ -18,4 +18,9 @@ b = 5
 c = 6
 print("integerb: %i and integerc: %i are smaller than integera:%i" % (b, c, a))
 
-# print
+# print () with replacement operator {}
+name = "teckze"
+salary = 10000
+gf = "ritika"
+print("{x} has girlfiend:{y} and he has salary:{z}".format(x=name, y=gf, z=salary))
+print("{0} has girlfiend:{1} and he has salary:{2}".format(name, gf, salary))
