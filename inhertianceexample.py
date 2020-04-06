@@ -39,5 +39,5 @@ class AndroidMobile(Mobile):
 phoneObject = Iphone("1080P", "Black", "4GB", "4G", "iOS")
 phoneObject.printIphoneDetail()
 
-phoneObject2 = AndroidMobile("1080P", "Black", "4GB", "4G", "ketchup", "120px", "yes")
+phoneObject2 = AndroidMobile("1080P", "Black", "4GB", "4G", "Nougat", "120px", "yes")
 phoneObject2.printAndroidMobileDetail()
