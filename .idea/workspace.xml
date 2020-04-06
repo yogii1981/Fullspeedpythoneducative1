@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classexample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EIC8E1.py" beforeDir="false" afterPath="$PROJECT_DIR$/EIPC8E1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EIPC6ESO1.py" beforeDir="false" afterPath="$PROJECT_DIR$/EIPC6ESO1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculatornew.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculatornew.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythoninadayfunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoninadayfunction.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/calculatornew.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
-              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -51,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EIPC8E1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="268">
+              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -61,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/pythoninadayfunction.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -139,10 +134,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
+    <option name="x" value="19" />
     <option name="y" value="23" />
-    <option name="width" value="1528" />
-    <option name="height" value="957" />
+    <option name="width" value="1294" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -350,20 +345,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00069" summary="commit">
-      <created>1584654973961</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1584654973961</updated>
-    </task>
-    <task id="LOCAL-00070" summary="commit">
-      <created>1584655244874</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1584655244874</updated>
     </task>
     <task id="LOCAL-00071" summary="commit">
       <created>1584655775818</created>
@@ -694,7 +675,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585966139923</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="commit">
+      <created>1586099688464</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1586099688464</updated>
+    </task>
+    <task id="LOCAL-00119" summary="commit">
+      <created>1586100270271</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1586100270271</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TodoView">
@@ -707,10 +702,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="23" width="1528" height="957" extended-state="0" />
-    <editor active="true" />
+    <frame x="19" y="23" width="1294" height="823" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23424022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27729774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -719,7 +713,7 @@
       <window_info anchor="bottom" id="GitHub Pull Requests" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" weight="0.34335262" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.40629274" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.29461077" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -728,7 +722,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51282054" side_tool="true" weight="0.32745314" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" visible="true" weight="0.3283237" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" weight="0.3283237" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" weight="0.29988727" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1053,14 +1047,14 @@
     <entry file="file://$PROJECT_DIR$/calculatornew.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythoninadayfunction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -1073,8 +1067,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EIPC8E1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="268">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
         </state>
       </provider>
     </entry>
