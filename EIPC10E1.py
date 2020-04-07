@@ -32,3 +32,11 @@ if number1 <= 100 and number1 >= 0:
     print("number1 lies between 0 and 100")
 else:
     print("number1 is out of range defined")
+
+# program to check whether the number entered is even or odd
+
+number2 = int(input("enter an number2:"))
+if number2 % 2 == 0:
+    print("number2:%s is a even number" % (number2))
+else:
+    print("number2:%s is a odd number" % (number2))
