@@ -1,6 +1,6 @@
 class Calculator:
 
-    def ___init__(self, integer1=None, integer2=None):
+    def __init__(self, integer1=None, integer2=None):
         self.integer1 = integer1
         self.integer2 = integer2
 
@@ -25,15 +25,13 @@ class Calculateadvance(Calculator):
 
     def squarerootcalculation(self):
         n = 2
-        if integer1 != 0 and integer2 != 0:
-            self.integer1 = self.integer1 ** 1 / n
-            self.integer2 = self.integer1 ** 1 / n
+        self.enternumber()
+        print(self.integer2, self.integer1)
+        if self.integer1 != 0 and self.integer2 != 0:
+            self.integer1 = self.integer1 ** 0.5
+            self.integer2 = self.integer2 ** 0.5
             print(self.integer1, self.integer2)
 
 
-calculateregular = Calculator()
-calculateregular.enternumber()
-print(calculateregular.addition())
-
 specialcalculation = Calculateadvance()
-print(specialcalculation.squarerootcalculation())
+specialcalculation.squarerootcalculation()

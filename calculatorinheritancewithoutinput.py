@@ -21,15 +21,16 @@ class Calculator:
 
 
 class Calculateadvance(Calculator):
-    def __init__(self, integer1, integer2, squareroot=None):
+    def __init__(self, integer1=None, integer2=None, squareroot=None):
+
         Calculator.__init__(self, integer1, integer2)
         self.squareroot = squareroot
 
     def squarerootcalculation(self):
-        n = 2
+        print(self.integer2, self.integer1)
         if self.integer1 != 0 and self.integer2 != 0:
-            self.integer1 = self.integer1 ** 1 / n
-            self.integer2 = self.integer1 ** 1 / n
+            self.integer1 = self.integer1 ** 1 / 0.5
+            self.integer2 = self.integer1 ** 1 / 0.5
             print(self.integer1, self.integer2)
 
 
