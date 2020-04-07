@@ -1,5 +1,5 @@
 # write a program using a inhertiance method to add squareroot,cuberoot,cubea nd sqaure calculation capability in
-# the exisiting calculator class
+# the exisiting calculator class when the user enter 2 integers.
 
 class Calculator:
 
