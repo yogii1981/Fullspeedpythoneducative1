@@ -1,4 +1,4 @@
-# python program to ullustrate the use of arguments (*values in this case)
+# python program to illustrate the use of arguments (*values in this case)
 # which multiplies all the values given to a function as a parameter
 def multiplyall(*values):
     mul = 1
