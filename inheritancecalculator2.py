@@ -1,3 +1,7 @@
+# # python program to ullustrate the use of arguments (*values in this case)
+# # which multiplies all the values given to a function as a parameter
+# def multiplyall(*values):
+#
 # write a program using a inhertiance method to add squareroot,cuberoot,cubea nd sqaure calculation capability in
 # the exisiting calculator class when the user enter 2 integers.
 
