@@ -1,4 +1,4 @@
-import pythoninadayfunction
+from pythoninaday import pythoninadayfunction
 
 
 class Calculatornew:
