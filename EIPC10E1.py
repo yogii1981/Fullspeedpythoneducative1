@@ -24,3 +24,11 @@ elif n2 > n1 and n2 > n3:
     print("n2:%s is greater than n1:%s, n3:%s" % (n2, n1, n3))
 else:
     print("n3:%s is greater than n1:%s, n2:%s" % (n3, n1, n2))
+
+# program to check whether number exist between 1 and 100
+
+number1 = int(input("enter a number1:"))
+if number1 <= 100 and number1 >= 0:
+    print("number1 lies between 0 and 100")
+else:
+    print("number1 is out of range defined")
