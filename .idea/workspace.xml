@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EIPC10E1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EIPC8E2b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculatorinheritancewithoutinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculatorinheritancewithoutinput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculatorinheritancewithoutinput.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/inhertiancecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/inhertiancecalculator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,18 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inhertiancecalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-227" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EIPC8E1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="419">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
             </state>
           </provider>
         </entry>
@@ -49,16 +39,7 @@
         <entry file="file://$PROJECT_DIR$/EIPC10E1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/calculatorinheritancewithoutinput.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -133,8 +114,8 @@
         <option value="$PROJECT_DIR$/EIPC8E2.py" />
         <option value="$PROJECT_DIR$/EIPC8E2b.py" />
         <option value="$PROJECT_DIR$/EIPC10E1.py" />
-        <option value="$PROJECT_DIR$/inhertiancecalculator.py" />
         <option value="$PROJECT_DIR$/calculatorinheritancewithoutinput.py" />
+        <option value="$PROJECT_DIR$/inhertiancecalculator.py" />
       </list>
     </option>
   </component>
@@ -203,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.calculatorinheritancewithoutinput">
+  <component name="RunManager" selected="Python.inhertiancecalculator">
     <configuration name="EIPC8E2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,8 +313,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculatorinheritancewithoutinput" />
         <item itemvalue="Python.inhertiancecalculator" />
+        <item itemvalue="Python.calculatorinheritancewithoutinput" />
         <item itemvalue="Python.EIPC8E2b" />
         <item itemvalue="Python.EIPC8E2" />
         <item itemvalue="Python.Inhertianceexample2" />
@@ -350,13 +331,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00074" summary="commit">
-      <created>1584759597087</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1584759597088</updated>
     </task>
     <task id="LOCAL-00075" summary="commit">
       <created>1584759958219</created>
@@ -694,7 +668,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586168325927</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="commit">
+      <created>1586260383407</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1586260383407</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TodoView">
@@ -708,7 +689,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="23" width="1528" height="957" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23424022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1040,13 +1020,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculatornew.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-185">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Inhertianceexample2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1075,22 +1048,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/calculatornew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculatorinheritancewithoutinput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/EIPC10E1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inhertiancecalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-227" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculatorinheritancewithoutinput.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>

@@ -1,3 +1,6 @@
+# write a program using a inhertiance method to add squareroot,cuberoot,cubea nd sqaure calculation capability in
+# the exisiting calculator class
+
 class Calculator:
 
     def __init__(self, integer1=None, integer2=None):
