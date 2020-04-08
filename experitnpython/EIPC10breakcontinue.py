@@ -30,3 +30,11 @@ for item in cart:
         print("Can't process this item:", item)
         continue
     print(item)
+
+# write a program where it skip zero as divider present in list
+numbers = [10, 5, 2, 0, 12, 11, 40]
+for n in numbers:
+    if n == 0:
+        print("How can we divide by zero..skip it")
+        continue
+    print("100/{}={}".format(n, 100 / n))
