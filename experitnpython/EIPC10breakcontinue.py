@@ -49,3 +49,10 @@ for item in cart:
     print(item)
 else:
     print("congrats...all items successfully ordered")
+
+#
+for i in range(100):
+    if i % 8 == 0:
+        print(i)
+    else:
+        pass

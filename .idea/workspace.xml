@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experitnpython/EIPC10breakcontinue.py" beforeDir="false" afterPath="$PROJECT_DIR$/experitnpython/EIPC10breakcontinue.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/experitnpython/EIPC10breakcontinue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="457">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -225,9 +226,6 @@
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experitnpython" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -235,7 +233,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experitnpython/EIPC10breakcontinue.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -329,10 +327,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.EIPC10breakcontinue" />
+        <item itemvalue="Python.EIPC10breakcontinue" />
+        <item itemvalue="Python.EIPC10breakcontinue" />
         <item itemvalue="Python.EIPC10nestedloop" />
         <item itemvalue="Python.EIPC10whileloop" />
-        <item itemvalue="Python.EIPC10forloop" />
-        <item itemvalue="Python.EIPC10E1" />
       </list>
     </recent_temporary>
   </component>
@@ -346,20 +344,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00089" summary="commit">
-      <created>1585595864416</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1585595864416</updated>
-    </task>
-    <task id="LOCAL-00090" summary="commit">
-      <created>1585596841639</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1585596841639</updated>
     </task>
     <task id="LOCAL-00091" summary="commit">
       <created>1585596870315</created>
@@ -690,7 +674,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586351892130</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="commit">
+      <created>1586356771203</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1586356771203</updated>
+    </task>
+    <task id="LOCAL-00139" summary="commit">
+      <created>1586357410293</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1586357410294</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1087,8 +1085,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/experitnpython/EIPC10breakcontinue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="457">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
