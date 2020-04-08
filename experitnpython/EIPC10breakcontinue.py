@@ -38,3 +38,14 @@ for n in numbers:
         print("How can we divide by zero..skip it")
         continue
     print("100/{}={}".format(n, 100 / n))
+
+# write a program with else block
+
+cart = [10, 20, 30, 40, 500, 60, 70]
+for item in cart:
+    if item >= 500:
+        print("Can't process this order")
+        break
+    print(item)
+else:
+    print("congrats...all items successfully ordered")
