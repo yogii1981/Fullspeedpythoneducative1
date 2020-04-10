@@ -33,10 +33,10 @@ class Calculateadvance(Calculator):
     def __init__(self, integer1=None, integer2=None, squareroot=None, cuberoot=None):
         Calculator.__init__(self, integer1, integer2)
         self.squareroot = squareroot
-        self.cuberoot = squareroot
+        self.cuberoot = cuberoot
 
     def squarerootcalculation(self):
-        n = 2
+        # n = 2
         self.enternumber()
         print(self.integer2, self.integer1)
         if self.integer1 != 0 and self.integer2 != 0:
@@ -45,7 +45,7 @@ class Calculateadvance(Calculator):
             print(self.integer1, self.integer2)
 
     def cuberootcalculation(self):
-        n = 3
+        # n = 3
         self.enternumber()
         print(self.integer1, self.integer2)
         if self.integer1 != 0 and self.integer2 != 0:
