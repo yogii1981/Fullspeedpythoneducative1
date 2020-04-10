@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StatisticsandMachinelearninginpython/C1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finds_odd_even_prime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inhertiancecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/inhertiancecalculator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +17,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inhertiancecalculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1309">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="595">
+              <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/finds_odd_even_prime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calculatornew.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -31,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/StatisticsandMachinelearninginpython/C1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -66,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PIADCQ24.py" />
         <option value="$PROJECT_DIR$/vowelandwordscore.py" />
         <option value="$PROJECT_DIR$/employeeclass.py" />
         <option value="$PROJECT_DIR$/coronoviruspopulation.py" />
@@ -117,14 +142,14 @@
         <option value="$PROJECT_DIR$/experitnpython/EIPC11string.py" />
         <option value="$PROJECT_DIR$/StatisticsandMachinelearninginpython/C1.py" />
         <option value="$PROJECT_DIR$/inhertiancecalculator.py" />
+        <option value="$PROJECT_DIR$/finds_odd_even_prime.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-51" />
-    <option name="y" value="69" />
-    <option name="width" value="1528" />
-    <option name="height" value="957" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,11 +163,6 @@
             <path>
               <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fullspeedpythoneducative" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fullspeedpythoneducative" type="462c0819:PsiDirectoryNode" />
-              <item name="StatisticsandMachinelearninginpython" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
@@ -192,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.inhertiancecalculator">
+  <component name="RunManager" selected="Python.finds_odd_even_prime">
     <configuration name="C1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,27 +246,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experitnpython/EIPC10breakcontinue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EIPC10whileloop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experitnpython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experitnpython/EIPC10whileloop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -295,6 +294,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="finds_odd_even_prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finds_odd_even_prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="inhertiancecalculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,10 +338,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.finds_odd_even_prime" />
         <item itemvalue="Python.inhertiancecalculator" />
         <item itemvalue="Python.C1" />
         <item itemvalue="Python.EIPC11string" />
-        <item itemvalue="Python.EIPC10breakcontinue" />
         <item itemvalue="Python.EIPC10breakcontinue" />
       </list>
     </recent_temporary>
@@ -336,13 +356,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00094" summary="commit">
-      <created>1585597664285</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1585597664285</updated>
     </task>
     <task id="LOCAL-00095" summary="commit">
       <created>1585600552018</created>
@@ -680,7 +693,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586482017036</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="commit">
+      <created>1586487045734</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1586487045734</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TodoView">
@@ -693,10 +713,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-368" y="75" width="1528" height="957" extended-state="0" />
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23424022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1858873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -704,7 +724,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.34335262" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.2940594" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.29364163" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -740,13 +760,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC6Q26.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC6Q24.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -981,13 +994,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Inhertianceexample2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -999,13 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculatornew.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1075,7 +1074,7 @@
     <entry file="file://$PROJECT_DIR$/StatisticsandMachinelearninginpython/C1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -1086,10 +1085,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculatornew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/inhertiancecalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="595">
+          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finds_odd_even_prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
