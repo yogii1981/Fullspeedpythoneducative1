@@ -18,7 +18,7 @@ class Typeofnumber:
         self.number1 = number1
 
     def primenumber(self):
-        if self.number1 > 0:
+        if self.number1 > 1:
             for i in range(2, self.number1):
                 if (self.number1 % i) != 0:
                     print("{} is a prime number".format(self.number1))
