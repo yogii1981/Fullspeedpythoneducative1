@@ -56,3 +56,8 @@ while True:
     flag = True
 if flag == False:
     print("Not Found")
+
+# count substring in the given string:
+s = "abababababababababa"
+print(s.count("a"))
+print(s.count("a", 1, 5))
