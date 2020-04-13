@@ -60,3 +60,34 @@ while i >= 0:
     i = i - 1
 output = ''.join(l1)
 print(output, end=' ')
+
+# write a program to reverse the internal content of each word
+
+s = input("Enter a word:")
+l = s.split()
+l1 = []
+i = 0
+while i < len(l):
+    l1.append(l[i][::-1])
+    i = i + 1
+output = ''.join(l1)
+print(output)
+
+# write a program to merge characters of 2 strings into a string by string by taking characters
+
+s1 = input("enter first string:")
+s2 = input("enter a second string:")
+output = ""
+i, j = 0, 0
+while i < len(s1) or j < len(s2):
+    if i < len(s1):
+        output = output + s1[i]
+        i += 1
+    if j < len(s2):
+        output = output + s2[j]
+        j += 1
+print(output)
+
+# write a program to sort the character of the string and first alphabet symbols followed by numeric
+
+s
