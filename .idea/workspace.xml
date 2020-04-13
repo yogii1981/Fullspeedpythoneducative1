@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/polymorphism.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experitnpython/EIPC11string1.py" beforeDir="false" afterPath="$PROJECT_DIR$/experitnpython/EIPC11string1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/experitnpython/EIPC11string1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="56" column="5" selection-start-line="54" selection-end-line="63" selection-end-column="21" />
+            <state relative-caret-position="231">
+              <caret line="56" selection-start-line="56" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/finds_odd_even_prime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/polymorphism.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -47,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/employeeclass.py" />
         <option value="$PROJECT_DIR$/coronoviruspopulation.py" />
         <option value="$PROJECT_DIR$/stocktet.py" />
         <option value="$PROJECT_DIR$/stockJP.py" />
@@ -95,17 +112,18 @@
         <option value="$PROJECT_DIR$/experitnpython/EIPC10breakcontinue.py" />
         <option value="$PROJECT_DIR$/StatisticsandMachinelearninginpython/C1.py" />
         <option value="$PROJECT_DIR$/inhertiancecalculator.py" />
-        <option value="$PROJECT_DIR$/finds_odd_even_prime.py" />
         <option value="$PROJECT_DIR$/experitnpython/EIPC11string.py" />
         <option value="$PROJECT_DIR$/experitnpython/EIPC11string1.py" />
+        <option value="$PROJECT_DIR$/finds_odd_even_prime.py" />
+        <option value="$PROJECT_DIR$/polymorphism.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1901" />
-    <option name="y" value="50" />
-    <option name="width" value="1528" />
-    <option name="height" value="957" />
+    <option name="x" value="201" />
+    <option name="y" value="67" />
+    <option name="width" value="1240" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -119,11 +137,6 @@
             <path>
               <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fullspeedpythoneducative" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fullspeedpythoneducative" type="462c0819:PsiDirectoryNode" />
-              <item name="experitnpython" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
@@ -173,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EIPC11string">
+  <component name="RunManager" selected="Python.polymorphism">
     <configuration name="C1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,24 +202,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StatisticsandMachinelearninginpython/C1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EIPC10breakcontinue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experitnpython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experitnpython/EIPC10breakcontinue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -294,13 +289,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polymorphism.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.EIPC11string" />
+        <item itemvalue="Python.polymorphism" />
         <item itemvalue="Python.finds_odd_even_prime" />
+        <item itemvalue="Python.EIPC11string" />
         <item itemvalue="Python.inhertiancecalculator" />
         <item itemvalue="Python.C1" />
-        <item itemvalue="Python.EIPC11string" />
       </list>
     </recent_temporary>
   </component>
@@ -314,20 +330,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00101" summary="commit">
-      <created>1585668919215</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1585668919215</updated>
-    </task>
-    <task id="LOCAL-00102" summary="commit">
-      <created>1585669807482</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1585669807482</updated>
     </task>
     <task id="LOCAL-00103" summary="commit">
       <created>1585673285628</created>
@@ -658,7 +660,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586634640585</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="commit">
+      <created>1586701836302</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1586701836302</updated>
+    </task>
+    <task id="LOCAL-00151" summary="commit">
+      <created>1586741898690</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1586741898690</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TodoView">
@@ -671,9 +687,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1901" y="50" width="1528" height="957" extended-state="0" />
+    <frame x="201" y="67" width="1240" height="858" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23424022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28958163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -681,8 +698,8 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" weight="0.34335262" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.29364163" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.45169714" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.25148514" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918568" weight="0.32943144" />
@@ -691,7 +708,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51282054" side_tool="true" weight="0.32745314" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" weight="0.3283237" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" visible="true" weight="0.29942197" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" weight="0.29942197" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -713,17 +730,30 @@
           <line>65</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finds_odd_even_prime.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finds_odd_even_prime.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finds_odd_even_prime.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finds_odd_even_prime.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC6Q27.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC6Q28.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1028,24 +1058,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/finds_odd_even_prime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inhertiancecalculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculatornew.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1063,10 +1079,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/calculatornew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/experitnpython/EIPC11string1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="56" column="5" selection-start-line="54" selection-end-line="63" selection-end-column="21" />
+        <state relative-caret-position="231">
+          <caret line="56" selection-start-line="56" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finds_odd_even_prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polymorphism.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
