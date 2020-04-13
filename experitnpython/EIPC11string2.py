@@ -12,3 +12,14 @@ for x in sorted(s1):
 for x in sorted(s2):
     output = output + x
 print(output)
+
+#  a program to replace numeric number by the previous alphabet as no of times that number
+s = input("Enter a string:")
+output = " "
+for x in s:
+    if x.isalpha():
+        output = output + x
+        previous = x
+    else:
+        output = output + previous * (int(x) - 1)
+print(output)
