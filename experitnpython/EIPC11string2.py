@@ -23,3 +23,57 @@ for x in s:
     else:
         output = output + previous * (int(x) - 1)
 print(output)
+
+# write a program to perform following activity:
+# input = "a4k3b2"
+# output = "aeknbd"
+s = input("Enter an integer:")
+output = " "
+for x in s:
+    if x.isalpha():
+        output = output + x
+    previous = x
+else:
+    output = output + chr(ord(previous) + int(x))
+print(output)
+
+#  a program to remove duplicates characters from the given string
+# input: ABCDABBEFGGGAAAA
+# output: ABCDEFG
+
+
+# program 1
+
+s = 'terfinx'
+s = ''.join(sorted(list(s)[3:7] + list(s)[0:3]))
+print(s)
+
+
+# program 2
+def func(x):
+    return x + 1
+
+
+f = func
+print(f(2) + func(2))
+
+
+# leap year
+def is_leap(year):
+    leap = False
+
+    # Write your logic here
+    if (year % 4 == 0) and (year % 100 != 0):
+        leap = True
+    elif (year % 400 != 0) and (year % 100 == 0):
+        leap = False
+    elif (year % 400 == 0):
+        leap = True
+    else:
+        leap = False
+
+    return leap
+
+
+year = int(input())
+print(is_leap(year))
