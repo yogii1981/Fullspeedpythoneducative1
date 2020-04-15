@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/experitnpython/EIPC11string2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="85">
+              <caret line="172" selection-start-line="172" selection-end-line="205" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -111,8 +111,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="109" />
-    <option name="y" value="23" />
+    <option name="x" value="78" />
+    <option name="y" value="83" />
     <option name="width" value="1491" />
     <option name="height" value="967" />
   </component>
@@ -331,20 +331,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00107" summary="commit">
-      <created>1585675256480</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1585675256480</updated>
-    </task>
-    <task id="LOCAL-00108" summary="commit">
-      <created>1585879876635</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1585879876636</updated>
     </task>
     <task id="LOCAL-00109" summary="commit">
       <created>1585880417018</created>
@@ -675,7 +661,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586812505967</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="commit">
+      <created>1586877783986</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1586877783986</updated>
+    </task>
+    <task id="LOCAL-00157" summary="commit">
+      <created>1586877903486</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1586877903486</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="TodoView">
@@ -688,10 +688,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="109" y="23" width="1491" height="967" extended-state="0" />
+    <frame x="78" y="83" width="1491" height="967" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24013606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24013606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -709,7 +709,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51282054" side_tool="true" weight="0.32745314" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" weight="0.3283237" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" visible="true" weight="0.26171428" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" visible="true" weight="0.26171428" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -750,21 +750,6 @@
           <url>file://$PROJECT_DIR$/finds_odd_even_prime.py</url>
           <line>24</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/experitnpython/EIPC11string2.py</url>
-          <line>67</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/experitnpython/EIPC11string2.py</url>
-          <line>79</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/experitnpython/EIPC11string2.py</url>
-          <line>80</line>
-          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1118,8 +1103,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/experitnpython/EIPC11string2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="85">
+          <caret line="172" selection-start-line="172" selection-end-line="205" selection-end-column="23" />
         </state>
       </provider>
     </entry>

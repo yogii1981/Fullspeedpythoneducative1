@@ -74,3 +74,91 @@ def is_leap(year):
         leap = False
 
     return leap
+
+
+#
+a = 'hello'
+b = 'world'
+print(a, b, sep=' Python', end="!")
+
+text = "# Is this a comment?"
+print(text)
+
+nums = [1, 2, 3]
+nums.append(nums[:])
+print(len(nums))
+print(nums)
+
+print(list(range(3)))
+
+5 // -3.0 * 4
+
+
+# test this
+def contextSensitiveWishes(religion):
+    if religion in ['C']:
+        a, b = zip(*[('h', 'c'), ('a', 'm')])
+    elif religion in ['J']:
+        a, b = zip(*[('h', 'c'), ('a', 'b')])
+    else:
+        a, b = zip(*[('g', 'd'), ('r', 'a')])
+    print(''.join(a) + " " + ''.join(b))
+
+
+contextSensitiveWishes("B")
+
+print(50 // 11
+
+words = ['cat', 'mouse']
+for w in words:
+    print(len(w))
+
+x = 1
+if x < 0:
+    x = 0
+print('Negative to zero')
+elif x == 0:
+print('Zero')
+elif x == 1:
+print('Single')
+else:
+print('More')
+
+a = ['mary', 'had', 'a', 'lamb']
+for i in range(len(a)):
+    print(a[i])
+
+
+def swap():
+    b, a = a, b
+
+
+a, b = 1, 2
+swap()
+print(b - a)
+
+
+def bubblesort(lst):
+    for passesleft in range(len(lst) - 1, 0, -1):
+        for index in range(passesleft):
+            if lst[index] > lst[index + 1]:
+                lst[index], lst[index + 1] = lst[index + 1], lst[index]
+    return lst
+
+
+l = [66, 89, 49, 62, 9, 53, 59]
+print(bubblesort(l))
+
+word = 'galaxy'
+print(word[2:60])
+
+l = [[]]
+
+if l:
+    print(True)
+else:
+    print(False)
+
+cubes = [1, 8, 27]
+cubes.append(4 ** 3)
+print(cubes)
