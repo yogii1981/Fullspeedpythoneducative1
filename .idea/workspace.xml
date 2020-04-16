@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/experitnpython/needexplanation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experitnpython/EIPC11string2.py" beforeDir="false" afterPath="$PROJECT_DIR$/experitnpython/EIPC11string2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experitnpython/ifconfusion.py" beforeDir="false" afterPath="$PROJECT_DIR$/experitnpython/ifconfusion.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +31,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/experitnpython/EIPC11string2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="172" selection-start-line="172" selection-end-line="205" selection-end-column="23" />
+            <state relative-caret-position="371">
+              <caret line="362" lean-forward="true" selection-start-line="362" selection-end-line="362" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/experitnpython/ifconfusion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/experitnpython/needexplanation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -56,8 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stockJP.py" />
-        <option value="$PROJECT_DIR$/PIADQ25.py" />
         <option value="$PROJECT_DIR$/PIADC6Q26.py" />
         <option value="$PROJECT_DIR$/PIADCQ2&amp;.py" />
         <option value="$PROJECT_DIR$/PIADC6Q27.py" />
@@ -106,13 +124,15 @@
         <option value="$PROJECT_DIR$/finds_odd_even_prime.py" />
         <option value="$PROJECT_DIR$/polymorphism.py" />
         <option value="$PROJECT_DIR$/polymorphism1.py" />
+        <option value="$PROJECT_DIR$/experitnpython/ifconfusion.py" />
+        <option value="$PROJECT_DIR$/experitnpython/needexplanation.py" />
         <option value="$PROJECT_DIR$/experitnpython/EIPC11string2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
-    <option name="y" value="83" />
+    <option name="x" value="120" />
+    <option name="y" value="56" />
     <option name="width" value="1491" />
     <option name="height" value="967" />
   </component>
@@ -187,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EIPC11string2">
+  <component name="RunManager" selected="Python.ifconfusion">
     <configuration name="EIPC11string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inhertiancecalculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ifconfusion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experitnpython" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inhertiancecalculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experitnpython/ifconfusion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ifconfusion" />
         <item itemvalue="Python.EIPC11string2" />
         <item itemvalue="Python.polymorphism" />
         <item itemvalue="Python.finds_odd_even_prime" />
         <item itemvalue="Python.EIPC11string" />
-        <item itemvalue="Python.inhertiancecalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -331,20 +351,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00109" summary="commit">
-      <created>1585880417018</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1585880417019</updated>
-    </task>
-    <task id="LOCAL-00110" summary="commit">
-      <created>1585880835812</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1585880835812</updated>
     </task>
     <task id="LOCAL-00111" summary="commit">
       <created>1585880957478</created>
@@ -675,7 +681,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586877903486</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="commit">
+      <created>1586912081848</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1586912081849</updated>
+    </task>
+    <task id="LOCAL-00159" summary="commit">
+      <created>1587059794703</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1587059794704</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="TodoView">
@@ -688,7 +708,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="83" width="1491" height="967" extended-state="0" />
+    <frame x="120" y="56" width="1491" height="967" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24013606" />
@@ -700,7 +720,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" weight="0.45142856" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.2502857" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" visible="true" weight="0.2502857" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918568" weight="0.32943144" />
@@ -709,7 +729,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51282054" side_tool="true" weight="0.32745314" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" weight="0.3283237" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" visible="true" weight="0.26171428" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" weight="0.26171428" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -751,24 +771,100 @@
           <line>24</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experitnpython/ifconfusion.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC7Q2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC7Q3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" selection-start-column="45" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC7Q1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -933,13 +1029,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/employeeclass.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -1101,10 +1190,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experitnpython/needexplanation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experitnpython/ifconfusion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/experitnpython/EIPC11string2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="172" selection-start-line="172" selection-end-line="205" selection-end-column="23" />
+        <state relative-caret-position="371">
+          <caret line="362" lean-forward="true" selection-start-line="362" selection-end-line="362" />
         </state>
       </provider>
     </entry>

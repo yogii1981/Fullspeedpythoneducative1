@@ -279,3 +279,101 @@ print((not m_1 or m_2) and (meal_2 is "Flaxseeds") and isHealthy("Kale"))
 friends = ["Alice", "Bob", "Ann"]
 friends.pop()
 print(friends.pop(0))
+
+# print the outcome of this program
+d = {
+    0: 'a',
+    False: 'b',
+    1 > 2: 'c',
+    bool([]): 'd',
+}
+
+print(d[0])
+
+
+# print the outcome of this program
+# def encrypt(s1):
+#     s2 = map(lambda c : chr(ord(c) + 2), s1)
+#     return ''.join(s2)
+#
+# def encrypt(s1):
+#     s2 = map(lambda c : chr(ord(c) - 2), s1)
+#     return ''.join(s2)
+#
+# s = "xtherrussianarecomingx"
+# print(decrypt(encrypt(encrypt(s))) == encrypt(s))
+
+# print the outcome of this program
+def concat(*args, sep="/"):
+    return sep.join(args)
+
+
+print(concat('A', 'B', 'C', 'D', sep=","))
+
+
+# print the outcome of this program
+def swap(a, b):
+    return b, a
+
+
+a, b = 1, 2
+a, b = swap(a, b)
+
+print(a - b)
+
+
+# print the outcome of this program
+class Person:
+    def __init__(self, name):
+        self.name = name
+
+
+bob = Person('Bob')
+print(bob.name)
+
+# print the outcome of this program
+string = 'ppy!'
+fruit = 'a'.join(list(string))
+print(fruit)
+
+# print the outcome of this program
+i = 5
+
+
+def f(arg=i):
+    print(arg)
+
+
+i = 6
+f()
+
+
+## print the outcome of this program
+def len_(x):
+    length = len(x)
+    # print everything in a same row
+    print(length, end=' ')
+    return length
+
+
+items = [3.14, 'moon', {}]
+i = 0
+
+while i < len_(items):
+    i += 1
+
+print(i)
+
+
+# print the outcome
+
+def gen_polynomial(c0, c1, c2):
+    def polynomial(x):
+        return c0 + c1 * x + c2 * x ** 2
+
+    return polynomial
+
+
+p1 = gen_polynomial(3, 0, 1)
+
+print(p1(2))

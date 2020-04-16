@@ -32,4 +32,4 @@ def ifConfusion(x, y):
             return "H"
 
 
-print(ifConfusion(6, 6))
+print(ifConfusion(2, 8))
