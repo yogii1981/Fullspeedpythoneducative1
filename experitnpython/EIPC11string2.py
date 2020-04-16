@@ -290,6 +290,15 @@ d = {
 
 print(d[0])
 
+# print the outcome
+s1 = "AAA"
+s2 = "BBBB"
+
+s = list(s2)
+for i, c in enumerate(s1):
+    s.insert(i * 2, c)
+print("".join(s))
+
 
 # print the outcome of this program
 # def encrypt(s1):
