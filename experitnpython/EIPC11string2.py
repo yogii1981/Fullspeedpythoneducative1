@@ -162,3 +162,120 @@ else:
 cubes = [1, 8, 27]
 cubes.append(4 ** 3)
 print(cubes)
+
+# write a program to calculate the price
+
+item_prices = [('apple', 0.45), ('banana', 0.75), ('kiwi', 0.5), ('orange', 0.8)]
+prices = [price for item, price in item_prices]
+print(sum(prices))
+
+# write a program to find outcome
+
+import re
+
+string = 'Coconut'
+
+c1 = re.search('C', string)
+c2 = 'C' in string[0]
+c3 = string.startswith('C')
+c4 = 'C' == string[:1]
+
+result = c1 and c2 and c3 and c4
+
+print(result)
+# outcome = true
+
+# write a program to find outcome
+omega3_table = {"Salamon": 2260, "Hering": 1729, "Sardiness": 1480, "Flaxseeds": 53400, "Egss": 400}
+y = max(omega3_table,
+        key=lambda x: omega3_table[x])
+print(y)
+
+#
+s1 = "Ronaldo is better than Messi"
+
+print(s1.find("Ronaldo", 5))
+print(s1.find("Football"))
+print(s1.find("Messi", 5, 100))
+
+
+#
+
+def factorial(x):
+    y = 1
+    for i in range(1, x + 1):
+        y *= i
+    return y
+
+
+print(factorial(6))
+print(factorial(4))
+print(factorial(6) / factorial(4))
+
+
+#
+def ping(i):
+    if i > 0:
+        return pong(i - 1)
+    else:
+        return "0"
+
+
+def pong(i):
+    if i > 0:
+        return ping(i - 1)
+    else:
+        return "1"
+
+
+print(ping(14))
+
+# write a program to find outcome
+
+import re
+
+matches = re.findall('\.', 'Coconut')
+result = len(matches)
+print(result)
+
+# print the outcome of this program
+t1 = 5 + 2 == 7
+f1 = 2 - 1 > 3
+
+r = t1 or False
+r = r and True and f1
+
+print(r)
+
+# print the outcome of this program
+
+import re
+
+text = 'Spiderman'
+matches = re.findall('...', text)
+result = len(matches[2])
+print(result)
+
+# print the outcome of this program
+
+meal_1 = "meat"
+meal_2 = "Flaxseeds"
+meal_3 = "Marsmallows"
+
+healthyFoods = ["kale", "Apples", "Strawberry", "Banana", "Flaxseeds"]
+
+
+def isHealthy(food):
+    return food in healthyFoods
+
+
+m_1 = isHealthy(meal_1)
+m_2 = isHealthy(meal_2)
+m_3 = isHealthy(meal_3)
+
+print((not m_1 or m_2) and (meal_2 is "Flaxseeds") and isHealthy("Kale"))
+
+# print the outcome of this program
+friends = ["Alice", "Bob", "Ann"]
+friends.pop()
+print(friends.pop(0))
