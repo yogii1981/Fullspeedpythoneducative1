@@ -1,3 +1,5 @@
+# comment
+
 from __future__ import (absolute_import, division, print_function)
 
 import numpy as np
@@ -26,6 +28,9 @@ shp_info_ = m_.readshapefile('st99_d00', 'states', drawbounds=False)
 
 ## population density by state from
 ## http://en.wikipedia.org/wiki/List_of_U.S._states_by_population_density
+"""
+"""
+
 popdensity = {
     'New Jersey': 438.00,
     'Rhode Island': 387.35,

@@ -386,3 +386,45 @@ def gen_polynomial(c0, c1, c2):
 p1 = gen_polynomial(3, 0, 1)
 
 print(p1(2))
+
+# print the outcome
+matrix = [
+    (0, 1, 1),
+    (2, 1, 1),
+    (-1, 0, 3),
+]
+
+d = [row[col] for col, row in enumerate(matrix)]
+
+print(d)
+
+# print the outcome
+l = [1, 2, 3, 4]
+print(l[::-2])
+
+# print the outcome
+
+a, b, c, d = True, True, True, False
+
+if b and not d and a and not b:
+    if b or a:
+        print('42')
+    elif d and c:
+        print('yes')
+    print('yes')
+elif d and c or b:
+    if b and not d or d:
+        print('python')
+    print('yes')
+else:
+    print('42')
+
+# print the outcome
+word = "0 brother where art thou"
+print(word[9:1:-1][::-1])
+
+# print the outcome
+x, y = True, False
+print(x and not y)  # True
+print(not x and y or x)  # True
+print(not x and y and x)  # False

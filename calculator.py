@@ -6,10 +6,16 @@
 
 class Calculator:
 
+
     def ___init__(self, action=None):
         self.action = action
 
     def calculateQuotient(self):
+        """
+        this method will
+
+        :return: return statment will be w
+        """
         try:
             integer1 = int(input("Enter an integer1:"))
             integer2 = int(input("Enter an integer2:"))
@@ -19,6 +25,10 @@ class Calculator:
             return -1
 
     def addition(self):
+        """
+        :param pa: it could be any number between 1 to 5
+        :return: jsflksjf
+        """
         try:
             integer1 = int(input("Enter an integer1:"))
             integer2 = int(input("Enter an integer2:"))
