@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kagglefunctiontutorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experitnpython/EIPC11string2.py" beforeDir="false" afterPath="$PROJECT_DIR$/experitnpython/EIPC11string2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kagglefunctiontutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/kagglefunctiontutorial.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,16 +30,25 @@
         <entry file="file://$PROJECT_DIR$/experitnpython/EIPC11string2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="568">
-              <caret line="438" selection-start-line="438" selection-end-line="438" />
+              <caret line="437" selection-start-line="437" selection-end-line="437" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kagglefunctiontutorial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kagglefunctiontutorial.py">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-1199943126/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="12659">
+              <caret line="745" column="8" selection-start-line="745" selection-start-column="8" selection-end-line="745" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -283,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kagglefunctiontutorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kagglefunctiontutorial" type="PythonConfigurationType" factoryName="Python">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,7 +377,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.kagglefunctiontutorial" />
         <item itemvalue="Python.Covid_2020Electionsimpactanalysis" />
         <item itemvalue="Python.needexplanation" />
         <item itemvalue="Python.pyplot" />
@@ -387,20 +394,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00114" summary="commit">
-      <created>1585947646161</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1585947646161</updated>
-    </task>
-    <task id="LOCAL-00115" summary="commit">
-      <created>1585947691161</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1585947691161</updated>
     </task>
     <task id="LOCAL-00116" summary="commit">
       <created>1585961294069</created>
@@ -731,7 +724,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587336205678</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="commit">
+      <created>1587348321285</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1587348321286</updated>
+    </task>
+    <task id="LOCAL-00164" summary="commit">
+      <created>1587348718951</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1587348718951</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TodoView">
@@ -747,7 +754,7 @@
     <frame x="10" y="23" width="1582" height="975" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22613709" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22613709" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -755,7 +762,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.44960362" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.44960362" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.24414715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -901,13 +908,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC7Q7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC7Q5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1242,7 +1242,7 @@
     <entry file="file://$PROJECT_DIR$/experitnpython/EIPC11string2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="568">
-          <caret line="438" selection-start-line="438" selection-end-line="438" />
+          <caret line="437" selection-start-line="437" selection-end-line="437" />
         </state>
       </provider>
     </entry>
@@ -1255,8 +1255,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kagglefunctiontutorial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="167">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-1199943126/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12659">
+          <caret line="745" column="8" selection-start-line="745" selection-start-column="8" selection-end-line="745" selection-end-column="8" />
         </state>
       </provider>
     </entry>

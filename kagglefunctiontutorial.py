@@ -25,12 +25,8 @@ class Calculatorkaggle:
     def __floordiv__(self):
         return self.value2 // self.value1
 
-
-
-# |
-# |  __floor__(...)
-# |      Flooring an Integral returns itself.
-# |
+    def __format__():
+        return (self.value2)
 
 
 calc = Calculatorkaggle(5, 6)
