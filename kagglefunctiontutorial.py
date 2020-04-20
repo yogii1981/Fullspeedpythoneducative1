@@ -19,16 +19,14 @@ class Calculatorkaggle:
     def __divmod__(self):
         return divmod(self.value1, self.value2)
 
+    def __float_(self):
+        return float(self.value1)
 
-# |
-# |  __divmod__(self, value, /)
-# |      Return divmod(self, value).
-# |
-# |  __eq__(self, value, /)
-# |      Return self==value.
-# |
-# |  __float__(self, /)
-# |      float(self)
+    def __floordiv__(self):
+        return self.value2 // self.value1
+
+
+
 # |
 # |  __floor__(...)
 # |      Flooring an Integral returns itself.
@@ -41,3 +39,4 @@ print(calc.__and__())
 print(calc.__bool__())
 print(calc.__ceil__())
 print(calc.__divmod__())
+print(calc.__floordiv__())
