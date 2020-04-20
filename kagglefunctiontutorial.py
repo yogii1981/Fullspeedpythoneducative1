@@ -25,8 +25,13 @@ class Calculatorkaggle:
     def __floordiv__(self):
         return self.value2 // self.value1
 
-    def __format__():
-        return (self.value2)
+    def __format__(self):
+        return (self.value2, self.value1)
+
+    def __mod__(self):
+        return self.value1
+
+
 
 
 calc = Calculatorkaggle(5, 6)
@@ -36,3 +41,5 @@ print(calc.__bool__())
 print(calc.__ceil__())
 print(calc.__divmod__())
 print(calc.__floordiv__())
+print(calc.__format__())
+print(calc.__mod__())
