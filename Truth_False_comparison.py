@@ -18,3 +18,11 @@ list1 = [1, 2, 3]
 list2 = [1, 2, 3]
 print("list comparison", list1 == list2)
 print("list location is", list1 is list2, "hence stored at different location")
+
+# other comparison
+
+print(4 > 3)
+print(4 < 3)
+print(5 >= 1.3)
+print(2 < 4j)  # Error, as comparison not supported between integer and complex number
+print("complex number comparison shows", 2 + 1j > 4 + 4j)
