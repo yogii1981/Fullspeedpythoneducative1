@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kagglefunction2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kagglefunction2.py" beforeDir="false" afterPath="$PROJECT_DIR$/kagglefunction2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kagglefunction2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="4" lean-forward="true" selection-start-line="25" selection-end-line="28" selection-end-column="14" />
+            <state relative-caret-position="483">
+              <caret line="88" column="3" selection-start-line="86" selection-end-line="89" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -396,20 +396,6 @@
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
     </task>
-    <task id="LOCAL-00121" summary="commit">
-      <created>1586139462668</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1586139462668</updated>
-    </task>
-    <task id="LOCAL-00122" summary="commit">
-      <created>1586168325927</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1586168325927</updated>
-    </task>
     <task id="LOCAL-00123" summary="commit">
       <created>1586260383407</created>
       <option name="number" value="00123" />
@@ -739,7 +725,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587378771375</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="commit">
+      <created>1587428743290</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1587428743290</updated>
+    </task>
+    <task id="LOCAL-00171" summary="commit">
+      <created>1587429135901</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1587429135901</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1267,8 +1267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kagglefunction2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="4" lean-forward="true" selection-start-line="25" selection-end-line="28" selection-end-column="14" />
+        <state relative-caret-position="483">
+          <caret line="88" column="3" selection-start-line="86" selection-end-line="89" selection-end-column="22" />
         </state>
       </provider>
     </entry>
