@@ -38,3 +38,34 @@ def mod(x):
 
 
 print(mod(33))
+
+"""Program to find the exact quotient """
+
+
+def quotient(x, y):
+    """return the quotient value"""
+    quotientvalue = x / y
+    return (quotientvalue)
+
+
+print(quotient(16, 3))
+
+"""Program to print quotient with some remainder"""
+
+
+def modu(x, y):
+    qv = x // y
+    return qv
+
+
+print(modu(16, 3))
+
+"""Program to print remainder"""
+
+
+def modu1(x, y):
+    qv = x % y
+    return qv
+
+
+print(modu1(16, 3))
