@@ -51,3 +51,21 @@ print(x.as_integer_ratio())
 
 y1 = 0.25
 print(y1.as_integer_ratio())
+
+numerator, denominator = x.as_integer_ratio()
+print(numerator / denominator)
+
+""""Swapping"""
+a = 1
+b = 0
+a, b = b, a
+print(a, b)
+
+# """Attendees"""
+# party_attendees = ['Adela', 'Fleda', 'Owen', 'May', 'Mona', 'Gilbert', 'Ford']
+#
+# def fashionably_late(arrivals, name):
+#     order = arrivals.index(name)
+#     return order >= len(arrivals) / 2 and order != len(arrivals) - 1
+#
+# print(fashionably_late(5,'Adela'))
