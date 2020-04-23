@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StatisticsandMachinelearninginpython/Linearregressiongradient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataquest/PythonDataAnalysisBasics.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatisticsandMachinelearninginpython/Linearregressiongradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/StatisticsandMachinelearninginpython/Linearregressiongradient.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StatisticsandMachinelearninginpython/Linearregressiongradient.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="391">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="e#93#111#0" expanded="true" />
               </folding>
@@ -106,8 +105,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
-    <option name="y" value="27" />
+    <option name="x" value="54" />
+    <option name="y" value="23" />
     <option name="width" value="1582" />
     <option name="height" value="967" />
   </component>
@@ -345,20 +344,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00129" summary="commit">
-      <created>1586266103920</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1586266103920</updated>
-    </task>
-    <task id="LOCAL-00130" summary="commit">
-      <created>1586266580721</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1586266580721</updated>
     </task>
     <task id="LOCAL-00131" summary="commit">
       <created>1586266680302</created>
@@ -689,7 +674,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587567213474</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="commit">
+      <created>1587600040790</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1587600040792</updated>
+    </task>
+    <task id="LOCAL-00179" summary="commit">
+      <created>1587600547553</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1587600547553</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="TodoView">
@@ -702,7 +701,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="27" width="1582" height="967" extended-state="0" />
+    <frame x="39" y="23" width="1582" height="967" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22613709" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -712,14 +712,14 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" weight="0.38057142" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.38057142" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.24414715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918568" weight="0.32943144" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32914287" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32914287" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51282054" side_tool="true" weight="0.32745314" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" weight="0.3283237" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" weight="0.3147139" />
@@ -1215,8 +1215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StatisticsandMachinelearninginpython/Linearregressiongradient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="391">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="e#93#111#0" expanded="true" />
           </folding>
