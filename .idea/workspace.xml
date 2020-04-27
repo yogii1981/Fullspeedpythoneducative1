@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/experitnpython/hackerrankproblematinder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StatisticsandMachinelearninginpython/Linearregressiongradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/StatisticsandMachinelearninginpython/Linearregressiongradient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experitnpython/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/experitnpython/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,14 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StatisticsandMachinelearninginpython/Linearregressiongradient.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#93#111#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/experitnpython/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/experitnpython/hackerrankproblematinder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="89" lean-forward="true" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -50,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EIPC6E2a.py" />
-        <option value="$PROJECT_DIR$/EIPC6E2b.py" />
         <option value="$PROJECT_DIR$/EIPC6MO1.py" />
         <option value="$PROJECT_DIR$/EIPC6OP1.py" />
         <option value="$PROJECT_DIR$/EIPC7.py" />
@@ -101,12 +115,14 @@
         <option value="$PROJECT_DIR$/Kaggleboolean.py" />
         <option value="$PROJECT_DIR$/dataquest/PythonDataAnalysisBasics.py" />
         <option value="$PROJECT_DIR$/StatisticsandMachinelearninginpython/Linearregressiongradient.py" />
+        <option value="$PROJECT_DIR$/experitnpython/test.py" />
+        <option value="$PROJECT_DIR$/experitnpython/hackerrankproblematinder.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="23" />
+    <option name="x" value="52" />
+    <option name="y" value="73" />
     <option name="width" value="1582" />
     <option name="height" value="967" />
   </component>
@@ -116,32 +132,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fullspeedpythoneducative" type="462c0819:PsiDirectoryNode" />
+              <item name="Fullspeedpythoneducative2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fullspeedpythoneducative2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fullspeedpythoneducative" type="462c0819:PsiDirectoryNode" />
-              <item name="StatisticsandMachinelearninginpython" type="462c0819:PsiDirectoryNode" />
+              <item name="Fullspeedpythoneducative2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fullspeedpythoneducative2" type="462c0819:PsiDirectoryNode" />
+              <item name="dataquest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="Fullspeedpythoneducative" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="PyCharm Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="Fullspeedpythoneducative2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fullspeedpythoneducative2" type="462c0819:PsiDirectoryNode" />
+              <item name="experitnpython" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Linearregressiongradient">
+  <component name="RunManager" selected="Python.test">
     <configuration name="Kaggleboolean" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,27 +273,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="coffeewithpythonfunctions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coffeewithpythonfunctions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="kagglefunctiontutorial" type="PythonConfigurationType" factoryName="Python">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -324,13 +315,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experitnpython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experitnpython/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Linearregressiongradient" />
         <item itemvalue="Python.PythonDataAnalysisBasics" />
         <item itemvalue="Python.Kaggleboolean" />
         <item itemvalue="Python.kagglelist" />
-        <item itemvalue="Python.coffeewithpythonfunctions" />
       </list>
     </recent_temporary>
   </component>
@@ -344,20 +356,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00131" summary="commit">
-      <created>1586266680302</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1586266680302</updated>
-    </task>
-    <task id="LOCAL-00132" summary="commit">
-      <created>1586266797802</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1586266797802</updated>
     </task>
     <task id="LOCAL-00133" summary="commit">
       <created>1586299019259</created>
@@ -688,7 +686,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587600547553</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="commit">
+      <created>1587768664295</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1587768664295</updated>
+    </task>
+    <task id="LOCAL-00181" summary="commit">
+      <created>1587913133168</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1587913133169</updated>
+    </task>
+    <option name="localTasksCounter" value="182" />
     <servers />
   </component>
   <component name="TodoView">
@@ -701,10 +713,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="23" width="1582" height="967" extended-state="0" />
+    <frame x="52" y="73" width="1582" height="967" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22613709" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22613709" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -712,7 +724,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.38057142" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" weight="0.38057142" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.24414715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -722,7 +734,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32914287" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51282054" side_tool="true" weight="0.32745314" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" weight="0.3283237" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" weight="0.3147139" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" visible="true" weight="0.31428573" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -858,20 +870,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/classexample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/experitnpython/EIPC6ESO1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/experitnpython/EIPC6E2b.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -935,13 +933,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculatorinheritancewithoutinput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/calculatorinheritancewithoutinput.py" />
     <entry file="file://$PROJECT_DIR$/experitnpython/EIPC8E2b.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1217,9 +1209,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#93#111#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experitnpython/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experitnpython/hackerrankproblematinder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="89" lean-forward="true" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
         </state>
       </provider>
     </entry>
