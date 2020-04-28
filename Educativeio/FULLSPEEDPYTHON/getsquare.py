@@ -8,3 +8,12 @@ def getSquare():
 
 firsttensquare = getSquare()
 print(firsttensquare)
+
+
+def getCube():
+    y1 = [x * x * x for x in range(1, 11)]
+    return y1
+
+
+firsttencube = getCube()
+print(firsttencube)
