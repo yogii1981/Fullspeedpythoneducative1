@@ -17,3 +17,12 @@ def getCube():
 
 firsttencube = getCube()
 print(firsttencube)
+
+
+def getCubealternate():
+    y1 = [x * x * x for x in range(1, 11, 2)]
+    return y1
+
+
+firsttencubealternate = getCubealternate()
+print(firsttencubealternate)
