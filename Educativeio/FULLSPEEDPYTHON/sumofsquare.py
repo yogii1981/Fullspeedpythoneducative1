@@ -43,14 +43,15 @@
 #     num += 1
 
 
+"""Find the sum of even numbers between 1 to 20"""
 # method2
 
-# def evenSquareSum():
-#     even = [x * x for x in range(0, 21, 2)]
-#     return sum(even)
-#
-#
-# print(evenSquareSum())
+def evenSquareSum():
+    even = [x * x for x in range(0, 21, 2)]
+    return sum(even)
+
+
+print(evenSquareSum())
 
 
 """Method3"""

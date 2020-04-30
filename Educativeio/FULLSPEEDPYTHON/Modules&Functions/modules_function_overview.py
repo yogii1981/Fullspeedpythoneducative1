@@ -13,7 +13,7 @@ def myCourse(name):
 test = myCourse("Full Speed Python")
 print(test)
 
-"""Functions"""
+"""Functions - Non Parameterized Function"""
 
 
 def do_hello():
@@ -22,3 +22,13 @@ def do_hello():
 
 
 do_hello()
+
+"""Functions -Parameterized Function"""
+
+
+def add_one(val):
+    print("Function got value:", val + 1)
+    return
+
+
+add_one(1)
