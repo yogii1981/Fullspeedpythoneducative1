@@ -1,28 +1,29 @@
-# """ Write a program to find maximum between two numbers
-# Method-1 without using the in-built max function"""
-#
-# def calcmax(a,b):
-#     if a == 0 and b == 0:
-#         print("Error: both are equal")
-#     if a < b:
-#         print("{} is greater than {}".format(a,b))
-#     else:
-#         print("{} is greater than {}".format(b,a))
-#
-# calcmax(10,6)
-#
-#
-# """Write a program to find maximum between two numbers
-# Method-2  using the in-built max function
-# """
-#
-#
-# def findMax(x, y):
-#     max2 = max(x, y)
-#     return max2
-#
-#
-# print(findMax(10, 12))
+""" Write a program to find maximum between two numbers
+Method-1 without using the in-built max function"""
+
+
+def calcmax(a, b):
+    if a == 0 and b == 0:
+        print("Error: both are equal")
+    if a < b:
+        print("{} is greater than {}".format(a, b))
+    else:
+        print("{} is greater than {}".format(b, a))
+
+
+calcmax(10, 6)
+
+"""Write a program to find maximum between two numbers
+Method-2  using the in-built max function
+"""
+
+
+def findMax(x, y):
+    max2 = max(x, y)
+    return max2
+
+
+print(findMax(10, 12))
 
 
 """Write a program to find maximum between n numbers
