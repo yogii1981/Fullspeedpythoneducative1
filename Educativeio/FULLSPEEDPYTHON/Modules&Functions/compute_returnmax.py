@@ -74,7 +74,8 @@ def findMax2():
         count += 1
         if count == num:
             max3 = max(list2)
-            return max3
+            return max
 
 
 print(findMax2())
+
