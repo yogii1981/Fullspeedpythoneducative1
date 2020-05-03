@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py" afterDir="false" />
-    </list>
+    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +14,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="496">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-end-line="49" selection-end-column="25" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/whileloop.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -46,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/experitnpython/ifconfusion.py" />
         <option value="$PROJECT_DIR$/experitnpython/pyplot.py" />
         <option value="$PROJECT_DIR$/experitnpython/needexplanation.py" />
         <option value="$PROJECT_DIR$/calculator.py" />
@@ -97,6 +99,7 @@
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/definefunction.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/recursionexample2.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py" />
+        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/whileloop.py" />
       </list>
     </option>
   </component>
@@ -345,20 +348,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00161" summary="commit">
-      <created>1587074827441</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1587074827441</updated>
-    </task>
-    <task id="LOCAL-00162" summary="commit">
-      <created>1587336205678</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1587336205678</updated>
     </task>
     <task id="LOCAL-00163" summary="commit">
       <created>1587348321285</created>
@@ -689,7 +678,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588480376773</updated>
     </task>
-    <option name="localTasksCounter" value="210" />
+    <task id="LOCAL-00210" summary="commit">
+      <created>1588480914426</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1588480914426</updated>
+    </task>
+    <task id="LOCAL-00211" summary="commit">
+      <created>1588481016796</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1588481016796</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="TodoView">
@@ -705,7 +708,7 @@
     <frame x="-43" y="23" width="1641" height="981" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21790123" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21790123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -859,13 +862,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kagglelist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/slicing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1203,9 +1199,12 @@
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-end-line="49" selection-end-column="25" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/whileloop.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
