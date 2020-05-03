@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Fibonnaci_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/SumofFirst_N_natutalnumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/recursionexample2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,38 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Greatestcommondivisor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Fibonnaci_Number.py">
+        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Factorial_Recursion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/modules_function_overview.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="479">
+              <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -75,9 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/finds_odd_even_prime.py" />
-        <option value="$PROJECT_DIR$/polymorphism.py" />
-        <option value="$PROJECT_DIR$/polymorphism1.py" />
         <option value="$PROJECT_DIR$/experitnpython/ifconfusion.py" />
         <option value="$PROJECT_DIR$/experitnpython/pyplot.py" />
         <option value="$PROJECT_DIR$/experitnpython/needexplanation.py" />
@@ -124,16 +94,19 @@
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Checknumberdivisiblebyanother.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Recursion.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Factorial_Recursion.py" />
-        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Fibonnaci_Number.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/SumofFirst_N_natutalnumbers.py" />
+        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Fibonnaci_Number.py" />
+        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/definefunction.py" />
+        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/recursionexample2.py" />
+        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-43" />
-    <option name="y" value="31" />
+    <option name="y" value="23" />
     <option name="width" value="1641" />
-    <option name="height" value="982" />
+    <option name="height" value="981" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -165,7 +138,7 @@
               <item name="Fullspeedpythoneducative2" type="462c0819:PsiDirectoryNode" />
               <item name="Educativeio" type="462c0819:PsiDirectoryNode" />
               <item name="FULLSPEEDPYTHON" type="462c0819:PsiDirectoryNode" />
-              <item name="Modules&amp;Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="ierations_loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,28 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Fibonnaci_Number">
-    <configuration name="Checknumberdivisiblebyanother" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Checknumberdivisiblebyanother.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.for_loops">
     <configuration name="Fibonnaci_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,27 +193,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Fibonnaci_Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Factorial_Recursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="compute_returnmax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="definefunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,7 +255,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/compute_returnmax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/definefunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for_loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,13 +306,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="recursionexample2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/recursionexample2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.for_loops" />
+        <item itemvalue="Python.recursionexample2" />
+        <item itemvalue="Python.definefunction" />
         <item itemvalue="Python.Fibonnaci_Number" />
         <item itemvalue="Python.SumofFirst_N_natutalnumbers" />
-        <item itemvalue="Python.Recursion" />
-        <item itemvalue="Python.Checknumberdivisiblebyanother" />
-        <item itemvalue="Python.compute_returnmax" />
       </list>
     </recent_temporary>
   </component>
@@ -374,13 +347,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00159" summary="commit">
-      <created>1587059794703</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1587059794704</updated>
     </task>
     <task id="LOCAL-00160" summary="commit">
       <created>1587071861881</created>
@@ -718,7 +684,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588364154029</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="commit">
+      <created>1588437265287</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1588437265289</updated>
+    </task>
+    <option name="localTasksCounter" value="209" />
     <servers />
   </component>
   <component name="TodoView">
@@ -731,7 +704,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-43" y="31" width="1641" height="982" extended-state="0" />
+    <frame x="-43" y="23" width="1641" height="981" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21790123" />
@@ -742,8 +715,8 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.3741573" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.24342857" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" weight="0.37457818" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.24296963" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918568" weight="0.32943144" />
@@ -752,7 +725,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32914287" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51282054" side_tool="true" weight="0.32745314" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" weight="0.3283237" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" weight="0.31428573" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" visible="true" weight="0.3127109" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -888,26 +861,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Matplotlib/matplot1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Truth_False_comparison.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lambdaschool/datascienceintrotopython.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/kagglelist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1230,8 +1183,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Fibonnaci_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/definefunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/recursionexample2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
         </state>
       </provider>
     </entry>
