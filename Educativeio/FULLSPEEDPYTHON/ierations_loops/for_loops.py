@@ -32,3 +32,14 @@ for i in range(len(l)):
     print(i)
     sum = sum + i
 print(sum)
+
+"""
+Looping Using enumerate #
+Sometimes you may need both things (indexes and values), and you can use the "enumerate" function:
+"""
+
+mylist = [1, 5, 7]
+
+for i, value in enumerate(mylist):
+    print("Index:", i, "Value:", value)
+    print("index + value:", i + value)
