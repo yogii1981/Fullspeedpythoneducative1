@@ -43,3 +43,8 @@ mylist = [1, 5, 7]
 for i, value in enumerate(mylist):
     print("Index:", i, "Value:", value)
     print("index + value:", i + value)
+
+"For loop through the string"
+string = "my python is still not perfect"
+for i in string:
+    print("value is:", i)
