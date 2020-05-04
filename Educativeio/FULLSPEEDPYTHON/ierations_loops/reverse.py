@@ -11,3 +11,7 @@ def reverse(list):
         s = s - 1
         new_list[s] = item
     return new_list
+
+
+list = [1, 2, 3, 4, 5]
+print(reverse(list))
