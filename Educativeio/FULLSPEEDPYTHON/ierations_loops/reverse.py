@@ -1,3 +1,6 @@
+""" Write the program which displays the elements of the list in the reverse order"""
+
+
 def reverse(list):
     length = len(list)
     s = length
