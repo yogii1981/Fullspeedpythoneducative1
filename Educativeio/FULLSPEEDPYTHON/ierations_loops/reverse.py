@@ -3,6 +3,7 @@
 
 def reverse(list):
     length = len(list)
+
     s = length
 
     new_list = [None] * length
