@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findmaximum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findmaximumvalueindex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findmaximum.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findmaximumvalueindex.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -47,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/calculator.py" />
         <option value="$PROJECT_DIR$/experitnpython/Covid_2020Electionsimpactanalysis.py" />
         <option value="$PROJECT_DIR$/experitnpython/EIPC11string2.py" />
         <option value="$PROJECT_DIR$/kagglefunctiontutorial.py" />
@@ -98,6 +106,7 @@
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/whileloop.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/sumlist.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findmaximum.py" />
+        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findmaximumvalueindex.py" />
       </list>
     </option>
   </component>
@@ -178,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.findmaximum">
+  <component name="RunManager" selected="Python.findmaximumvalueindex">
     <configuration name="basicdatatypes" type="PythonConfigurationType" factoryName="Python">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,6 +230,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="findmaximumvalueindex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findmaximumvalueindex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="for_loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,27 +285,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kagglefunctiontutorial.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="recursionexample2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/recursionexample2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,11 +337,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.findmaximumvalueindex" />
         <item itemvalue="Python.findmaximum" />
         <item itemvalue="Python.sumlist" />
         <item itemvalue="Python.whileloop" />
         <item itemvalue="Python.for_loops" />
-        <item itemvalue="Python.recursionexample2" />
       </list>
     </recent_temporary>
   </component>
@@ -346,13 +355,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00165" summary="commit">
-      <created>1587375749011</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1587375749012</updated>
     </task>
     <task id="LOCAL-00166" summary="commit">
       <created>1587376892683</created>
@@ -690,7 +692,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588555504651</updated>
     </task>
-    <option name="localTasksCounter" value="214" />
+    <task id="LOCAL-00214" summary="commit">
+      <created>1588558579269</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1588558579270</updated>
+    </task>
+    <option name="localTasksCounter" value="215" />
     <servers />
   </component>
   <component name="TodoView">
@@ -860,16 +869,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/experitnpython/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataquest/PythonDataAnalysisBasics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1203,8 +1202,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findmaximum.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findmaximumvalueindex.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
