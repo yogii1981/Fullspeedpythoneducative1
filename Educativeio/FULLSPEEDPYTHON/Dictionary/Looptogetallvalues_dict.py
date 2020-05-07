@@ -11,7 +11,7 @@ ages = {
 for x in ages:
     print("Method1", ages[x])
 
-"""Write a program to diaply age and name where age is greater than 12"""
+"""Write a program to display age and name where age is greater than 12"""
 
 # Method 2
 ages = {
