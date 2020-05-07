@@ -4,6 +4,4 @@ d = {
     2: [2, 2, 2],
 }
 
-print
-d[2]
-Accessingitems
+print(d[2])
