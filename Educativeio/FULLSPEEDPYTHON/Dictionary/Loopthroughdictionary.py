@@ -1,3 +1,6 @@
+"""Loop to get all the keys"""
+
+
 ages = {
     "Peter": 10,
     "Isabel": 11,
