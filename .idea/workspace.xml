@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Looptogetallvalues_dict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/accessingitemsfromdictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/accessingitemsfromdictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary_togetallkeys.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,37 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ExampleDictionaries.py">
+        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary_togetallkeys.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ordereddictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/accessingitemsfromdictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="238">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary.py">
+        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Looptogetallvalues_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="293">
+              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -75,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/slicing.py" />
         <option value="$PROJECT_DIR$/Truth_False_comparison.py" />
         <option value="$PROJECT_DIR$/coffeewithpythonfunctions.py" />
         <option value="$PROJECT_DIR$/kagglelist.py" />
@@ -126,12 +107,13 @@
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ordereddictionary.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/accessingitemsfromdictionary.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary.py" />
+        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Looptogetallvalues_dict.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-58" />
-    <option name="y" value="43" />
+    <option name="x" value="95" />
+    <option name="y" value="126" />
     <option name="width" value="1440" />
     <option name="height" value="833" />
   </component>
@@ -206,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Loopthroughdictionary">
+  <component name="RunManager" selected="Python.Looptogetallvalues_dict">
     <configuration name="ExampleDictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary_togetallkeys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PrintEvenOdd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Looptogetallvalues_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/PrintEvenOdd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Looptogetallvalues_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,27 +294,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="findDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findDuplicates.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="kagglefunctiontutorial" type="PythonConfigurationType" factoryName="Python">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -354,13 +315,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ordereddictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ordereddictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Looptogetallvalues_dict" />
         <item itemvalue="Python.Loopthroughdictionary" />
-        <item itemvalue="Python.accessingitemsfromdictionary" />
         <item itemvalue="Python.ExampleDictionaries" />
-        <item itemvalue="Python.PrintEvenOdd" />
-        <item itemvalue="Python.findDuplicates" />
+        <item itemvalue="Python.ordereddictionary" />
+        <item itemvalue="Python.accessingitemsfromdictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -374,20 +356,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00179" summary="commit">
-      <created>1587600547553</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1587600547553</updated>
-    </task>
-    <task id="LOCAL-00180" summary="commit">
-      <created>1587768664295</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1587768664295</updated>
     </task>
     <task id="LOCAL-00181" summary="commit">
       <created>1587913133168</created>
@@ -718,7 +686,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588820868628</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="commit">
+      <created>1588856387045</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1588856387045</updated>
+    </task>
+    <task id="LOCAL-00229" summary="commit">
+      <created>1588886671434</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1588886671434</updated>
+    </task>
+    <option name="localTasksCounter" value="230" />
     <servers />
   </component>
   <component name="TodoView">
@@ -731,7 +713,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-58" y="43" width="1440" height="833" extended-state="0" />
+    <frame x="95" y="126" width="1440" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24876674" />
@@ -888,13 +870,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/employeeclass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1205,20 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ExampleDictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ordereddictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/accessingitemsfromdictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1226,10 +1187,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary.py">
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ordereddictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="238">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ExampleDictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Loopthroughdictionary_togetallkeys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/Looptogetallvalues_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
