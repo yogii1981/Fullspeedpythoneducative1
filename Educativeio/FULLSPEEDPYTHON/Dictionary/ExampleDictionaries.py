@@ -1,3 +1,7 @@
+"""Create and Print a Dictionary
+The following example shows a dictionary that indexes students’ ages by name.
+"""
+
 ages = {
     "Peter": 10,
     "Isabel": 11,
@@ -14,5 +18,14 @@ print(ages["Peter"])
 
 ## print the whole dictionary
 print("Get age of all persons")
+for key, value in ages.items():
+    print(key, value)
+
+new_dict = dict()
+new_dict = {}
+
+ages = dict()
+ages['Peter'] = 12
+ages['Susan'] = 13
 for key, value in ages.items():
     print(key, value)
