@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ExampleDictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ExampleDictionaries.py" afterDir="false" />
-    </list>
+    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ExampleDictionaries.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="388">
+              <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ordereddictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -46,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kagglefunction2.py" />
         <option value="$PROJECT_DIR$/lambdaschool/datascienceintrotopython.py" />
         <option value="$PROJECT_DIR$/Matplotlib/matplot1.py" />
         <option value="$PROJECT_DIR$/slicing.py" />
@@ -97,6 +103,7 @@
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/findDuplicates.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/PrintEvenOdd.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ExampleDictionaries.py" />
+        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ordereddictionary.py" />
       </list>
     </option>
   </component>
@@ -345,20 +352,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00176" summary="commit">
-      <created>1587561124455</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1587561124456</updated>
-    </task>
-    <task id="LOCAL-00177" summary="commit">
-      <created>1587567213473</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1587567213474</updated>
     </task>
     <task id="LOCAL-00178" summary="commit">
       <created>1587600040790</created>
@@ -689,7 +682,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588814268289</updated>
     </task>
-    <option name="localTasksCounter" value="225" />
+    <task id="LOCAL-00225" summary="commit">
+      <created>1588820576447</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1588820576447</updated>
+    </task>
+    <task id="LOCAL-00226" summary="commit">
+      <created>1588820704145</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1588820704146</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="TodoView">
@@ -859,13 +866,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/coffeewithpythonfunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calculatornew.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1199,8 +1199,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ExampleDictionaries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        <state relative-caret-position="388">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Dictionary/ordereddictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
