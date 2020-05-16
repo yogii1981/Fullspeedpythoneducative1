@@ -6,14 +6,9 @@ def totalStudents(students):
 
 
 students = {
-    "Peter": 10,
-    "Isabel": 11,
-    "Anna": 9,
-    "Thomas": 10,
-    "Bob": 10,
-    "Joseph": 11,
-    "Maria": 12,
-    "Gabriel": 10,
+    "Peter": {"age": 10, "address": "Lisbon"},
+    "Isabel": {"age": 11, "address": "Sesimbra"},
+    "Anna": {"age": 9, "address": "Lisbon"},
 }
 
 displaytotal = totalStudents(students)
