@@ -13,3 +13,4 @@ students = {
 
 displaytotal = totalStudents(students)
 print(displaytotal)
+print(students["Anna"])  # display the values associated with Anna
