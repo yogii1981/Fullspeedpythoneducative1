@@ -1,0 +1,5 @@
+total = 55
+age1 = 26
+age2 = 45
+print(total)
+print(age1, age2)
