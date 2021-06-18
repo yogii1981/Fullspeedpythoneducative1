@@ -1,0 +1,11 @@
+# Addition
+a = 2 + 4
+print(a)
+
+# Subtraction
+l1 = 7 - 5
+print(l1)
+
+# multiplication
+d1 = 9 * 789
+print(d1)
