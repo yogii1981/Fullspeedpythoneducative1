@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Bite_size python/stringtest.py" afterDir="false" />
+    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,9 +17,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap3_Datavariables">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="6" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -37,14 +50,13 @@
         <option value="Yogesh" />
       </list>
     </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/sublist.py" />
-        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/appendlist.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Averagelist.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/removesublist.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/removesublist_forloop.py" />
@@ -94,12 +106,14 @@
         <option value="$PROJECT_DIR$/Bite_size python/Proj1_Meetyourfriends.py" />
         <option value="$PROJECT_DIR$/Bite_size python/Proj2:Shopping for Science Supplies.py" />
         <option value="$PROJECT_DIR$/Bite_size python/stringtest.py" />
+        <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes" />
+        <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap3_Datavariables" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="128" />
-    <option name="y" value="176" />
+    <option name="x" value="-39" />
+    <option name="y" value="50" />
     <option name="width" value="1391" />
     <option name="height" value="734" />
   </component>
@@ -125,8 +139,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,8 +180,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stringtest">
-    <configuration name="EIPC6E1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Chap2_Datatypes">
+    <configuration name="Chap2_Datatypes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experitnpython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experitnpython/EIPC6E1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,10 +330,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Chap2_Datatypes" />
         <item itemvalue="Python.stringtest" />
         <item itemvalue="Python.stringtest" />
         <item itemvalue="Python.Proj2:Shopping for Science Supplies" />
-        <item itemvalue="Python.Proj1_Meetyourfriends" />
         <item itemvalue="Python.Proj1_Meetyourfriends" />
       </list>
     </recent_temporary>
@@ -334,20 +348,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00196" summary="commit">
-      <created>1588084610020</created>
-      <option name="number" value="00196" />
-      <option name="presentableId" value="LOCAL-00196" />
-      <option name="project" value="LOCAL" />
-      <updated>1588084610020</updated>
-    </task>
-    <task id="LOCAL-00197" summary="commit">
-      <created>1588084639522</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1588084639522</updated>
     </task>
     <task id="LOCAL-00198" summary="commit">
       <created>1588085176629</created>
@@ -678,7 +678,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615900235595</updated>
     </task>
-    <option name="localTasksCounter" value="245" />
+    <task id="LOCAL-00245" summary="commit">
+      <created>1615900987083</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1615900987083</updated>
+    </task>
+    <task id="LOCAL-00246" summary="commit">
+      <created>1615901064238</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1615901064238</updated>
+    </task>
+    <option name="localTasksCounter" value="247" />
     <servers />
   </component>
   <component name="TodoView">
@@ -691,7 +705,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="128" y="176" width="1391" height="734" extended-state="0" />
+    <frame x="-39" y="50" width="1391" height="734" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25766423" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -701,7 +715,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" weight="0.452454" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48540145" visible="true" weight="0.45171338" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.4677914" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -709,40 +723,15 @@
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32822084" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.51240873" side_tool="true" visible="true" weight="0.31464174" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" weight="0.36809817" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.48759124" visible="true" weight="0.31464174" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51459855" side_tool="true" visible="true" weight="0.45171338" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4978102" weight="0.36760125" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.48759124" weight="0.31464174" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24876674" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Project Explorer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="DB Browser" order="4" />
-      <window_info id="Job Explorer" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4871795" visible="true" weight="0.452454" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.24296963" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918568" weight="0.32943144" />
-      <window_info anchor="bottom" id="Console" order="7" />
-      <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32914287" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51282054" side_tool="true" weight="0.32745314" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49881518" weight="0.36809817" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4899289" weight="0.3113497" />
-      <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -913,9 +902,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythoninaday/PIADC6Q24.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/listcomprehensionevene_odd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
@@ -1256,7 +1242,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap3_Datavariables">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

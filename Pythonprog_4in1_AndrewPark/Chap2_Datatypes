@@ -3,3 +3,8 @@ age1 = 26
 age2 = 45
 print(total)
 print(age1, age2)
+
+thanks = "Thank You"
+print(thanks[2:7])
+print(thanks[-7:3:2])
+print(thanks[-1:])
