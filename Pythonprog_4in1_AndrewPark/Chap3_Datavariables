@@ -28,3 +28,11 @@ if i < 30 and i > 18:
     print("Condition is fulfllied")
 else:
     print("Condition s not fulfilled")
+
+# logial OR
+
+i = 25
+if i < 18 or i > 20:
+    print("Condition is fulfilled")
+else:
+    print("Condition is fulfilled")
