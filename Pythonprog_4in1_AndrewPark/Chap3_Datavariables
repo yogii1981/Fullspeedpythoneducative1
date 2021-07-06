@@ -22,3 +22,9 @@ print("Value of c is ", c)
 
 c -= a
 print("New value of c is", c)
+
+i = 25
+if i < 30 and i > 18:
+    print("Condition is fulfllied")
+else:
+    print("Condition s not fulfilled")
