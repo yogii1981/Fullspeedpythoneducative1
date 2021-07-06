@@ -5,3 +5,12 @@ m = (14, 34, 56)
 print(m)
 print(m[0])
 print(m[0:2])
+
+# Tuples also have property like indexing and slicing
+i = 1
+j = 2
+t1 = i, j  # tuple consists of elements i and j
+
+t2 = (3, 4, 5)
+t3 = 0, t1, t2
+print(t3)
