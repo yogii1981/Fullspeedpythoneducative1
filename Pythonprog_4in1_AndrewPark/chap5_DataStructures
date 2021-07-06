@@ -1,0 +1,7 @@
+# tuple consist of number of values separated by commas. Tuples
+# are enclosed in parantheses, while the list are enclosed in brackets
+
+m = (14, 34, 56)
+print(m)
+print(m[0])
+print(m[0:2])
