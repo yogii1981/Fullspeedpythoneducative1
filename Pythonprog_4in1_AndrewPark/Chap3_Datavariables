@@ -50,3 +50,8 @@ if (id(x) == id(y)):
     print("both has same id")
 else:
     print("both has different id")
+
+print(a ** b)
+print(a / b)
+print(a % b)
+print(a // b)
