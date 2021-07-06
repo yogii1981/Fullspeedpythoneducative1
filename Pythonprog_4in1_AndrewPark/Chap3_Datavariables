@@ -36,3 +36,17 @@ if i < 18 or i > 20:
     print("Condition is fulfilled")
 else:
     print("Condition is fulfilled")
+
+# Python Identity Operators
+
+x = 12
+y = 12
+print('x = ', 'x', ':', id(x), 'y= ', 'y', ':', id(y))
+if (x is y):
+    print("Both x and y has same identity")
+else:
+    print("x and y has not same identity")
+if (id(x) == id(y)):
+    print("both has same id")
+else:
+    print("both has different id")
