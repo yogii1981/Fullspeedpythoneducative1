@@ -14,3 +14,17 @@ t1 = i, j  # tuple consists of elements i and j
 t2 = (3, 4, 5)
 t3 = 0, t1, t2
 print(t3)
+
+# Lists
+
+# List consists of hetrogeneous values separated by commas enclosed [and] and start from index 0
+# Unlike Tuples, lists are mutable and they can be changed  by removing or reassigning the exisiting vakues
+
+a1 = [1, 2, 3, 4, 5]
+print(a1)
+
+print(a1[0])
+print(a1[0:4])
+
+a1[3] = 20
+print(a1[0:4])
