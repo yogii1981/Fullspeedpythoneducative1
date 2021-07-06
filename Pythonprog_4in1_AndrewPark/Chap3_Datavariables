@@ -9,3 +9,16 @@ print(l1)
 # multiplication
 d1 = 9 * 789
 print(d1)
+
+b = 6
+
+print(a == b)
+
+c = a + b
+print("Value of c is ", c)
+
+c += a
+print("Value of c is ", c)
+
+c -= a
+print("New value of c is", c)
