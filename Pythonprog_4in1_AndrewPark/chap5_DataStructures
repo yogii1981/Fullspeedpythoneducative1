@@ -94,3 +94,24 @@ def numberProperty1(input):
 
 numberProperty1(10)
 numberProperty1(11)
+
+
+##Nested IF ##
+
+def numberProperty2(input):
+    if input < 0:
+        print(input, ' is a negative number')
+    elif input == 0:
+        print(input, 'is Zero')
+    else:
+        print(input, 'is positive')
+
+
+numberProperty2(7)
+numberProperty2(-1)
+
+# While loop#
+a = 1
+while (a < 10):
+    print('The number is: ', a)
+    a = a + 2
