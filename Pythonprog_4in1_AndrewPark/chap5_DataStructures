@@ -28,3 +28,69 @@ print(a1[0:4])
 
 a1[3] = 20
 print(a1[0:4])
+
+# list can be nested
+# list can be used as stack or a queue
+
+b1 = [1, 2, 3, 4, 5]
+print(b1[2])
+
+b1[2] = 14  # replace 3 element in the list of b1 list
+print(b1)
+
+print(len(b1))
+
+print(b1[-1])  # print the extreme last element
+print(b1[-2])  # print the extreme last but one element before
+
+b1.append(17)  # add a element to the list
+print(b1)
+
+# pop - last in first out
+# del - first in first out
+
+b1.pop()
+print(b1)  # last element adeed was 17
+
+del (b1[0])
+print(b1)  # deleted the first element
+
+# sets - doesn't have duplicate elements
+
+c1 = [1, 3, 4, 5, 6, 2, 3, 5, 6, 7, 9]
+uniquenum1 = set(c1)
+print(uniquenum1)
+
+print(7 in uniquenum1)
+print(12 in uniquenum1)
+
+# Dictionary - data structures indexed by keys
+# key and values are separated by ":"
+
+capitals = {'AP': 'Hydrebad', 'MH': 'Mumbai', 'DEL': 'New Delhi'}
+print(capitals)
+print(capitals['AP'])
+capitals['TN'] = 'Chennai'
+print(capitals)
+
+# Control Flow Statements
+
+# IF else statements
+
+e = 6
+f = 7
+if e > f:
+    print("e is greater than f")
+else:
+    print("f is greater than e")
+
+
+def numberProperty1(input):
+    if input % 2 == 0:
+        print(input, ' is an even number')
+    else:
+        print(input, ' is a odd number')
+
+
+numberProperty1(10)
+numberProperty1(11)

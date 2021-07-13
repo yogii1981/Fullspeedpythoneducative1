@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="609">
+              <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -101,11 +102,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="155" />
-    <option name="y" value="93" />
-    <option name="width" value="1391" />
-    <option name="height" value="734" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -338,27 +337,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00206" summary="commit">
-      <created>1588300613893</created>
-      <option name="number" value="00206" />
-      <option name="presentableId" value="LOCAL-00206" />
-      <option name="project" value="LOCAL" />
-      <updated>1588300613893</updated>
-    </task>
-    <task id="LOCAL-00207" summary="commit">
-      <created>1588364154028</created>
-      <option name="number" value="00207" />
-      <option name="presentableId" value="LOCAL-00207" />
-      <option name="project" value="LOCAL" />
-      <updated>1588364154029</updated>
-    </task>
-    <task id="LOCAL-00208" summary="commit">
-      <created>1588437265287</created>
-      <option name="number" value="00208" />
-      <option name="presentableId" value="LOCAL-00208" />
-      <option name="project" value="LOCAL" />
-      <updated>1588437265289</updated>
     </task>
     <task id="LOCAL-00209" summary="commit">
       <created>1588480376771</created>
@@ -682,7 +660,28 @@
       <option name="project" value="LOCAL" />
       <updated>1625550324909</updated>
     </task>
-    <option name="localTasksCounter" value="255" />
+    <task id="LOCAL-00255" summary="commit">
+      <created>1625550497174</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1625550497174</updated>
+    </task>
+    <task id="LOCAL-00256" summary="commit">
+      <created>1625550629220</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1625550629220</updated>
+    </task>
+    <task id="LOCAL-00257" summary="commit">
+      <created>1625551114241</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1625551114241</updated>
+    </task>
+    <option name="localTasksCounter" value="258" />
     <servers />
   </component>
   <component name="TodoView">
@@ -695,10 +694,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="155" y="93" width="1391" height="734" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25766423" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21277878" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -706,15 +705,15 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4839416" visible="true" weight="0.45171338" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49075845" weight="0.4677914" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48342374" visible="true" weight="0.29591838" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48978102" weight="0.46728972" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918568" weight="0.32943144" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32822084" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5160584" side_tool="true" visible="true" weight="0.45171338" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51657623" side_tool="true" visible="true" weight="0.29591838" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36760125" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.48759124" weight="0.31464174" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
@@ -1241,8 +1240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="609">
+          <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
         </state>
       </provider>
     </entry>
