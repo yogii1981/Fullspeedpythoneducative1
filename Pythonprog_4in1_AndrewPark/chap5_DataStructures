@@ -115,3 +115,14 @@ a = 1
 while (a < 10):
     print('The number is: ', a)
     a = a + 2
+
+
+def printseries(start, end, interval):
+    print("\n")
+    temp = start
+    while (temp < end):
+        print(temp),
+        temp += interval
+
+
+printseries(1, 21, 2)
