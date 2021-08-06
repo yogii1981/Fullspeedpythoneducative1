@@ -126,3 +126,189 @@ def printseries(start, end, interval):
 
 
 printseries(1, 21, 2)
+
+# creates sum with the value 0
+# sum = 0
+#
+# #loop 10 times
+# for i in range(1,11):
+#     #Gets the user's number
+#     nextNumber = int(input("Enter number #"+ str(i) + ":"))
+#     #Add the inputted number to the sum
+#     sum += nextNumber
+# #peint the sum over 10
+# print(sum/10)
+
+
+my_string_1 = "Hello!"
+my_string_2 = "My name is David."
+my_string_3 = "Welcome to CS1301!"
+print(my_string_1)
+print(my_string_3)
+print(my_string_2)
+
+# from datetime import date
+# my_var_1 = True
+# my_var_2 = date.today()
+# my_var_3 = my_var_2.day
+# my_var_4 = 0.5
+# print(type(my_var_1))
+# print(type(my_var_2))
+# print(type(my_var_3))
+# print(type(my_var_4))
+
+
+# my_var_1 = 5
+# my_var_1 = 3
+# my_var_2 = my_var_1
+# my_var_3 = "Hello!"
+# my_var_1 = my_var_3
+# my_var_3 = 5.2
+# my_var_2 = True
+# print(type(my_var_1))
+# print(type(my_var_2))
+# print(type(my_var_3))
+
+
+my_var_1 = 5
+my_var_2 = 7
+temp = my_var_1
+my_var_1 = my_var_2
+my_var_2 = temp
+print(my_var_2)
+
+string1 = "Hello!"
+print(string1)
+string2 = "Welcome to CS1301!"
+# "My name is David." = string3
+# print(string3)
+# print(string4)
+
+
+my_integer = 3
+my_float = 5.5
+my_string = "Hello!"
+my_boolean = False
+a = my_boolean + my_integer
+b = my_integer * my_string
+c = my_float * my_boolean
+d = my_float * my_integer
+print(a)
+print(b)
+print(c)
+print(d)
+
+letter_of_the_day = "F"
+print("Letter of the day: " + letter_of_the_day)
+
+my_string_1 = "2"
+my_string_2 = "-9.1"
+my_string_3 = "Hello!"
+print(int(my_string_1))
+print(bool(my_string_2))
+# print(float(my_string_3))
+# print(int(my_string_2))
+print(float(my_string_1))
+
+# user_input = input("Enter a number: ")
+# print("Your original input: " + user_input)
+# user_input_as_float = float(user_input)
+# print("Your input as a float:", user_input_as_float)
+# user_input_as_int = int(user_input)
+# print("Your input as an integer:", user_input_as_int)
+
+
+# num_pancakes = int(input("Enter the number:"))
+# print("The most pancakes Bob has eaten at one time is",num_pancakes)
+#
+# try:
+#     num_pancakes = int(input("Enter the number:"))
+# except EOFError:
+#     print ("Error: No input or End Of File is reached!")
+# data = ""
+# print data
+
+
+# total = str("2.51")
+#
+# #You may modify the lines of code above, but don't move them!
+# #When you Submit your code, we'll change these lines to
+# #assign different values to the variables.
+#
+# #The code below attempts to print the message:
+# #
+# #Thank you for coming to Junior's. Your total is $2.51.
+# #
+# #Right now, however, the code is broken because the variable
+# #total must be converted to a string before printing.
+# #
+# #Fix the code below! You may fix it however you want.
+#
+# print("Thank you for coming to Junior's. Your total is $" + total + ".")
+# print(type(total))
+
+
+name = "Elphaba"
+verb = "flew"
+where = "the western sky"
+number = str("5")
+result = str("True")
+
+# You may modify the lines of code above, but don't move them!
+# When you Submit your code, we'll change these lines to
+# assign different values to the variables.
+
+# Above we have created five variables: name, verb, and where
+# which are strings, number which is an integer, and result,
+# which is a boolean.
+#
+# Below, write some code that will take these variables and
+# print out the sentence below with the values of the variables
+# filling in the corresponding spots in the sentence as
+# indicated by the variable name in brackets.
+
+# My name is [name] and it is [result] that I [verb] across [where] [number] times.
+#
+# Make sure to watch out for the data types of the values of
+# each of these variables, and make sure you have the right
+# number of spaces between each part!
+#
+#
+# Add your code below:
+
+print('My name is {0} and it is {1} that I {2} across {3} {4} times.'.format(name, result, verb, where, number))
+
+# In the code below, we've created two dates. The day in each
+# date is chosen randomly. You don't need to worry about how
+# this works; all you need to know is that when you start
+# writing your code, you'll have access to two variables, each
+# holding a date: earlier_date and later_date, and later_date
+# is guaranteed to be later than earlier_date.
+#
+# Complete this code so that it creates a variable called
+# days_between that stores the number of days between the two
+# dates.
+#
+# Hint: You can find the number of days between two dates by
+# subtracting the day number of the earlier date from the
+# day number of the later date.
+
+from datetime import date
+import random
+
+earlier_date = date(2017, 6, random.randint(1, 25))
+later_date = date(2017, 6, random.randint(earlier_date.day + 1, 28))
+
+# Do not modify the code above!
+
+
+# Write your code here!
+
+delta = (later_date - earlier_date)
+days_between = (delta.days)
+# If your code is working correctly, then the following line
+# of code will print the correct number of dayes between the
+# two dates. Notice that this line uses commas instead of plus
+# signs, which is why it doesn't have to convert the dates to
+# strings: Python does that implicitly when we use this syntax.
+print("There are", days_between, "days between", earlier_date, "and", later_date)
