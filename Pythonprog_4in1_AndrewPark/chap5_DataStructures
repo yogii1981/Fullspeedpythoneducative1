@@ -312,3 +312,83 @@ days_between = (delta.days)
 # signs, which is why it doesn't have to convert the dates to
 # strings: Python does that implicitly when we use this syntax.
 print("There are", days_between, "days between", earlier_date, "and", later_date)
+
+# a = 7
+# b = 2
+# c = 6
+# d = 6
+# e = 4
+# print(a == b)
+# print(c == d)
+# print(e == e)
+# print(6 == c)
+#
+# print(not (not True or not False))
+# print(True or  False)
+# print(not (not(True and True) or False))
+
+# can_fly = True
+# is_blue = False
+# has_tail = False
+# can_see = True
+#
+# print(can_fly and can_see)
+# print(can_fly or has_tail and can_see)
+# print(has_tail or is_blue)
+# print(can_see and can_fly and is_blue)
+# print(has_tail)
+#
+#
+# print(35 > "Hello")
+
+mystery_string_1 = str("rice")
+mystery_string_2 = str("Rice")
+
+# You may modify the lines of code above, but don't move them!
+# When you Submit your code, we'll change these lines to
+# assign different values to the variables.
+
+# Remember, greater than and less than operators can be used to
+# compare strings. A string is "less than" another string if it
+# comes earlier when sorted alphabetically.
+#
+# This can have some nuances, though, when it comes to
+# capitalization, punctuation, and spaces.
+#
+# Write some code below that will print True if mystery_string_1
+# comes before mystery_string_2 alphabetically according to
+# Python, and False if it does not.
+#
+# While this might be a simple line of code, we'd strongly
+# recommend checking out the submission results to see some of
+# the odd ways that Python performs. For example, don't be
+# surprised when your code says that it's True that "Grapes"
+# comes before "apples" alphabetically: Python puts all
+# upper-case letters before all lower-case letters.
+
+
+# Write your code here!
+
+if len(mystery_string_1) == len(mystery_string_2) and (mystery_string_1) < (mystery_string_2):
+    print("True")
+else:
+    print("False")
+
+balance = 20.0
+price = 19.0
+
+# You may modify the lines of code above, but don't move them!
+# When you Submit your code, we'll change these lines to
+# assign different values to the variables.
+
+# Imagine we're writing some software for a cash register or
+# credit card processor. We want to approve a purchase if the
+# customer's balance is greater than or equal to the purchase
+# price, and reject it otherwise.
+#
+# Write some code below that will print True if balance is
+# greater than or equal to price, and False if it is not.
+
+
+# Add your code here!
+print(balance >= price)
