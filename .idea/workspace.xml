@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="372">
-              <caret line="466" selection-start-line="466" selection-end-line="466" />
+              <caret line="533" column="43" selection-start-line="533" selection-start-column="43" selection-end-line="533" selection-end-column="43" />
               <folding>
                 <element signature="e#6726#6751#0" expanded="true" />
               </folding>
@@ -342,20 +342,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00215" summary="commit">
-      <created>1588559523648</created>
-      <option name="number" value="00215" />
-      <option name="presentableId" value="LOCAL-00215" />
-      <option name="project" value="LOCAL" />
-      <updated>1588559523648</updated>
-    </task>
-    <task id="LOCAL-00216" summary="commit">
-      <created>1588559616752</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1588559616752</updated>
     </task>
     <task id="LOCAL-00217" summary="commit">
       <created>1588599386328</created>
@@ -686,7 +672,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628711005603</updated>
     </task>
-    <option name="localTasksCounter" value="264" />
+    <task id="LOCAL-00264" summary="commit">
+      <created>1628756317573</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1628756317574</updated>
+    </task>
+    <task id="LOCAL-00265" summary="commit">
+      <created>1628757946432</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1628757946432</updated>
+    </task>
+    <option name="localTasksCounter" value="266" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1246,7 +1246,7 @@
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
-          <caret line="466" selection-start-line="466" selection-end-line="466" />
+          <caret line="533" column="43" selection-start-line="533" selection-start-column="43" selection-end-line="533" selection-end-column="43" />
           <folding>
             <element signature="e#6726#6751#0" expanded="true" />
           </folding>
