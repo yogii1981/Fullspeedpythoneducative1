@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="372">
-              <caret line="533" column="43" selection-start-line="533" selection-start-column="43" selection-end-line="533" selection-end-column="43" />
+              <caret line="789" selection-start-line="789" selection-end-line="789" />
               <folding>
                 <element signature="e#6726#6751#0" expanded="true" />
               </folding>
@@ -106,8 +106,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
-    <option name="y" value="202" />
+    <option name="x" value="60" />
+    <option name="y" value="149" />
     <option name="width" value="1549" />
     <option name="height" value="734" />
   </component>
@@ -342,20 +342,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00217" summary="commit">
-      <created>1588599386328</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1588599386329</updated>
-    </task>
-    <task id="LOCAL-00218" summary="commit">
-      <created>1588599521056</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1588599521056</updated>
     </task>
     <task id="LOCAL-00219" summary="commit">
       <created>1588632314804</created>
@@ -686,7 +672,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628757946432</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="commit">
+      <created>1628759377143</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1628759377143</updated>
+    </task>
+    <task id="LOCAL-00267" summary="commit">
+      <created>1629166268192</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1629166268192</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="TodoView">
@@ -699,7 +699,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="202" width="1549" height="734" extended-state="0" />
+    <frame x="60" y="149" width="1549" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23102094" />
@@ -1246,7 +1246,7 @@
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
-          <caret line="533" column="43" selection-start-line="533" selection-start-column="43" selection-end-line="533" selection-end-column="43" />
+          <caret line="789" selection-start-line="789" selection-end-line="789" />
           <folding>
             <element signature="e#6726#6751#0" expanded="true" />
           </folding>
