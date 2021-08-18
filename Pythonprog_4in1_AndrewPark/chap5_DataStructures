@@ -931,3 +931,91 @@ print("Quarters:", quarters)
 print("Dimes:", dimes)
 print("Nickels:", nickels)
 print("Pennies:", pennies)
+
+meal_cost = 10.00
+tax_rate = 0.08
+tip_rate = 0.20
+
+# You may modify the lines of code above, but don't move them!
+# When you Submit your code, we'll change these lines to
+# assign different values to the variables.
+
+# When eating at a restaurant in the United States, it's
+# customary to have two percentage-based surcharges added on
+# top of your bill: sales tax and tip. These percentages are
+# both applies to the original cost of the meal. For example,
+# a 10.00 meal with 8% sales tax and 20% tip would add 0.80
+# for tax (0.08 * 10.00) and 2.00 for tip (0.20 * 10.00).
+#
+# The variables above create the cost of a meal and identify
+# what percentage should be charged for tax and tip.
+#
+# Add some code below that will print the "receipt" for a
+# meal purchase. The receipt should look like this:
+#
+# Subtotal: 10.00
+# Tax: 0.8
+# Tip: 2.0
+# Total: 12.8
+#
+# Subtotal is the original value of meal_cost, tax is the
+# tax rate times the meal cost, tip is the tip rate times
+# the meal cost, and total is the sum of all three numbers.
+# Don't worry about the number of decimal places; it's fine
+# if your code leaves off some numbers (like 0.8 for tax) or
+# includes too many decimal places (like 2.121212121 for tip).
+
+
+# Add your code here!
+Subtotal = format(meal_cost, '.2f')
+Tax = tax_rate * 10
+Tip = tip_rate * 10
+Total = Subtotal + Tax + Tip
+print("Subtotal: ", Subtotal)
+print("Tax: ", Tax)
+print("Tip: ", Tip)
+print("Total: ", Total)
+
+start_hour = 3
+start_minute = 48
+length = 172
+
+# You may modify the lines of code above, but don't move them!
+# When you Submit your code, we'll change these lines to
+# assign different values to the variables.
+
+# Let's try something trickier! The variables above represent
+# the start time for a run as well as the length of the run
+# in minutes. The original values, for example, show a run
+# that started at 3:48 and lasted 172 minutes.
+#
+# Add some code below that will print the time at which the
+# run will end, using normal formatting (e.g. 6:40 for the
+# original data above). To do this, you'll need to somehow
+# find both the hours and minutes of the new time, convert
+# both to strings, and add those to the colon ":" to print
+# the time.
+#
+# You may assume that the length of the run will never cross
+# 12:59 (e.g. you don't have to worry about going from
+# 12:59 to 1:00 or 23:59 to 0:00). You also don't need to
+# worry about the lack of 0 in front of single-digit minute
+# counts (e.g. it's fine to show 5:07 as 5:7).
+
+
+# Add your code here!
+end_hour = start_hour
+
+# complete the first uncomplete hour if possible
+if length - (60 - start_minute) > 0:
+    length = length - (60 - start_minute)
+    end_hour += 1
+else:
+    length = length + start_minute
+
+# update the hours and minumtes
+end_hour += length // 60
+end_minute = length % 60
+
+end_time = str(end_hour) + ":" + str(end_minute)
+print(end_time)
