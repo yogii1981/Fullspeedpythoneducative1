@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
+    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" afterDir="false" />
     </list>
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="1093" selection-start-line="1093" selection-end-line="1093" />
+            <state relative-caret-position="-325">
+              <caret line="1114" column="13" selection-start-line="1114" selection-start-column="13" selection-end-line="1114" selection-end-column="13" />
               <folding>
                 <element signature="e#6726#6751#0" expanded="true" />
               </folding>
@@ -106,10 +106,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="415" />
-    <option name="y" value="23" />
-    <option name="width" value="959" />
-    <option name="height" value="617" />
+    <option name="x" value="60" />
+    <option name="y" value="149" />
+    <option name="width" value="1549" />
+    <option name="height" value="734" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -342,20 +342,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00223" summary="commit">
-      <created>1588686089810</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1588686089810</updated>
-    </task>
-    <task id="LOCAL-00224" summary="commit">
-      <created>1588814268289</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1588814268289</updated>
     </task>
     <task id="LOCAL-00225" summary="commit">
       <created>1588820576447</created>
@@ -686,7 +672,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629326803145</updated>
     </task>
-    <option name="localTasksCounter" value="272" />
+    <task id="LOCAL-00272" summary="commit">
+      <created>1629327872570</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1629327872571</updated>
+    </task>
+    <task id="LOCAL-00273" summary="commit">
+      <created>1629379461274</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1629379461274</updated>
+    </task>
+    <option name="localTasksCounter" value="274" />
     <servers />
   </component>
   <component name="TodoView">
@@ -699,10 +699,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="415" y="23" width="959" height="617" extended-state="0" />
+    <frame x="60" y="149" width="1549" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3763326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23102094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -710,7 +710,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47974414" visible="true" weight="0.36" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47971204" visible="true" weight="0.29439253" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48625654" weight="0.6853582" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -718,7 +718,7 @@
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32822084" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52025586" side_tool="true" visible="true" weight="0.36" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52028793" side_tool="true" visible="true" weight="0.29439253" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36760125" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.48759124" weight="0.31464174" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
@@ -1245,8 +1245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="1093" selection-start-line="1093" selection-end-line="1093" />
+        <state relative-caret-position="-325">
+          <caret line="1114" column="13" selection-start-line="1114" selection-start-column="13" selection-end-line="1114" selection-end-column="13" />
           <folding>
             <element signature="e#6726#6751#0" expanded="true" />
           </folding>

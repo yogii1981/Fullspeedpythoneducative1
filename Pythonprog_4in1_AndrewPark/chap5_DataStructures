@@ -967,9 +967,9 @@ tip_rate = 0.20
 
 
 # Add your code here!
-Subtotal = format(meal_cost, '.2f')
-Tax = tax_rate * 10
-Tip = tip_rate * 10
+Subtotal = meal_cost
+Tax = tax_rate * meal_cost
+Tip = tip_rate * meal_cost
 Total = Subtotal + Tax + Tip
 print("Subtotal: ", Subtotal)
 print("Tax: ", Tax)
@@ -1111,3 +1111,42 @@ deposit = "10"
 # Add your code here!
 new_balance = float(old_balance) + float(deposit)
 print("The new balance is:", new_balance)
+
+balance = 600
+income = 200
+price = 1000
+months = 6
+
+# You may modify the lines of code above, but don't move them!
+# When you Submit your code, we'll change these lines to
+# assign different values to the variables.
+
+# You're thinking of buying a new computer. The variables
+# above represent the balance of your bank account, your
+# monthly disposable income, the total price of the computer,
+# and the number of months that the retailer will give you to
+# pay off the computer.
+#
+# You can buy the computer if either (a) you can afford to
+# buy the computer in cash right now (balance is greater than
+# price), or (b) you can afford the monthly payments (income
+# is greater than price divided by months).
+#
+# In other words, if a computer cost $1200 and you spread it
+# out over 12 months, you would need your monthly available
+# income to be at least $100 to buy the computer, or you
+# would need your current bank balance to be at least $1200.
+#
+# Add some code below that will print True if you're able to
+# afford the computer given the values above, and False if you
+# are not.
+
+
+# Add your code below!
+if balance > price:
+    print("Balance is greater than price = True")
+else:
+    if (income * months > price):
+        print("You can afford over the period of time :True")
+    else:
+        print("False")
