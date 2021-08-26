@@ -12,3 +12,16 @@ if number_1 % 2 == 1:
     print("number_1 = {0} is odd".format(number_1))
 else:
     print("number_1 = {0} is even".format(number_1))
+
+# program2: “Given number1=8, number2=13, write a program to only
+# display if the sum is less than 10.”
+
+number1 = 8
+number2 = 13
+
+sumofnumbers = 0
+
+sumofnumbers = number1 + number2
+
+if sumofnumbers > 10:
+    print("The sum of {0} and {1} is equal to {2} is greater than 10.".format(number1, number2, sumofnumbers))
