@@ -1,0 +1,14 @@
+# Excerpt From: Academy, Tech Ed. “PYTHON: Learn Coding Programs with
+# Python Programming and Master Data Analysis & Analytics, Data Science and
+# Machine Learning with the Complete Python for Beginners
+# Crash Course - 4 Books in 1.” Apple Books.
+
+# Program 1 “Given number=7, write a program to test and display only
+# even numbers.
+
+number_1 = 7
+
+if number_1 % 2 == 1:
+    print("number_1 = {0} is odd".format(number_1))
+else:
+    print("number_1 = {0} is even".format(number_1))
