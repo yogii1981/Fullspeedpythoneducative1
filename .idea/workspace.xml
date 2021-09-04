@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="1248" lean-forward="true" selection-start-line="1248" selection-end-line="1248" />
+            <state relative-caret-position="255">
+              <caret line="1279" selection-start-line="1279" selection-end-line="1279" />
             </state>
           </provider>
         </entry>
@@ -30,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -113,8 +112,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
-    <option name="y" value="146" />
+    <option name="x" value="255" />
+    <option name="y" value="23" />
     <option name="width" value="1162" />
     <option name="height" value="617" />
   </component>
@@ -349,20 +348,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00228" summary="commit">
-      <created>1588856387045</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1588856387045</updated>
-    </task>
-    <task id="LOCAL-00229" summary="commit">
-      <created>1588886671434</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1588886671434</updated>
     </task>
     <task id="LOCAL-00230" summary="commit">
       <created>1588887276799</created>
@@ -693,7 +678,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629936762798</updated>
     </task>
-    <option name="localTasksCounter" value="277" />
+    <task id="LOCAL-00277" summary="commit">
+      <created>1630713370295</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1630713370295</updated>
+    </task>
+    <task id="LOCAL-00278" summary="commit">
+      <created>1630713933085</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1630713933085</updated>
+    </task>
+    <option name="localTasksCounter" value="279" />
     <servers />
   </component>
   <component name="TodoView">
@@ -706,7 +705,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="146" width="1162" height="617" extended-state="0" />
+    <frame x="255" y="23" width="1162" height="617" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30937773" />
@@ -1245,15 +1244,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="1248" lean-forward="true" selection-start-line="1248" selection-end-line="1248" />
+        <state relative-caret-position="255">
+          <caret line="1279" selection-start-line="1279" selection-end-line="1279" />
         </state>
       </provider>
     </entry>
