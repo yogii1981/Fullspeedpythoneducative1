@@ -1277,3 +1277,90 @@ print("The distance in kilometers is " + str(my_trip_km))
 # 4) Calculate the round-trip in kilometers by doubling the result,
 #    and fill in the blank to print the result
 print("The round-trip in kilometers is " + str(my_trip_km * 2))
+
+
+# Question 2
+# Complete the script by filling in the missing parts.
+# The function receives a name,
+# then returns a greeting based on whether or not that name is "Taylor
+def greeting(name):
+    if name == "Taylor":
+        return "Welcome back Taylor!"
+    else:
+        return "Hello there, " + name
+
+
+print(greeting("Taylor"))
+print(greeting("John"))
+
+print("big" > "small")
+
+print(11 % 5)
+
+
+#
+# def sum(x, y):
+# 		return(x+y)
+# print(sum(sum(1,2), sum(3,4)))
+#
+# def fractional_part(numerator, denominator):
+# 	# Operate with numerator and denominator to
+# # keep just the fractional part of the quotient
+# 	if denominator > 0:
+# 		frationalpart = (numerator/denominator) -  (numerator % denominator)
+# 	else:
+# 		return 0
+#
+# print(fractional_part(5, 5)) # Should be 0
+# print(fractional_part(5, 4)) # Should be 0.25
+# print(fractional_part(5, 3)) # Should be 0.66...
+# print(fractional_part(5, 2)) # Should be 0.5
+# print(fractional_part(5, 0)) # Should be 0
+# print(fractional_part(0, 5)) # Should be 0
+
+# to make the print_prime_factors function print all
+# the prime factors of a number.
+# A prime factor is a number that is prime and divides
+# another without a remainder
+# def print_prime_factors(number):
+#   # Start with two, which is the first prime
+#   factor = 2
+#   # Keep going until the factor is larger than the number
+#   while factor <= number:
+#     # Check if factor is a divisor of number
+#     if number % factor == 0:
+#       # If it is, print it and divide the original number
+#       print(factor)
+#       number = number / factor
+#     else:
+#      factor = factor + 1
+#      print(factor)
+#   return "Done"
+
+# print_prime_factors(100)
+# # Should print 2,2,5,5
+# # DO NOT DELETE THIS COMMENT
+
+
+def printSeries(start, end, interval):
+    temp = start
+    while temp < end:
+        print(temp),
+        temp += interval
+
+
+printSeries(5, 240, 20)
+
+import math
+
+z = 81
+print(int(math.sqrt(81)))
+
+# formatting with f-strings example1
+username = "Allan"
+print(f'Hello {username}')
+
+# formatting with f-strings example2
+unit_price = 49.99
+quantity = 39
+print(f"Subtotal: ${quantity * unit_price}")
