@@ -1364,3 +1364,10 @@ print(f'Hello {username}')
 unit_price = 49.99
 quantity = 39
 print(f"Subtotal: ${quantity * unit_price}")
+print(f"Subtotal: ${quantity * unit_price:,.3f}")  # 3 decimal points in Subtotal
+
+# Formatting percent numbers
+
+sales_tax_rate = 0.065
+print(f"Sales tax Rates {sales_tax_rate}")
+print(f"Sales tax Rates {sales_tax_rate: .2%}")

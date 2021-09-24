@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Chap2_Datatypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap3_Datavariables" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Chap3_Datavariables" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/chap5_DataStructures" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,20 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/chap5_DataStructures">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="1359" column="35" selection-start-line="1359" selection-start-column="35" selection-end-line="1362" selection-end-column="44" />
+            <state relative-caret-position="23307">
+              <caret line="1372" column="47" lean-forward="true" selection-start-line="1372" selection-start-column="47" selection-end-line="1372" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="323">
+              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -135,7 +138,7 @@
             <path>
               <item name="Fullspeedpythoneducative2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fullspeedpythoneducative2" type="462c0819:PsiDirectoryNode" />
-              <item name="Pythonprog_4in1_AndrewPark" type="462c0819:PsiDirectoryNode" />
+              <item name="Pythonprog_4in1_Tech_ED_Academy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chap5_DataStructures">
+  <component name="RunManager" selected="Python.chap_8_prog_floq_if_else,elif">
     <configuration name="Chap2_Datatypes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chap5_DataStructures" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="chap5_DataStructures" type="PythonConfigurationType" factoryName="Python">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,7 +333,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chap5_DataStructures" />
         <item itemvalue="Python.chap_8_prog_floq_if_else,elif" />
         <item itemvalue="Python.Chap3_Datavariables" />
         <item itemvalue="Python.Chap2_Datatypes" />
@@ -348,20 +350,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00232" summary="commit">
-      <created>1588888628042</created>
-      <option name="number" value="00232" />
-      <option name="presentableId" value="LOCAL-00232" />
-      <option name="project" value="LOCAL" />
-      <updated>1588888628042</updated>
-    </task>
-    <task id="LOCAL-00233" summary="commit">
-      <created>1588889419364</created>
-      <option name="number" value="00233" />
-      <option name="presentableId" value="LOCAL-00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1588889419364</updated>
     </task>
     <task id="LOCAL-00234" summary="commit">
       <created>1588950187638</created>
@@ -692,7 +680,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630719702946</updated>
     </task>
-    <option name="localTasksCounter" value="281" />
+    <task id="LOCAL-00281" summary="commit">
+      <created>1631158152120</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1631158152121</updated>
+    </task>
+    <task id="LOCAL-00282" summary="commit">
+      <created>1631158169343</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1631158169343</updated>
+    </task>
+    <option name="localTasksCounter" value="283" />
     <servers />
   </component>
   <component name="TodoView">
@@ -708,7 +710,7 @@
     <frame x="76" y="23" width="1162" height="762" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30937773" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30937773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -716,7 +718,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47414547" visible="true" weight="0.35970148" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47326908" visible="true" weight="0.35970148" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.6850746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -724,9 +726,9 @@
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32822084" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5258545" side_tool="true" visible="true" weight="0.35970148" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52673095" side_tool="true" visible="true" weight="0.35970148" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36760125" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4820333" weight="0.31343284" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" weight="0.31343284" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1228,31 +1230,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes">
+    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Chap2_Datatypes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap3_Datavariables">
+    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Chap3_Datavariables">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
+    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/chap5_DataStructures">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="23307">
+          <caret line="1372" column="47" lean-forward="true" selection-start-line="1372" selection-start-column="47" selection-end-line="1372" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
+    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="1359" column="35" selection-start-line="1359" selection-start-column="35" selection-end-line="1362" selection-end-column="44" />
+        <state relative-caret-position="323">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
     </entry>
