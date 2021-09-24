@@ -1,0 +1,34 @@
+# FOR LOOP in python
+
+numbers = [12, 3, 18, 10, 7, 2, 3, 6, 1]
+sum = 0
+for i in numbers:
+    sum += i
+    print("The sum is", sum)
+print(sum)
+
+# For loop to add the marks
+marks = [3, 8, 19, 6, 18, 29, 15]
+sum_of_marks = 0
+for m in marks:
+    sum_of_marks += m
+print("The total sum marks are equal to ", sum_of_marks)
+
+## range() function in Python
+## (range()) generates the range
+
+print(range(7))
+
+# “Create a program in Python to iterate through the following list and
+# include the message I listen to (each of the music genre).
+# Use the for loop, len() and range(). Refer to the previous example on syntax.
+
+folders = ["Rumba", "House", "Rock"]
+# sentence = 0
+for i in range(len(folders)):
+    # sentence += i
+    print("I listen to ", folders[i])
+
+# Written program without using len and range
+# for i in folders:
+#     print("I listen to",i)

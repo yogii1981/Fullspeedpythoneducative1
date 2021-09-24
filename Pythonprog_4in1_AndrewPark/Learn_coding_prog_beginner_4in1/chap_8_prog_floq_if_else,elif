@@ -44,3 +44,16 @@ if apples == 0:
     print("Where are the apples?")
 else:
     print("Did you know the buses are {}s?".format(bus))
+
+#
+# #Nested if statements in python
+# my_charact= str(input("Enter my_charact:"))
+#
+# if (my_charact==’a’):
+#     if (my_charact ==’a’):
+#         print(“a”)
+#     else:
+#     (my_charact==’b’)
+#         print(“b”)
+# else:
+#     print(“c”)
