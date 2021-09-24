@@ -1,0 +1,253 @@
+Index: Pythonprog_4in1_AndrewPark/chap5_DataStructures
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Pythonprog_4in1_AndrewPark/chap5_DataStructures	(revision 650c9317c7a873c42da566782e27f0273a5cb112)
++++ Pythonprog_4in1_AndrewPark/chap5_DataStructures	(date 1631158145168)
+@@ -1277,3 +1277,90 @@
+ # 4) Calculate the round-trip in kilometers by doubling the result,
+ #    and fill in the blank to print the result
+ print("The round-trip in kilometers is " + str(my_trip_km * 2))
++
++
++# Question 2
++# Complete the script by filling in the missing parts.
++# The function receives a name,
++# then returns a greeting based on whether or not that name is "Taylor
++def greeting(name):
++    if name == "Taylor":
++        return "Welcome back Taylor!"
++    else:
++        return "Hello there, " + name
++
++
++print(greeting("Taylor"))
++print(greeting("John"))
++
++print("big" > "small")
++
++print(11 % 5)
++
++
++#
++# def sum(x, y):
++# 		return(x+y)
++# print(sum(sum(1,2), sum(3,4)))
++#
++# def fractional_part(numerator, denominator):
++# 	# Operate with numerator and denominator to
++# # keep just the fractional part of the quotient
++# 	if denominator > 0:
++# 		frationalpart = (numerator/denominator) -  (numerator % denominator)
++# 	else:
++# 		return 0
++#
++# print(fractional_part(5, 5)) # Should be 0
++# print(fractional_part(5, 4)) # Should be 0.25
++# print(fractional_part(5, 3)) # Should be 0.66...
++# print(fractional_part(5, 2)) # Should be 0.5
++# print(fractional_part(5, 0)) # Should be 0
++# print(fractional_part(0, 5)) # Should be 0
++
++# to make the print_prime_factors function print all
++# the prime factors of a number.
++# A prime factor is a number that is prime and divides
++# another without a remainder
++# def print_prime_factors(number):
++#   # Start with two, which is the first prime
++#   factor = 2
++#   # Keep going until the factor is larger than the number
++#   while factor <= number:
++#     # Check if factor is a divisor of number
++#     if number % factor == 0:
++#       # If it is, print it and divide the original number
++#       print(factor)
++#       number = number / factor
++#     else:
++#      factor = factor + 1
++#      print(factor)
++#   return "Done"
++
++# print_prime_factors(100)
++# # Should print 2,2,5,5
++# # DO NOT DELETE THIS COMMENT
++
++
++def printSeries(start, end, interval):
++    temp = start
++    while temp < end:
++        print(temp),
++        temp += interval
++
++
++printSeries(5, 240, 20)
++
++import math
++
++z = 81
++print(int(math.sqrt(81)))
++
++# formatting with f-strings example1
++username = "Allan"
++print(f'Hello {username}')
++
++# formatting with f-strings example2
++unit_price = 49.99
++quantity = 39
++print(f"Subtotal: ${quantity * unit_price}")
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 650c9317c7a873c42da566782e27f0273a5cb112)
++++ .idea/workspace.xml	(date 1631158139397)
+@@ -20,8 +20,8 @@
+       <file pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="255">
+-              <caret line="1279" selection-start-line="1279" selection-end-line="1279" />
++            <state relative-caret-position="328">
++              <caret line="1359" column="35" selection-start-line="1359" selection-start-column="35" selection-end-line="1362" selection-end-column="44" />
+             </state>
+           </provider>
+         </entry>
+@@ -29,8 +29,8 @@
+       <file pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="459">
+-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
++            <state relative-caret-position="227">
++              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+             </state>
+           </provider>
+         </entry>
+@@ -112,10 +112,10 @@
+     </option>
+   </component>
+   <component name="ProjectFrameBounds">
+-    <option name="x" value="255" />
++    <option name="x" value="76" />
+     <option name="y" value="23" />
+     <option name="width" value="1162" />
+-    <option name="height" value="617" />
++    <option name="height" value="762" />
+   </component>
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectView">
+@@ -123,6 +123,8 @@
+       <foldersAlwaysOnTop value="true" />
+     </navigator>
+     <panes>
++      <pane id="Scope" />
++      <pane id="Course" />
+       <pane id="ProjectPane">
+         <subPane>
+           <expand>
+@@ -139,8 +141,6 @@
+           <select />
+         </subPane>
+       </pane>
+-      <pane id="Scope" />
+-      <pane id="Course" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+@@ -348,20 +348,6 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1584068898875</updated>
+-    </task>
+-    <task id="LOCAL-00230" summary="commit">
+-      <created>1588887276799</created>
+-      <option name="number" value="00230" />
+-      <option name="presentableId" value="LOCAL-00230" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1588887276799</updated>
+-    </task>
+-    <task id="LOCAL-00231" summary="commit">
+-      <created>1588887298000</created>
+-      <option name="number" value="00231" />
+-      <option name="presentableId" value="LOCAL-00231" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1588887298000</updated>
+     </task>
+     <task id="LOCAL-00232" summary="commit">
+       <created>1588888628042</created>
+@@ -692,7 +678,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1630713933085</updated>
+     </task>
+-    <option name="localTasksCounter" value="279" />
++    <task id="LOCAL-00279" summary="commit">
++      <created>1630719629008</created>
++      <option name="number" value="00279" />
++      <option name="presentableId" value="LOCAL-00279" />
++      <option name="project" value="LOCAL" />
++      <updated>1630719629008</updated>
++    </task>
++    <task id="LOCAL-00280" summary="commit">
++      <created>1630719702946</created>
++      <option name="number" value="00280" />
++      <option name="presentableId" value="LOCAL-00280" />
++      <option name="project" value="LOCAL" />
++      <updated>1630719702946</updated>
++    </task>
++    <option name="localTasksCounter" value="281" />
+     <servers />
+   </component>
+   <component name="TodoView">
+@@ -705,7 +705,7 @@
+     </todo-panel>
+   </component>
+   <component name="ToolWindowManager">
+-    <frame x="255" y="23" width="1162" height="617" extended-state="0" />
++    <frame x="76" y="23" width="1162" height="762" extended-state="0" />
+     <editor active="true" />
+     <layout>
+       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30937773" />
+@@ -716,17 +716,17 @@
+       <window_info id="Job Explorer" order="5" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4785276" visible="true" weight="0.36" />
+-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48625654" weight="0.6853582" />
++      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47414547" visible="true" weight="0.35970148" />
++      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.6850746" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918568" weight="0.32943144" />
+       <window_info anchor="bottom" id="Console" order="7" />
+       <window_info anchor="bottom" id="DB Execution Console" order="8" />
+       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32822084" />
+-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5214724" side_tool="true" visible="true" weight="0.36" />
++      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5258545" side_tool="true" visible="true" weight="0.35970148" />
+       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36760125" />
+-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.48759124" weight="0.31464174" />
++      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4820333" weight="0.31343284" />
+       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
+       <window_info anchor="bottom" id="Educational.CheckDetails" order="14" />
+       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+@@ -1244,15 +1244,15 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="459">
+-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
++        <state relative-caret-position="227">
++          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="255">
+-          <caret line="1279" selection-start-line="1279" selection-end-line="1279" />
++        <state relative-caret-position="328">
++          <caret line="1359" column="35" selection-start-line="1359" selection-start-column="35" selection-end-line="1362" selection-end-column="44" />
+         </state>
+       </provider>
+     </entry>
