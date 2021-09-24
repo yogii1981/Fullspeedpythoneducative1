@@ -25,3 +25,6 @@ sumofnumbers = number1 + number2
 
 if sumofnumbers > 10:
     print("The sum of {0} and {1} is equal to {2} is greater than 10.".format(number1, number2, sumofnumbers))
+
+# Program 1 “Given number=7, write a program to test and display only
+# even numbers.
