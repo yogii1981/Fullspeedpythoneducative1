@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="" />
+    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23307">
-              <caret line="1372" column="47" lean-forward="true" selection-start-line="1372" selection-start-column="47" selection-end-line="1372" selection-end-column="47" />
+              <caret line="1372" column="47" selection-start-line="1372" selection-start-column="47" selection-end-line="1372" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -26,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="348">
+              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -102,9 +105,9 @@
         <option value="$PROJECT_DIR$/Bite_size python/stringtest.py" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap3_Datavariables" />
-        <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" />
+        <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" />
       </list>
     </option>
   </component>
@@ -144,7 +147,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Bite_size python" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.520751" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -344,27 +347,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00236" summary="commit">
-      <created>1589589347739</created>
-      <option name="number" value="00236" />
-      <option name="presentableId" value="LOCAL-00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1589589347740</updated>
-    </task>
-    <task id="LOCAL-00237" summary="commit">
-      <created>1589643457827</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1589643457827</updated>
-    </task>
-    <task id="LOCAL-00238" summary="commit">
-      <created>1589645730970</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1589645730970</updated>
     </task>
     <task id="LOCAL-00239" summary="commit">
       <created>1589646124095</created>
@@ -688,7 +670,28 @@
       <option name="project" value="LOCAL" />
       <updated>1632450366222</updated>
     </task>
-    <option name="localTasksCounter" value="285" />
+    <task id="LOCAL-00285" summary="commit">
+      <created>1632450754920</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1632450754920</updated>
+    </task>
+    <task id="LOCAL-00286" summary="commit">
+      <created>1632450763272</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1632450763272</updated>
+    </task>
+    <task id="LOCAL-00287" summary="commit">
+      <created>1632452308818</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1632452308818</updated>
+    </task>
+    <option name="localTasksCounter" value="288" />
     <servers />
   </component>
   <component name="TodoView">
@@ -712,7 +715,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47326908" visible="true" weight="0.35970148" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47326908" visible="true" weight="0.35970148" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.6850746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -720,7 +723,7 @@
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32822084" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.52673095" side_tool="true" visible="true" weight="0.35970148" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52673095" side_tool="true" weight="0.35970148" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36760125" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" weight="0.31343284" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
@@ -899,13 +902,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/getsquare_getcube.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/listcomprehension.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1241,14 +1237,21 @@
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23307">
-          <caret line="1372" column="47" lean-forward="true" selection-start-line="1372" selection-start-column="47" selection-end-line="1372" selection-end-column="47" />
+          <caret line="1372" column="47" selection-start-line="1372" selection-start-column="47" selection-end-line="1372" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commit.patch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3659">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="348">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
         </state>
       </provider>
     </entry>
