@@ -35,3 +35,12 @@ count_int = 57
 
 if count_int > 45:
     print("The count is above the recommended number.")
+
+## Inceidental using the IF statement
+
+apples = 6
+bus = "yellow"
+if apples == 0:
+    print("Where are the apples?")
+else:
+    print("Did you know the buses are {}s?".format(bus))
