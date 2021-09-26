@@ -43,3 +43,26 @@ for i in range(start, end + 1):
                 break
         else:
             print("The number is prime", i)
+
+#  while loop
+counter = 65
+while counter < 91:
+    print(str(counter) + "=" + chr(counter))
+    counter += 1
+print("all done")
+
+# starting while loops over with continue
+
+import random
+
+print("odd numbers")
+counter = 0
+while counter < 10:
+    number = random.randint(1, 999)
+    if int(number / 2) == number / 2:
+        # if its even then don't print it
+        continue
+    # otherwise, if it's odd, print it and increment the counter
+    print(number)
+    counter += 1
+print("Loop is done")
