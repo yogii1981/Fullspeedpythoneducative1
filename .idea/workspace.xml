@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Chap9_loopsinpython">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="348">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -121,8 +121,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="76" />
-    <option name="y" value="23" />
+    <option name="x" value="144" />
+    <option name="y" value="56" />
     <option name="width" value="1162" />
     <option name="height" value="762" />
   </component>
@@ -384,20 +384,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00243" summary="commit">
-      <created>1599240449746</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1599240449746</updated>
-    </task>
-    <task id="LOCAL-00244" summary="commit">
-      <created>1615900235594</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1615900235595</updated>
     </task>
     <task id="LOCAL-00245" summary="commit">
       <created>1615900987083</created>
@@ -728,7 +714,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632504679509</updated>
     </task>
-    <option name="localTasksCounter" value="292" />
+    <task id="LOCAL-00292" summary="commit">
+      <created>1632505595842</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1632505595842</updated>
+    </task>
+    <task id="LOCAL-00293" summary="commit">
+      <created>1632699946557</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1632699946558</updated>
+    </task>
+    <option name="localTasksCounter" value="294" />
     <servers />
   </component>
   <component name="TodoView">
@@ -741,10 +741,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="23" width="1162" height="762" extended-state="0" />
+    <frame x="144" y="56" width="1162" height="762" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30937773" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30937773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -752,7 +752,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47326908" visible="true" weight="0.35970148" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47326908" visible="true" weight="0.35970148" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.6846939" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1288,7 +1288,7 @@
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Chap9_loopsinpython">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
         </state>
       </provider>
     </entry>
