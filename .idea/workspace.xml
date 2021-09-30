@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
+    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Chap9_loopsinpython" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Chap9_loopsinpython" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Speed_along_lists_tuples_pythonallinone_chap3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Speed_along_lists_tuples_pythonallinone_chap3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,29 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23307">
-              <caret line="1372" column="47" selection-start-line="1372" selection-start-column="47" selection-end-line="1372" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Chap9_loopsinpython">
+        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Speed_along_lists_tuples_pythonallinone_chap3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+            <state relative-caret-position="379">
+              <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -66,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/getsquare.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/listcomprehensionevene_odd.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/evensquarenotdivisiblebythree.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/sumofsquare.py" />
@@ -117,6 +98,7 @@
         <option value="$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Chap9_loopsinpython" />
+        <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Speed_along_lists_tuples_pythonallinone_chap3.py" />
       </list>
     </option>
   </component>
@@ -195,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Chap9_loopsinpython">
+  <component name="RunManager" selected="Python.Speed_along_lists_tuples_pythonallinone_chap3">
     <configuration name="Chap2_Datatypes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,6 +235,24 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Chap9_loopsinpython" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Speed_along_lists_tuples_pythonallinone_chap3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Speed_along_lists_tuples_pythonallinone_chap3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -343,34 +343,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stringtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bite_size python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bite_size python/stringtest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Speed_along_lists_tuples_pythonallinone_chap3" />
         <item itemvalue="Python.Chap9_loopsinpython" />
         <item itemvalue="Python.chap_8_prog_floq_if_else,elif" />
         <item itemvalue="Python.Chap3_Datavariables" />
         <item itemvalue="Python.Chap2_Datatypes" />
-        <item itemvalue="Python.stringtest" />
       </list>
     </recent_temporary>
   </component>
@@ -384,20 +363,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00245" summary="commit">
-      <created>1615900987083</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1615900987083</updated>
-    </task>
-    <task id="LOCAL-00246" summary="commit">
-      <created>1615901064238</created>
-      <option name="number" value="00246" />
-      <option name="presentableId" value="LOCAL-00246" />
-      <option name="project" value="LOCAL" />
-      <updated>1615901064238</updated>
     </task>
     <task id="LOCAL-00247" summary="commit">
       <created>1624034060522</created>
@@ -728,7 +693,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632699946558</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <task id="LOCAL-00294" summary="commit">
+      <created>1632890684917</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1632890684919</updated>
+    </task>
+    <task id="LOCAL-00295" summary="commit">
+      <created>1632891350256</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1632891350256</updated>
+    </task>
+    <option name="localTasksCounter" value="296" />
     <servers />
   </component>
   <component name="TodoView">
@@ -752,7 +731,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47326908" visible="true" weight="0.35970148" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47326908" weight="0.35970148" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.6846939" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -762,7 +741,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32822084" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52673095" side_tool="true" weight="0.35970148" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36760125" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" weight="0.31343284" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" visible="true" weight="0.31343284" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -939,13 +918,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/evensquarenotdivisiblebythree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/sumofsquare.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
@@ -1289,6 +1261,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Speed_along_lists_tuples_pythonallinone_chap3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>
