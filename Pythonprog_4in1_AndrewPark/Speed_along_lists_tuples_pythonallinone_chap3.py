@@ -30,8 +30,7 @@ print(names)
 names[0] = "Anjali"  # changing an item in a list
 print(names)
 
-combining
-lists
+# combining lists
 names = ["Raj", "Amit", "Ketan"]
 names1 = ["Anjali", "Rita"]
 names.extend(names1)
@@ -46,13 +45,7 @@ letters = ["A", "B", "C", "B", "R", "C", "A"]
 letters.remove("C")  # only one "C" is removed
 print(letters)
 
-in order
-to
-remove
-all
-"C"
-use
-while loop
+#in order to remove all "C"  use while loop
 letters1 = ["A", "B", "C", "B", "R", "C", "A"]
 c_in_letters = letters1.count("C")  # Count the item "C" in the list
 print(c_in_letters)
