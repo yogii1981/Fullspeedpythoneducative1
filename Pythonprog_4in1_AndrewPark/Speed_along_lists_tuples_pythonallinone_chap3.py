@@ -30,7 +30,8 @@ print(names)
 names[0] = "Anjali"  # changing an item in a list
 print(names)
 
-# combining lists
+combining
+lists
 names = ["Raj", "Amit", "Ketan"]
 names1 = ["Anjali", "Rita"]
 names.extend(names1)
@@ -45,7 +46,13 @@ letters = ["A", "B", "C", "B", "R", "C", "A"]
 letters.remove("C")  # only one "C" is removed
 print(letters)
 
-# in order to remove all "C" use while loop
+in order
+to
+remove
+all
+"C"
+use
+while loop
 letters1 = ["A", "B", "C", "B", "R", "C", "A"]
 c_in_letters = letters1.count("C")  # Count the item "C" in the list
 print(c_in_letters)
@@ -57,3 +64,16 @@ while c_in_letters > 0:  # While the list has count of item = "C"
         letters1.remove("C")  # remove the item "C" once
         c_in_letters += 1
         print(letters1)
+
+# Counting how many times items appear in the list
+grades = ["A", "B", "C", "D", "E", "E", "A", "E", "D", "B"]
+# count for item "E
+e_ingrades = grades.count("E")
+# look for item E to count
+look_for = "D"
+e_ingrades = grades.count(look_for)
+print("There are  " + str(grades.count("A")) + " " + "A grades in the list")
+print("There are  " + str(grades.count("B")) + " " + "B grades in the list")
+print("There are  " + str(grades.count("C")) + " " + "B grades in the list")
+print("There are  " + str(e_ingrades) + " " + "E grades in the list")
+print("There are  " + str(look_for) + " " + "D grades in the list")
