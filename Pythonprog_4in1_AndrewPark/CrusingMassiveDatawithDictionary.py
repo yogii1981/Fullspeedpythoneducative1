@@ -25,4 +25,8 @@ print(people.get('raj'))  # it will give you "None" instead of crashing program
 print(people.get('raj',
                  'the key is not found'))  # it will display the second value if first value is not found in the dictionary
 
-# change
+# change the value of a key
+
+people = {'htaka': 'Haru Taka', 'ppatel': 'priya patel', 'rmala': 'rita mala'}
+people['htaka'] = "Hasya Taka"
+print(people['htaka'])
