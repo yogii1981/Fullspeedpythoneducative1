@@ -30,3 +30,45 @@ print(people.get('raj',
 people = {'htaka': 'Haru Taka', 'ppatel': 'priya patel', 'rmala': 'rita mala'}
 people['htaka'] = "Hasya Taka"
 print(people['htaka'])
+
+# Adding or changing data dictionary
+# dictionaryname.update(key,value)
+
+people1 = {'htaka': 'Haru Taka', 'ppatel': 'priya patel', 'rmala': 'rita mala'}
+people1.update({'lalex': 'lisa alex'})
+print("The people1 has", people1)
+people2 = {}
+people2 = people1.update({'hhobbit': "huge hobbit"})
+print(people2)
+
+
+def add_two_numbers(x, y):  # function header
+    """
+    Takes in two numbers and returns the sum
+    parameters
+        x : str
+            first number
+        y : str
+            second number
+    returns
+        x+y
+    """
+    z = x + y
+    return z  # function return
+
+
+print(add_two_numbers(100, 5))  # function  call
+
+
+def squarerootnumber(x):
+    z = (x) ** (1 / 2)
+    return int(z)
+
+
+print(squarerootnumber(9))
+
+y = lambda x, y: x + y  # an anonymous function which takes x and y and input and returns x+y
+print(y(100, 5))  # call the function
+
+y1 = lambda x, y, z: x + y - z
+print(y1(7, 9, 10))

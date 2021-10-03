@@ -1371,3 +1371,81 @@ print(f"Subtotal: ${quantity * unit_price:,.3f}")  # 3 decimal points in Subtota
 sales_tax_rate = 0.065
 print(f"Sales tax Rates {sales_tax_rate}")
 print(f"Sales tax Rates {sales_tax_rate: .2%}")
+
+# list are important
+# list are changeable, ordered and allow duplicates
+
+p1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+p2 = p1[0:5]
+print(p1)
+print(p2)
+
+# list of depths
+# This creates the list
+depths = [1, 5, 3, 6, 4, 7, 10, 12]
+
+# This outputs the first 5 elements. No number before the : implies 0
+first_5_depths = depths[:5]
+
+sumof_first_5_depths = print(sum(first_5_depths))
+
+# Slicing with a negative starts from the end, so this returns the last element
+print("---3---")
+print(depths[-1])
+
+# This returns the end of the list starting from the second to the end
+# Nothing after the : implies the end of the list
+print("---4---")
+print(depths[-2:])
+
+# Keys are first then a : then the value
+my_dict = {"age": 22, "birth_year": 1999, "name": "jack", "siblings": ["jill", "jen"]}
+
+# get the value of age
+print(my_dict['age'])
+print(my_dict.get('age'))
+print(my_dict.items())
+
+# You can also use defaultdict, which is a more advanced dictionary data type that allows you to specify a default data type
+
+from collections import defaultdict  # import defaultdict class
+
+my_default_dict = defaultdict(int)  # make a default dictionary where it assumes all values are integers
+my_default_dict['age'] = 22  # adding a key-value pair
+print(my_default_dict['company'])  # print the value of company is key and value exist else will print 0
+
+# Set in python - unordered collection of unique elements where duplicates are automatically removed
+# set allows you to operations like union, intersection and difference
+
+
+my_set = set()
+my_set.add(1)
+my_set.add(2)
+my_set.add(1)
+# Note that the set only contains a single 1 value
+print("---0---")
+print(my_set)
+
+my_set2 = set()
+my_set2.add(1)
+my_set2.add(2)
+my_set2.add(3)
+my_set2.add(4)
+print("---1---")
+print(my_set2)
+
+# Prints the overlap
+print("---1---")
+print(my_set.intersection(my_set2))
+print("---2---")
+
+# Prints the combination
+print(my_set.union(my_set2))
+
+# Prints the difference (those in my_set but not my_set2)
+print("---3---")
+print(my_set.difference(my_set2))
+
+# Prints the difference (those in my_set2 but not my_set)
+print("--4--")
+print(my_set2.difference(my_set))
