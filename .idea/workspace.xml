@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/controlflowandbuiltinfunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" afterDir="false" />
+    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+        <entry file="file://$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="396">
+              <caret line="49" column="129" lean-forward="true" selection-start-line="49" selection-start-column="129" selection-end-line="49" selection-end-column="129" />
             </state>
           </provider>
         </entry>
@@ -376,20 +375,6 @@
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
     </task>
-    <task id="LOCAL-00258" summary="commit">
-      <created>1626135891151</created>
-      <option name="number" value="00258" />
-      <option name="presentableId" value="LOCAL-00258" />
-      <option name="project" value="LOCAL" />
-      <updated>1626135891152</updated>
-    </task>
-    <task id="LOCAL-00259" summary="commit">
-      <created>1626139782137</created>
-      <option name="number" value="00259" />
-      <option name="presentableId" value="LOCAL-00259" />
-      <option name="project" value="LOCAL" />
-      <updated>1626139782138</updated>
-    </task>
     <task id="LOCAL-00260" summary="commit">
       <created>1626140545530</created>
       <option name="number" value="00260" />
@@ -719,7 +704,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633303400901</updated>
     </task>
-    <option name="localTasksCounter" value="307" />
+    <task id="LOCAL-00307" summary="commit">
+      <created>1633467539476</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1633467539478</updated>
+    </task>
+    <task id="LOCAL-00308" summary="commit">
+      <created>1633467794833</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
+      <option name="project" value="LOCAL" />
+      <updated>1633467794833</updated>
+    </task>
+    <option name="localTasksCounter" value="309" />
     <servers />
   </component>
   <component name="TodoView">
@@ -733,6 +732,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="980" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.2125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -744,7 +744,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47261906" weight="0.35863587" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.485539" visible="true" weight="0.29262927" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.29262927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918568" weight="0.32943144" />
@@ -753,7 +753,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3278328" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52738094" side_tool="true" weight="0.35863587" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36677116" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" weight="0.31683168" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" visible="true" weight="0.31683168" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1287,17 +1287,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="4" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="49" column="129" lean-forward="true" selection-start-line="49" selection-start-column="129" selection-end-line="49" selection-end-column="129" />
         </state>
       </provider>
     </entry>

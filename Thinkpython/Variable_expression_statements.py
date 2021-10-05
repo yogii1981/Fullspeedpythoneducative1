@@ -1,13 +1,54 @@
-# Exercise 2.10
-print("Problem1")
-n = 42
-print(n)
+# # Exercise 2.10
+# print("Problem1")
+# n = 42
+# print(n)
+#
+# # print("Problem2")
+# # 42 = n
+# print(n)    # this will give error as integer can act like a variable name
 
-print("Problem2")
-42 = n
-print(n)
-
-print("Problem3")
+# print("Problem3")
 x = y = 1
 print(x)
 print(y)
+
+c = "xy"
+print(c)
+
+# Exercise 2.2
+# volume of sphere with radius 5
+import math
+
+radius = 5
+volume = (int(4 / 3) * math.pi * (radius) ** 3)
+print(volume)
+
+# def volofspehere(r):
+#     return ((4/3) * 3.14 * (r) ** 3)
+#
+# print(volofspehere(5))
+#
+#
+# # def area(a,b):
+# #     return ( a  * b)
+# #
+# # area(3,4)
+
+
+# Exercise 2.3
+cover_price = 24.95
+discount = 40 * (1 / 100)
+shipping_cost_first = 3
+subsequent_shipping_cost = 0.75
+numofbookordered = 60
+
+for numofbookordered in range(60):
+    if numofbookordered == 1:
+        totalwholesalecost = (cover_price * discount) + shipping_cost_first
+        print(totalwholesalecost)
+        numofbookordered += 1
+    else:
+        totalwholesalecost = (
+                    (numofbookordered * (cover_price * discount)) + ((numofbookordered - 1) * subsequent_shipping_cost))
+        print(totalwholesalecost)
+print(totalwholesalecost)
