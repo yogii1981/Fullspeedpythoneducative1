@@ -38,17 +38,18 @@ print(volume)
 # Exercise 2.3
 cover_price = 24.95
 discount = 40 * (1 / 100)
+afterdiscountpriceofbook = 24.95 * 0.6
 shipping_cost_first = 3
 subsequent_shipping_cost = 0.75
 numofbookordered = 60
 
-for numofbookordered in range(60):
+for numofbookordered in range(61):  # for
     if numofbookordered == 1:
-        totalwholesalecost = (cover_price * discount) + shipping_cost_first
+        totalwholesalecost = (afterdiscountpriceofbook + shipping_cost_first)
         print(totalwholesalecost)
         numofbookordered += 1
     else:
-        totalwholesalecost = (
-                    (numofbookordered * (cover_price * discount)) + ((numofbookordered - 1) * subsequent_shipping_cost))
+        totalwholesalecost = (numofbookordered * afterdiscountpriceofbook) + (
+                (numofbookordered - 1) * 0.75) + shipping_cost_first
         print(totalwholesalecost)
 print(totalwholesalecost)
