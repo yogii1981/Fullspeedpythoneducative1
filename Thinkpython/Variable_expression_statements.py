@@ -1,11 +1,13 @@
 # Exercise 2.10
-
-
 print("Problem1")
-print(n=42)
+n = 42
+print(n)
 
 print("Problem2")
-print(42 = n)
+42 = n
+print(n)
 
 print("Problem3")
-print(x=y = 1)
+x = y = 1
+print(x)
+print(y)
