@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
+    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/controlflowandbuiltinfunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/CrusingMassiveDatawithDictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/CrusingMassiveDatawithDictionary.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/CrusingMassiveDatawithDictionary.py">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -51,9 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/modules_function_overview.py" />
-        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Greatestcommondivisor.py" />
-        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/sine_cosine_tan.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/compute_returnmax.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Checknumberdivisiblebyanother.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Recursion.py" />
@@ -94,7 +92,6 @@
         <option value="$PROJECT_DIR$/Bite_size python/stringtest.py" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap2_Datatypes" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap3_Datavariables" />
-        <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_Tech_ED_Academy/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Chap9_loopsinpython" />
@@ -102,6 +99,10 @@
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/cruisingmassivedatawithdictionary.py" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Advance_loop.py" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/CrusingMassiveDatawithDictionary.py" />
+        <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures" />
+        <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Controlflow_builtinfunction.py" />
+        <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/controlflowandbuiltinfunction.py" />
+        <option value="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" />
       </list>
     </option>
   </component>
@@ -127,13 +128,7 @@
             <path>
               <item name="Fullspeedpythoneducative2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fullspeedpythoneducative2" type="462c0819:PsiDirectoryNode" />
-              <item name="Pythonprog_4in1_AndrewPark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fullspeedpythoneducative2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fullspeedpythoneducative2" type="462c0819:PsiDirectoryNode" />
-              <item name="Pythonprog_4in1_AndrewPark" type="462c0819:PsiDirectoryNode" />
-              <item name="Learn_coding_prog_beginner_4in1" type="462c0819:PsiDirectoryNode" />
+              <item name="Thinkpython" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CrusingMassiveDatawithDictionary">
+  <component name="RunManager" selected="Python.Variable_expression_statements">
     <configuration name="Advance_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,48 +188,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Advance_loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Chap3_Datavariables" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Chap3_Datavariables" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Chap9_loopsinpython" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Chap9_loopsinpython" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,6 +224,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Speed_along_lists_tuples_pythonallinone_chap3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Variable_expression_statements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Thinkpython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,6 +313,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="controlflowandbuiltinfunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/controlflowandbuiltinfunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="kagglefunctiontutorial" type="PythonConfigurationType" factoryName="Python">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -365,11 +357,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Variable_expression_statements" />
+        <item itemvalue="Python.controlflowandbuiltinfunction" />
         <item itemvalue="Python.CrusingMassiveDatawithDictionary" />
         <item itemvalue="Python.Advance_loop" />
         <item itemvalue="Python.Speed_along_lists_tuples_pythonallinone_chap3" />
-        <item itemvalue="Python.Chap9_loopsinpython" />
-        <item itemvalue="Python.chap_8_prog_floq_if_else,elif" />
       </list>
     </recent_temporary>
   </component>
@@ -383,20 +375,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00256" summary="commit">
-      <created>1625550629220</created>
-      <option name="number" value="00256" />
-      <option name="presentableId" value="LOCAL-00256" />
-      <option name="project" value="LOCAL" />
-      <updated>1625550629220</updated>
-    </task>
-    <task id="LOCAL-00257" summary="commit">
-      <created>1625551114241</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
-      <option name="project" value="LOCAL" />
-      <updated>1625551114241</updated>
     </task>
     <task id="LOCAL-00258" summary="commit">
       <created>1626135891151</created>
@@ -727,7 +705,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633055699787</updated>
     </task>
-    <option name="localTasksCounter" value="305" />
+    <task id="LOCAL-00305" summary="commit">
+      <created>1633273083563</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1633273083563</updated>
+    </task>
+    <task id="LOCAL-00306" summary="commit">
+      <created>1633303400899</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1633303400901</updated>
+    </task>
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="TodoView">
@@ -741,9 +733,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="980" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.2125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.2125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" weight="0.32971668" />
       <window_info id="Favorites" order="3" sideWeight="0.6" side_tool="true" weight="0.2125" />
@@ -752,17 +743,17 @@
       <window_info active="true" anchor="bottom" id="SVN Repositories" weight="0.32893288" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47326908" weight="0.35863587" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.29362592" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47261906" weight="0.35863587" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.485539" visible="true" weight="0.29262927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49918568" weight="0.32943144" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3278328" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52673095" side_tool="true" weight="0.35970148" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52738094" side_tool="true" weight="0.35863587" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36677116" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" visible="true" weight="0.31683168" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" weight="0.31683168" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -975,27 +966,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/modules_function_overview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/SumofFirst_N_natutalnumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Fibonnaci_Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/definefunction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1230,13 +1200,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23307">
-          <caret line="1372" column="47" selection-start-line="1372" selection-start-column="47" selection-end-line="1372" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commit.patch">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3659">
@@ -1262,13 +1225,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="626">
           <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -1309,8 +1265,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/CrusingMassiveDatawithDictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        <state relative-caret-position="484">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Controlflow_builtinfunction.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/chap5_DataStructures">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="1449" column="14" lean-forward="true" selection-start-line="1449" selection-start-column="14" selection-end-line="1449" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/controlflowandbuiltinfunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="73" column="33" lean-forward="true" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="4" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
