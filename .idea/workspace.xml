@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
+    <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Thinkpython/Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py">
+        <entry file="file://$PROJECT_DIR$/Thinkpython/Functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+            <state relative-caret-position="480">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -51,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/compute_returnmax.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Checknumberdivisiblebyanother.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Recursion.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Factorial_Recursion.py" />
@@ -102,6 +101,7 @@
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/Controlflow_builtinfunction.py" />
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/controlflowandbuiltinfunction.py" />
         <option value="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" />
+        <option value="$PROJECT_DIR$/Thinkpython/Functions.py" />
       </list>
     </option>
   </component>
@@ -175,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Variable_expression_statements">
+  <component name="RunManager" selected="Python.Functions">
     <configuration name="Advance_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,6 +209,27 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/CrusingMassiveDatawithDictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Thinkpython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thinkpython/Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -293,27 +314,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chap_8_prog_floq_if_else,elif" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Learn_coding_prog_beginner_4in1/chap_8_prog_floq_if_else,elif" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="controlflowandbuiltinfunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Functions" />
         <item itemvalue="Python.Variable_expression_statements" />
         <item itemvalue="Python.controlflowandbuiltinfunction" />
         <item itemvalue="Python.CrusingMassiveDatawithDictionary" />
         <item itemvalue="Python.Advance_loop" />
-        <item itemvalue="Python.Speed_along_lists_tuples_pythonallinone_chap3" />
       </list>
     </recent_temporary>
   </component>
@@ -376,13 +376,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00263" summary="commit">
-      <created>1628711005603</created>
-      <option name="number" value="00263" />
-      <option name="presentableId" value="LOCAL-00263" />
-      <option name="project" value="LOCAL" />
-      <updated>1628711005603</updated>
     </task>
     <task id="LOCAL-00264" summary="commit">
       <created>1628756317573</created>
@@ -720,7 +713,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633474363017</updated>
     </task>
-    <option name="localTasksCounter" value="312" />
+    <task id="LOCAL-00312" summary="commit">
+      <created>1633484440352</created>
+      <option name="number" value="00312" />
+      <option name="presentableId" value="LOCAL-00312" />
+      <option name="project" value="LOCAL" />
+      <updated>1633484440352</updated>
+    </task>
+    <option name="localTasksCounter" value="313" />
     <servers />
   </component>
   <component name="TodoView">
@@ -745,7 +745,7 @@
       <window_info active="true" anchor="bottom" id="SVN Repositories" weight="0.32893288" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47261906" weight="0.35863587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47261906" visible="true" weight="0.35863587" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.29262927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -755,7 +755,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3278328" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52738094" side_tool="true" weight="0.35863587" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36677116" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" visible="true" weight="0.31683168" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" weight="0.31683168" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -968,13 +968,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/definefunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/recursionexample2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1298,8 +1291,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        <state relative-caret-position="518">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thinkpython/Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
         </state>
       </provider>
     </entry>
