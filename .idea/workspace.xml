@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="49" column="129" lean-forward="true" selection-start-line="49" selection-start-column="129" selection-end-line="49" selection-end-column="129" />
+            <state relative-caret-position="399">
+              <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -140,15 +140,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Bite_size python" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
     <property name="settings.editor.splitter.proportion" value="0.520751" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings sdk-home="/usr/local/bin/python3.7">
+      <console-settings module-name="Fullspeedpythoneducative" sdk-home="/usr/local/bin/python3.7">
         <option name="mySdkHome" value="/usr/local/bin/python3.7" />
+        <option name="myModuleName" value="Fullspeedpythoneducative" />
       </console-settings>
     </option>
+    <option name="myUseExistingConsole" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -374,27 +376,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00260" summary="commit">
-      <created>1626140545530</created>
-      <option name="number" value="00260" />
-      <option name="presentableId" value="LOCAL-00260" />
-      <option name="project" value="LOCAL" />
-      <updated>1626140545530</updated>
-    </task>
-    <task id="LOCAL-00261" summary="commit">
-      <created>1628223614649</created>
-      <option name="number" value="00261" />
-      <option name="presentableId" value="LOCAL-00261" />
-      <option name="project" value="LOCAL" />
-      <updated>1628223614650</updated>
-    </task>
-    <task id="LOCAL-00262" summary="commit">
-      <created>1628223656501</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1628223656502</updated>
     </task>
     <task id="LOCAL-00263" summary="commit">
       <created>1628711005603</created>
@@ -718,7 +699,28 @@
       <option name="project" value="LOCAL" />
       <updated>1633467794833</updated>
     </task>
-    <option name="localTasksCounter" value="309" />
+    <task id="LOCAL-00309" summary="commit">
+      <created>1633473379937</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
+      <option name="project" value="LOCAL" />
+      <updated>1633473379937</updated>
+    </task>
+    <task id="LOCAL-00310" summary="commit">
+      <created>1633473411965</created>
+      <option name="number" value="00310" />
+      <option name="presentableId" value="LOCAL-00310" />
+      <option name="project" value="LOCAL" />
+      <updated>1633473411965</updated>
+    </task>
+    <task id="LOCAL-00311" summary="commit">
+      <created>1633474363017</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1633474363017</updated>
+    </task>
+    <option name="localTasksCounter" value="312" />
     <servers />
   </component>
   <component name="TodoView">
@@ -734,7 +736,7 @@
     <frame x="0" y="23" width="1680" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.2125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.17142858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" weight="0.32971668" />
       <window_info id="Favorites" order="3" sideWeight="0.6" side_tool="true" weight="0.2125" />
@@ -1296,8 +1298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="49" column="129" lean-forward="true" selection-start-line="49" selection-start-column="129" selection-end-line="49" selection-end-column="129" />
+        <state relative-caret-position="399">
+          <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
         </state>
       </provider>
     </entry>
