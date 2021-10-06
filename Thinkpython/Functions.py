@@ -39,11 +39,18 @@ print(print_lyrics())
 print_lyrics()
 
 print()
-
-
 def repeat_lyrics():
     print_lyrics()
     print_lyrics()
-
-
 repeat_lyrics()
+
+# Parameters and arguments
+print()
+
+
+def print_twice(bruce):
+    print(bruce)
+    print(bruce)
+
+
+print_twice('radhika')
