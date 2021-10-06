@@ -48,9 +48,13 @@ repeat_lyrics()
 print()
 
 
-def print_twice(bruce):
+def print_twice(bruce):  # Inside the function arguments are assigned to a parameter named bruce
     print(bruce)
     print(bruce)
 
 
 print_twice('radhika')
+
+print_twice(12)
+
+print_twice('Rads' * 2)
