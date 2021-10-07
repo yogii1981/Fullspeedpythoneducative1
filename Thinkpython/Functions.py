@@ -53,8 +53,35 @@ def print_twice(bruce):  # Inside the function arguments are assigned to a param
     print(bruce)
 
 
-print_twice('radhika')
+# print_twice('radhika')
+#
+# print_twice(12)
+#
+# print_twice('Rads' * 2)
 
-print_twice(12)
 
-print_twice('Rads' * 2)
+# Variables and parameters are local
+print()
+
+line1 = 'bing ding '
+line2 = "tindle kindle"
+
+
+def print_twice(bruce):  # Inside the function arguments are assigned to a parameter named bruce
+    print(bruce)
+    print(bruce)
+
+
+def cat_twice(part1, part2):
+    cat = part1 + part2
+    print_twice(cat)
+
+
+cat_twice(line1, line2)
+
+# Fruitful Functions and Void functions
+print()
+print("function which doesn't bring result is called void function like print_twice")
+print("functipon which brings result is called fruitful functions like cat_twice")
+
+print()
