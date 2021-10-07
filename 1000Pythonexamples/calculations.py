@@ -71,3 +71,17 @@ def main():
 
 
 main()
+
+
+# *** conditionals if ***
+
+def main():
+    expected_answer = "42"
+    inp = input("What is the answer:")
+    if inp == expected_answer:
+        print("Welcome to Caba!")
+    else:
+        print("Go back")
+
+
+main()
