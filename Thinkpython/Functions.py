@@ -85,3 +85,8 @@ print("function which doesn't bring result is called void function like print_tw
 print("functipon which brings result is called fruitful functions like cat_twice")
 
 print()
+
+import math
+
+x = math.cos(radians)
+golden = (math.sqrt(5) + 1) / 2

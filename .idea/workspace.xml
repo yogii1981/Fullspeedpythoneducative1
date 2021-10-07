@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1000Pythonexamples/Exercise_1_helloworld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thinkpython/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Thinkpython/Functions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Thinkpython/Functions.py">
+        <entry file="file://$PROJECT_DIR$/1000Pythonexamples/Exercise_1_helloworld.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+            <state relative-caret-position="17">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -50,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Checknumberdivisiblebyanother.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Recursion.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/Factorial_Recursion.py" />
         <option value="$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/SumofFirst_N_natutalnumbers.py" />
@@ -101,10 +102,11 @@
         <option value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/controlflowandbuiltinfunction.py" />
         <option value="$PROJECT_DIR$/Thinkpython/Variable_expression_statements.py" />
         <option value="$PROJECT_DIR$/Thinkpython/Functions.py" />
+        <option value="$PROJECT_DIR$/1000Pythonexamples/Exercise_1_helloworld.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="980" />
@@ -126,7 +128,7 @@
             <path>
               <item name="Fullspeedpythoneducative2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fullspeedpythoneducative2" type="462c0819:PsiDirectoryNode" />
-              <item name="Thinkpython" type="462c0819:PsiDirectoryNode" />
+              <item name="1000Pythonexamples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,28 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Functions">
-    <configuration name="Advance_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fullspeedpythoneducative" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/Advance_loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercise_1_helloworld">
     <configuration name="CrusingMassiveDatawithDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fullspeedpythoneducative" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,6 +189,27 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pythonprog_4in1_AndrewPark/CrusingMassiveDatawithDictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise_1_helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fullspeedpythoneducative" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1000Pythonexamples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1000Pythonexamples/Exercise_1_helloworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -357,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise_1_helloworld" />
         <item itemvalue="Python.Functions" />
         <item itemvalue="Python.Variable_expression_statements" />
         <item itemvalue="Python.controlflowandbuiltinfunction" />
         <item itemvalue="Python.CrusingMassiveDatawithDictionary" />
-        <item itemvalue="Python.Advance_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -375,27 +377,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00265" summary="commit">
-      <created>1628757946432</created>
-      <option name="number" value="00265" />
-      <option name="presentableId" value="LOCAL-00265" />
-      <option name="project" value="LOCAL" />
-      <updated>1628757946432</updated>
-    </task>
-    <task id="LOCAL-00266" summary="commit">
-      <created>1628759377143</created>
-      <option name="number" value="00266" />
-      <option name="presentableId" value="LOCAL-00266" />
-      <option name="project" value="LOCAL" />
-      <updated>1628759377143</updated>
-    </task>
-    <task id="LOCAL-00267" summary="commit">
-      <created>1629166268192</created>
-      <option name="number" value="00267" />
-      <option name="presentableId" value="LOCAL-00267" />
-      <option name="project" value="LOCAL" />
-      <updated>1629166268192</updated>
     </task>
     <task id="LOCAL-00268" summary="commit">
       <created>1629186659160</created>
@@ -719,7 +700,28 @@
       <option name="project" value="LOCAL" />
       <updated>1633529173554</updated>
     </task>
-    <option name="localTasksCounter" value="314" />
+    <task id="LOCAL-00314" summary="commit">
+      <created>1633529443026</created>
+      <option name="number" value="00314" />
+      <option name="presentableId" value="LOCAL-00314" />
+      <option name="project" value="LOCAL" />
+      <updated>1633529443026</updated>
+    </task>
+    <task id="LOCAL-00315" summary="commit">
+      <created>1633529570426</created>
+      <option name="number" value="00315" />
+      <option name="presentableId" value="LOCAL-00315" />
+      <option name="project" value="LOCAL" />
+      <updated>1633529570426</updated>
+    </task>
+    <task id="LOCAL-00316" summary="commit">
+      <created>1633575208556</created>
+      <option name="number" value="00316" />
+      <option name="presentableId" value="LOCAL-00316" />
+      <option name="project" value="LOCAL" />
+      <updated>1633575208558</updated>
+    </task>
+    <option name="localTasksCounter" value="317" />
     <servers />
   </component>
   <component name="TodoView">
@@ -732,7 +734,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="980" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="980" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.17142858" />
@@ -967,13 +969,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/Modules&amp;Functions/recursionexample2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Educativeio/FULLSPEEDPYTHON/ierations_loops/for_loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
@@ -1297,8 +1292,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Thinkpython/Functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        <state relative-caret-position="548">
+          <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1000Pythonexamples/Exercise_1_helloworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
