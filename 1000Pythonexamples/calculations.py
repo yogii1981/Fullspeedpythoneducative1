@@ -55,3 +55,19 @@ print(sumofinteger(3, 4))
 print(diffferenceofinteger(3, 4))
 print(multiplicationofinteger(3, 4))
 print(divisionofinteger(3, 4))
+
+# Approach2#
+print()
+print("Approach 2")
+
+
+def main():
+    a = input("First Integer:")
+    b = input("Second Integer:")
+    print("The sum of two integer is", int(a) + int(b))
+    print("The difference of two integer is", int(a) - int(b))
+    print("The product of two integer is", int(a) * int(b))
+    print("The division of two integer is", int(a) / int(b))
+
+
+main()
