@@ -84,4 +84,20 @@ def main():
         print("Go back")
 
 
+# conditionals: elif
+
+def main2():
+    a = input('First number:')
+    b = input('Second number:')
+    if a == b:
+        print('They are equal')
+    elif int(a) > int(b):
+        print('First number is greater than Second')
+    else:
+        print('Second Number is greater than First')
+
+
+main2()
+
+
 main()
