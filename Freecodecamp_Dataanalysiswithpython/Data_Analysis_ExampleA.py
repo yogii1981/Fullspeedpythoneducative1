@@ -20,3 +20,10 @@ print(sales.describe())
 
 # Let us know the number of rows and columns
 print(sales.shape)
+
+## Numerical Analysis and visualization##
+# we will analyze the column "Unit_Cost"
+print(sales['Unit_Cost'].describe())
+
+# displays the mean of the column of Unit_Cost
+print(sales['Unit_Cost'].mean())
