@@ -37,4 +37,8 @@ plt.show()
 
 # print(sales['Unit_Cost'].plot(kind='box', vert = False, figsize = (14,6)))
 
-# print(sales['Unit_Cost'].plot(kind='density', vert = False, figsize = (14,6))) #kde
+# print(sales['Unit_Cost'].plot(kind='density', vert = False, figsize = (14,6))) #kde'
+
+# help in show casing all the columns if describe funtion didn't show all the columns summary earlier
+with pd.option_context('display.max_columns', 100):
+    print(sales.describe)
