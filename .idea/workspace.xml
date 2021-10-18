@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ac9138-e859-4c91-b251-474717cf938d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Freecodecamp_Dataanalysiswithpython/Data_Analysis_ExampleA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1000Pythonexamples/calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/1000Pythonexamples/calculations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Freecodecamp_Dataanalysiswithpython/Data_Analysis_ExampleA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Freecodecamp_Dataanalysiswithpython/Data_Analysis_ExampleA.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +24,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Freecodecamp_Dataanalysiswithpython/Data_Analysis_ExampleA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="51">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="17" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1634566107497" expanded="true" signature="407:410" ph="..." />
               </folding>
             </state>
           </provider>
@@ -149,7 +149,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Bite_size python" />
-    <property name="settings.editor.selected.configurable" value="pyconsole" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.520751" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -388,20 +388,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
-    </task>
-    <task id="LOCAL-00273" summary="commit">
-      <created>1629379461274</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1629379461274</updated>
-    </task>
-    <task id="LOCAL-00274" summary="commit">
-      <created>1629381205165</created>
-      <option name="number" value="00274" />
-      <option name="presentableId" value="LOCAL-00274" />
-      <option name="project" value="LOCAL" />
-      <updated>1629381205165</updated>
     </task>
     <task id="LOCAL-00275" summary="commit">
       <created>1629936117188</created>
@@ -732,7 +718,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633643554690</updated>
     </task>
-    <option name="localTasksCounter" value="322" />
+    <task id="LOCAL-00322" summary="commit">
+      <created>1634562275366</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1634562275370</updated>
+    </task>
+    <task id="LOCAL-00323" summary="commit">
+      <created>1634562690668</created>
+      <option name="number" value="00323" />
+      <option name="presentableId" value="LOCAL-00323" />
+      <option name="project" value="LOCAL" />
+      <updated>1634562690668</updated>
+    </task>
+    <option name="localTasksCounter" value="324" />
     <servers />
   </component>
   <component name="TodoView">
@@ -746,7 +746,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="980" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.17142858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -757,7 +756,7 @@
       <window_info active="true" anchor="bottom" id="SVN Repositories" weight="0.32893288" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47261906" visible="true" weight="0.35643566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47261906" visible="true" weight="0.420242" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.29262927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1294,10 +1293,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Freecodecamp_Dataanalysiswithpython/Data_Analysis_ExampleA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="17" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1634566107497" expanded="true" signature="407:410" ph="..." />
           </folding>
         </state>
       </provider>
