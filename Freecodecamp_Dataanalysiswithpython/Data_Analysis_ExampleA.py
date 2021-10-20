@@ -42,3 +42,20 @@ plt.show()
 # help in show casing all the columns if describe function didn't show all the columns summary earlier
 with pd.option_context('display.max_columns', 100):
     print(sales.describe)
+
+# create density plot
+# print(plt.hist(sales['Unit_Cost'], color = 'red', edgecolor = 'black', bins = 10))
+
+# count the values
+print(sales['Age_Group'].value_counts())
+
+# create pie chart
+my_labels = ['Adults (35-64)', 'Young Adults (25 -34', 'Youth (<25)', 'Seniors (64+)']
+
+# plt.pie(sales, labels = my_labels, autopct= '% 1.1f%%')
+# plt.title('My Title')
+# plt.axis('equal')
+# plt.show()
+
+# boxplot_cols = ['Year', 'Customer_Age']
+# sales[boxplot_cols].plot(kind = 'box', subplots = True, figsize = (14,8))

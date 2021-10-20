@@ -101,3 +101,81 @@ main2()
 
 
 main()
+
+# Modules
+import sys
+
+print(sys.executable)
+
+
+# A Main Function
+def main():
+    print("Hello")
+    print("Hello")
+
+
+print("before")
+main()
+print("after")
+
+
+# Conditional Main
+
+def main():
+    print("Hello World")
+
+
+if_name_ == "_main_":
+main()
+
+# Conditionals: If - else
+
+
+print("Example1")
+
+
+def main():
+    expected_answer = 42
+    inp = int(input("What is the answer?"))
+
+    if inp == expected_answer:
+        print("Welcome to the club")
+    else:
+        print("Membership not found")
+
+
+main()
+
+print("Example2")
+
+
+def main():
+    a = input("First number:")
+    b = input("Second Number:")
+
+    if int(b) == 0:
+        print("Cannot divide by 0")
+    else:
+        print("Diving", a, "by", b)
+        print(int(a) / int(b))
+
+
+main()
+
+
+# Conditionals: If else
+
+def main():
+    a = input('First number:')
+    b = input('Second number:')
+
+    if a == b:
+        print("Two inputs are equal")
+    else:
+        if int(a) > int(b):
+            print(a + " is bigger than" + b)
+        else:
+            print(a + " is smaller than" + b)
+
+
+main()
