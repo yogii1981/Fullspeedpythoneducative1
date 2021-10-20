@@ -199,7 +199,7 @@ main()
 
 
 # Write a script that accepts 3 numbers and an operator (+,-,/,*), and prints the result of the operations
-
+print("Option-A")
 def calc():
     a = float(input("Enter an integer:"))
     b = float(input("Enter another integer:"))
@@ -221,3 +221,46 @@ def calc():
 
 
 calc()
+
+print("Option-B")
+
+
+def calc():
+    a = input("Number1:")
+    b = input("Number2:")
+    op = input("Operator(+-*/):")
+    command = a + op + b
+    print(command)
+    res = eval(command)
+    print(res)
+    return
+
+
+calc()
+
+# Pseudo random number
+import random
+
+a = random.random()
+print(a)
+
+# Fixed random number
+random.seed(37)
+a = random.random()
+print(a)
+
+# print out the random number - rolling dice - rand range
+
+import random
+
+print(1 + int(6 * random.random()))
+print(random.randrange(1, 7))
+
+# Random Choice- randomly pic from the choice provided
+import random
+
+letters = "abcdfehsfkgflsfsdgah"
+print(random.choice(letters))  # pick one of the letters
+
+fruits = ["Apple", "Banana", "Citrus", "Durian", "elderberry"]
+print(random.choice(fruits))
