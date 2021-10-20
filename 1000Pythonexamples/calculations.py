@@ -188,7 +188,7 @@ main()
 def main():
     length = int(input("Enter the length of the rectangle:"))
     width = int(input("Enter the width of the rectangle"))
-    if length > 0 or width > 0:
+    if length >= 0 or width >= 0:
         area_of_the_rectangle = int(length * width)
         print(area_of_the_rectangle, "square meter")
     else:
