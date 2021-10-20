@@ -264,3 +264,16 @@ print(random.choice(letters))  # pick one of the letters
 
 fruits = ["Apple", "Banana", "Citrus", "Durian", "elderberry"]
 print(random.choice(fruits))
+
+# Pick random whole number 1 to 20
+# user will guess number
+# computer let user know whether the guess number is greater or smaller than random generated number
+import random
+
+a = random.randrange(1, 20)
+inp = int(input("Enter a guess number between 1 to 20:"))
+if a < inp:
+    print("Guessed number is greater than random generated number")
+else:
+    print("Guessed number is smaller than random generated number")
+print(a, "is a random generated number")
