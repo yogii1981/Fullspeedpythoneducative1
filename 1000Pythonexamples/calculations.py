@@ -196,3 +196,28 @@ def main():
 
 
 main()
+
+
+# Write a script that accepts 3 numbers and an operator (+,-,/,*), and prints the result of the operations
+
+def calc():
+    a = float(input("Enter an integer:"))
+    b = float(input("Enter another integer:"))
+    op = input("Operator (+-*?/):")
+
+    if op == '+':
+        res = a + b
+    elif op == "-":
+        res = a - b
+    elif op == "*":
+        res = a * b
+    elif op == "/":
+        res = a / b
+    else:
+        print("Invalid operator:'{}'".format(op))
+
+    print(res)
+    return
+
+
+calc()
