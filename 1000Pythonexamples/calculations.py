@@ -270,10 +270,20 @@ print(random.choice(fruits))
 # computer let user know whether the guess number is greater or smaller than random generated number
 import random
 
-a = random.randrange(1, 20)
-inp = int(input("Enter a guess number between 1 to 20:"))
+a = random.randrange(1, 21)
+inp = int(input("Enter a guess number between 1 to 21:"))
 if a < inp:
     print("Guessed number is greater than random generated number")
-else:
+elif a > inp:
     print("Guessed number is smaller than random generated number")
+elif a == inp:
+    print("You guessed it right!")
+elif inp < 1 or inp > 21:
+    print(" The number is out of range")
 print(a, "is a random generated number")
+
+# exercise to select 3 random fruits which should be unique
+
+fruits = ['apple', 'banana', 'peach', 'orange', 'durian', 'papaya']
+salad = random.sample(fruits, 3)
+print(salad)
