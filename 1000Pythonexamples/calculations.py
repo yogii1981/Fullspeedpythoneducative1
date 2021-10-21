@@ -181,7 +181,7 @@ def main():
 main()
 
 
-# Write a scropt that will ask for the sides of the rectangle and print out the area
+# Write a scrpt that will ask for the sides of the rectangle and print out the area
 # provide error messages if either of the sides is negative.
 
 
