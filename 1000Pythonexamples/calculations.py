@@ -317,3 +317,22 @@ World"""
 print("Length of text1:", len(text1))
 
 print("Length of text2:", len(text2))
+
+# string repitition and concatentation
+name = 2 * "Jar"
+print(name)
+
+full_name = name + "Binks"
+print(full_name)
+
+# Write a script that accept two strings and tells if one of them can eb found in the other and where?
+
+sub1 = input("Enter the script1:")
+sub2 = input("Enter the script2:")
+
+if sub1 in sub2:
+    print(sub2.index(sub1))
+elif sub2 in sub1:
+    print(sub1.index(sub2))
+else:
+    print("Neither of them found in each other")

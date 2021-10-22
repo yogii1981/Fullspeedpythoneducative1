@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1000Pythonexamples/calculations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4862">
-              <caret line="286" selection-start-line="286" selection-end-line="288" selection-end-column="12" />
+            <state relative-caret-position="467">
+              <caret line="330" column="11" lean-forward="true" selection-start-line="329" selection-end-line="337" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -398,20 +398,6 @@
       <option name="presentableId" value="Default" />
       <updated>1584068898875</updated>
     </task>
-    <task id="LOCAL-00285" summary="commit">
-      <created>1632450754920</created>
-      <option name="number" value="00285" />
-      <option name="presentableId" value="LOCAL-00285" />
-      <option name="project" value="LOCAL" />
-      <updated>1632450754920</updated>
-    </task>
-    <task id="LOCAL-00286" summary="commit">
-      <created>1632450763272</created>
-      <option name="number" value="00286" />
-      <option name="presentableId" value="LOCAL-00286" />
-      <option name="project" value="LOCAL" />
-      <updated>1632450763272</updated>
-    </task>
     <task id="LOCAL-00287" summary="commit">
       <created>1632452308818</created>
       <option name="number" value="00287" />
@@ -741,7 +727,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634766386066</updated>
     </task>
-    <option name="localTasksCounter" value="334" />
+    <task id="LOCAL-00334" summary="commit">
+      <created>1634785159811</created>
+      <option name="number" value="00334" />
+      <option name="presentableId" value="LOCAL-00334" />
+      <option name="project" value="LOCAL" />
+      <updated>1634785159825</updated>
+    </task>
+    <task id="LOCAL-00335" summary="commit">
+      <created>1634872383526</created>
+      <option name="number" value="00335" />
+      <option name="presentableId" value="LOCAL-00335" />
+      <option name="project" value="LOCAL" />
+      <updated>1634872383527</updated>
+    </task>
+    <option name="localTasksCounter" value="336" />
     <servers />
   </component>
   <component name="TodoView">
@@ -755,7 +755,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="980" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.17142858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -766,7 +765,7 @@
       <window_info active="true" anchor="bottom" id="SVN Repositories" weight="0.32893288" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47261906" visible="true" weight="0.42134213" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47261906" weight="0.42134213" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.485539" weight="0.29262927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -776,7 +775,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3278328" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.52738094" side_tool="true" weight="0.35863587" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49635038" weight="0.36677116" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" weight="0.31683168" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4811569" visible="true" weight="0.31683168" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49968132" weight="0.3464567" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1310,8 +1309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1000Pythonexamples/calculations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4862">
-          <caret line="286" selection-start-line="286" selection-end-line="288" selection-end-column="12" />
+        <state relative-caret-position="467">
+          <caret line="330" column="11" lean-forward="true" selection-start-line="329" selection-end-line="337" selection-end-column="48" />
         </state>
       </provider>
     </entry>
