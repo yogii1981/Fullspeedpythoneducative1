@@ -34,3 +34,13 @@ for c in txt:
     print(c)
 
 print("Program1 print a space between 'hello and 'world' but program 5 doesn't ")
+
+# for in loop with break and continue
+txt = 'hello world'
+for cr in txt:
+    if cr == ' ':
+        continue
+    if cr == 'r':
+        break
+    print(cr)
+print('Done')
